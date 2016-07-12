@@ -11,6 +11,8 @@ O registro de residência (chamado de Anmeldung) é uma das etapas mais importan
 - Passaporte (ou Passaportes, no caso de registro de mais de uma pessoa)
 - Contrato de aluguel/sublocação OU carta da pessoa que está te hospedando
 - Preencher o formulário de residência (Anmeldungsformular)
+  - [Download do formulário em inglês](https://raw.githubusercontent.com/marlonbernardes/hello-berlin/files/anmeldung_en.pdf)
+  - [Download do formulário em alemão](https://raw.githubusercontent.com/marlonbernardes/hello-berlin/files/anmeldung_de.pdf)
 - Casais devem levar certidão de casamento acompanhada de tradução juramentada (ver dicas gerais)
 - Paciência
 
