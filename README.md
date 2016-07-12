@@ -10,7 +10,7 @@ O registro de residência (chamado de Anmeldung) é uma das etapas mais importan
 **O que preciso para fazer meu registro de residência?**
 - Passaporte (ou Passaportes, no caso de registro de mais de uma pessoa)
 - Contrato de aluguel/sublocação OU carta da pessoa que está te hospedando
-- Preencher o formulário de residência (Anmeldungsformular)
+- Preencher o formulário de residência (Anmeldungsformular). Eu utilizei o formulário em inglês quando fiz meu registro.
   - [Download do formulário em inglês](https://github.com/marlonbernardes/hello-berlin/raw/master/files/anmeldung_en.pdf)
   - [Download do formulário em alemão](https://github.com/marlonbernardes/hello-berlin/raw/master/files/anmeldung_de.pdf)
 - Casais devem levar certidão de casamento acompanhada de tradução juramentada (ver dicas gerais)
@@ -18,7 +18,25 @@ O registro de residência (chamado de Anmeldung) é uma das etapas mais importan
 
 **Como preencher o formulário de residência?**
 
-TBD
+Abaixo um exemplo de formulário preenchido seguido de explicações:
+![anmeldungsformular (english)](https://cloud.githubusercontent.com/assets/2975955/16777113/9b445a1e-4868-11e6-8fc0-3abd4dc6251d.png)
+
+1. Data (formato `dd.mm.yy`) que indica desde quando você mora neste endereço.  
+2. Nome da rua, número da casa e andar (em caso de prédios)
+3. Postal code 
+4. Endereço antigo (caso seja o primeiro registro na Alemanha, preencha com o endereço antigo no Brasil - esqueci de preencher no formulário de exemplo, mas você deve preencher)
+5. Nome que aparece na sua caixa de correio - só precisa preencher se a caixa de correio tiver o sobrenome/nome de outra pessoa.
+6. Não faço ideia, haha . Deixei em branco. (pull requests explicando esse campo são bem-vindos)
+7. Auto-explicativo. Basicamente marque "no" se não tiver nenhum outro endereço na Alemanha.
+8. Note o identificador da linha (Lfd Nr.). Em cada uma das 4 tabelas deste formulário, a ordem das pessoas que estão sendo registradas deve ser a mesma. Em outras palavras: no exemplo acima, o *Lfd. Nr. 1* sempre se refere ao Pedro Alvares Cabral, enquanto o *Lfd. Nr 2* a Fulana Ciclana Beltrana.
+9. É possível registrar até 4 pessoas com o mesmo formulário. Neste exemplo, estou registrando um casal no mesmo endereço.
+10. Utilizado caso uma das pessoas tenha trocado de nome em algum momento da vida (ex. após o casamento)
+11. **Importante** Caso você preencha a religião, você precisará pagar a Taxa da Igreja (Church Tax), um valor de 8 ou 9% em cima do seu income tax (como exemplo, quem recebe um salário de €5.000,00 bruto paga entre ~€53 e ~ €95 de taxa de igreja, dependendo da categoria de imposto (more on this later)). Para não pagar essa taxa, umas das formas é deixar o campo em branco.
+12. Deixe em branco, caso não tenha essa informação (dica: primeira vez se registrando na Alemanha? Então você ainda não tem! :)). Note que marquei que a pessoa *Lfd. Nr.1* (Pedro Alvares Cabral) está empregada, enquanto a pessoa **Lfd. Nr. 2** não está.
+13. Preencha APENAS se você tiver uma esposa/marido/parceiro/parceira e a pessoa NÃO estiver morando com você (ex.: um dos membros do casal ficou no Brasil enquanto o outro veio trabalhar aqui)
+14. Informações contidas no passaporte. 
+15. Data atual (`dd.mm.yy`) e assinatura. 
+
 
 **Como fazer o registro?**
 
@@ -39,6 +57,7 @@ TBD
 **Dicas gerais**
 
  - A certidão de casamento não é um documento obrigatório. No entanto, recomendo que seja levada, pois já foi solicitada para alguns brasileiros no momento do registro.
+ 
  
 
 ## Sobre o transporte público
