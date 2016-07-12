@@ -31,7 +31,7 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
 8. Note o identificador da linha (Lfd Nr.). Em cada uma das 4 tabelas deste formulário, a ordem das pessoas que estão sendo registradas deve ser a mesma. Em outras palavras: no exemplo acima, o *Lfd. Nr. 1* sempre se refere ao Pedro Alvares Cabral, enquanto o *Lfd. Nr 2* a Fulana Ciclana Beltrana.
 9. É possível registrar até 4 pessoas com o mesmo formulário. Neste exemplo, estou registrando um casal no mesmo endereço.
 10. Utilizado caso uma das pessoas tenha trocado de nome em algum momento da vida (ex. após o casamento)
-11. **Importante** Caso você preencha a religião, você precisará pagar a Taxa da Igreja (Church Tax), um valor de 8 ou 9% em cima do seu income tax (como exemplo, quem recebe um salário de €5.000,00 bruto paga entre ~€53 e ~ €95 de taxa de igreja, dependendo da categoria de imposto (more on this later)). Para não pagar essa taxa, umas das formas é deixar o campo em branco.
+11. **Importante** Caso você preencha a religião, você precisará pagar a Taxa da Igreja (Church Tax), um valor de 8-9% em cima do seu income tax (como exemplo, quem recebe um salário de €5.000,00 bruto paga algo entre ~€53 e €95 de taxa de igreja, dependendo da categoria de imposto (more on this later)). Para não pagar essa taxa, umas das formas é deixar o campo em branco.
 12. Deixe em branco, caso não tenha essa informação (dica: primeira vez se registrando na Alemanha? Então você ainda não tem! :)). Note que marquei que a pessoa *Lfd. Nr.1* (Pedro Alvares Cabral) está empregada, enquanto a pessoa **Lfd. Nr. 2** não está.
 13. Preencha APENAS se você tiver uma esposa/marido/parceiro/parceira e a pessoa NÃO estiver morando com você (ex.: um dos membros do casal ficou no Brasil enquanto o outro veio trabalhar aqui)
 14. Informações contidas no passaporte. 
@@ -60,7 +60,7 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
  - Há muitos funcionários que não sabem ou não querem falar inglês. Por isso, leve todos os documentos preenchidos para minimizar as perguntas e qualquer interação humana (considerando que você não fala alemão).
  - Perguntas que já me fizeram (em alemão):
     - É a sua primeira vez se registrando na Alemanha?
-    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq aqui na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pela número do andar + posição (esquerda, direita, frente ou frente + esquerda, etc) 
+    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq aqui na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc) 
  - Caso você não consiga ser atendido sem agendamento, tente novamente em outro Bürgeramt (ou no dia seguinte). Lembre-se: este documento é importante e é geralmente muito mais rápido ir presencialmente do que esperar a próxima data disponível na internet.
  - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista! 
  
