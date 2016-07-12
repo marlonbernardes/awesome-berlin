@@ -11,6 +11,7 @@ O registro de residência (chamado de Anmeldung) é uma das etapas mais importan
 - Passaporte (ou Passaportes, no caso de registro de mais de uma pessoa)
 - Contrato de aluguel/sublocação OU carta da pessoa que está te hospedando
 - Preencher o formulário de residência (Anmeldungsformular)
+- Casais devem levar certidão de casamento acompanhada de tradução juramentada (ver dicas gerais)
 - Paciência
 
 **Como preencher o formulário de residência?**
@@ -19,7 +20,7 @@ TBD
 
 **Como fazer o registro?**
 
- - Tenha todos os documentos necessários preenchidos (passaporte, formulário, contrato de aluguel)
+ - Tenha todos os documentos necessários (passaporte, formulário, contrato de aluguel, etc)
  - Decida a sua estratégia para realizar o registro:
  
  **1) agendar um horário de atendimento em um Bürgeramt pelo site [service.berlin.de](https://service.berlin.de)**
@@ -35,7 +36,8 @@ TBD
  
 **Dicas gerais**
 
-TBD
+ - A certidão de casamento não é um documento obrigatório. No entanto, recomendo que seja levada, pois já foi solicitada para alguns brasileiros no momento do registro.
+ 
 
 ## Sobre o transporte público
 
