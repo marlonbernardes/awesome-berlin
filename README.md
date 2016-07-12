@@ -57,9 +57,14 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
 **Dicas gerais**
 
  - A certidão de casamento não é um documento obrigatório. No entanto, recomendo que seja levada, pois já foi solicitada para alguns brasileiros no momento do registro.
+ - Há muitos funcionários que não sabem ou não querem falar inglês. Por isso, leve todos os documentos preenchidos para minimizar as perguntas e qualquer interação humana (considerando que você não fala alemão).
+ - Perguntas que já me fizeram (em alemão):
+    - É a sua primeira vez se registrando na Alemanha?
+    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq aqui na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pela número do andar + posição (esquerda, direita, frente ou frente + esquerda, etc) 
+ - Caso você não consiga ser atendido sem agendamento, tente novamente em outro Bürgeramt (ou no dia seguinte). Lembre-se: este documento é importante e é geralmente muito mais rápido ir presencialmente do que esperar a próxima data disponível na internet.
+ - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista! 
  
  
-
 ## Sobre o transporte público
 
 TBD
