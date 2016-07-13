@@ -78,10 +78,6 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
  - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista! 
  
  
-## Sobre o transporte público
-
-TBD
-
 ## Telefone pré-pago
 
 TBD
@@ -110,6 +106,10 @@ Abrir uma conta no Number26 é relativamente fácil e rápido. Cadastre-se em [h
 
 TBD
 
+## Obtendo o número da previdência social
+
+TBD
+
 ## Obtendo o Tax Id
 
 O Tax Id (também conhecido como *Steueridentifikationsnummer*, *Identifikationsnummer* ou *Steuer-ID*) é um número único de 11 dígitos que serve para identificar cada pessoa perante ao "Bundeszentralamt für Steuern" (German Federal Tax Office).
@@ -126,14 +126,6 @@ Há duas formas de obter o seu Tax Id, e o método escolhido depende da sua urg�
 
  - Não confunda Steueridentifikationsnummer (Tax Id) com Steuernummer. Este último é uma coisa totalmente diferente e é utilizado por freelancers/comércios (não tenho mais detalhes, não entendo muito disso!)
  - Apenas para os casados: se você optar por ir no Finanzamt, aproveite para descobrir sua classe de imposto (Steuerklass). É bem possível que os dois membros do casal sejam registrados como Categoria IV. Caso uma das pessoas não esteja trabalhando, é mais vantajoso ($$$$$) alterar a categoria de imposto do(a) pessoa desempregada para V e da pessoa empregada para III. Não entendeu nada? Acesse o site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) e altere as categorias de imposto para entender do que estou falando.
-
-## Obtendo o número da previdência social
-
-TBD
-
-## Alterando sua categoria de imposto (opcional)
-
-TBD
 
 
 
