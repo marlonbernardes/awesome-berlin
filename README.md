@@ -3,6 +3,19 @@ A guide aiming to help Brazilians to have a successful start in Berlin!
 
 # Primeiros passos
 
+Está vindo ou acabou de chegar em Berlin? *Awesome*. 
+A tabela abaixo mostra uma resumo (e recomendação!) de atividades que devem ser feitas para que você tenha um bom início na cidade. Para maiores informações, leia o restante desse guia.
+
+| Tarefa  | Quando fazer | Onde fazer | Pré-requisitos |
+| ------------- | ------------- |------------- | ------------- |
+| Registro de residência  | Nos primeiros dias | Em um dos Bürgeramts da cidade | Ver "Registro de residência"
+| Ter um número de telefone alemão (pré-pago)  | Pode ser feito nos primeiros dias  | Em qualquer loja de telefonia ou que venda cartões de telefone (Telekom, O2, Vodafone, etc) | Apenas seu passaporte
+| Abrir uma conta bancária  | Após ter feito o registro de residência  | No banco de sua escolha  | Passaporte e registro de residência
+| Aplicar para o seguro de saúde  | Pode ser feito nos primeiros dias  | Por e-mail | Ver "aplicando para o seguro de saúde"
+| Obter seu número de previdência social  | Após receber a confirmação do seguro de saúde | Por e-mail | Ter um seguro de saúde
+| Obter seu Tax Id  | Pelo menos 7 dias (ou mais) após a data de registro de residência | Finanzamt do seu distrito | Registro de residência
+
+ 
 ## Registro de residência
 
 O registro de residência (chamado de Anmeldung) é uma das etapas mais importantes - e urgentes - que devem ser feitas ao chegar em Berlin. Todos que vêm residir na Alemanha devem comparecer em um *Bürgeramt* e fazer este registro em até 14 dias (ou 7, dependendo da cidade) após a data de chegada. Apesar de multas por atraso no registro serem bastante raras, recomendo que o registro seja feito nos primeiros dias de sua estada. O documento recebido após o registro de residência é muito importante, e sem ele você não conseguirá receber seu salário, abrir conta em muitos bancos, assinar contratos, etc.
@@ -109,8 +122,5 @@ TBD
 
 TBD
 
-# Alugando um apartamento
-
-TBD
 
 
