@@ -79,7 +79,7 @@ Se você pretende trabalhar ou viver um longo período de tempo em Berlin, ter u
 
 Além dos bancos tradicionais, que possuem agências espalhadas pela cidade (como Deutsche Bank, Sparkasse e muitos outros) há também um banco inteiramente online, chamado Number26, que oferece uma solução um pouco diferente das demais. 
 
-Abaixo você encontra os passos necessários para abrir uma conta bancária no Deutsche Bank (DB) e no Number26 (N26).  A escolha de banco é uma questão bastante pessoal, então essa decisão fica a seu critério.
+Abaixo você encontra os passos necessários para abrir uma conta bancária no Deutsche Bank (DB) e no Number26 (N26), mas há muitos outros bancos disponíveis. A escolha de banco é uma questão bastante pessoal, então essa decisão fica a seu critério.
 
 ### Deutsche Bank
 
@@ -91,7 +91,7 @@ Sidenote: Uso DB como meu banco principal e até agora tive experiências **MUIT
 
 Abrir uma conta no Number26 é relativamente fácil e rápido. Cadastre-se em [https://number26.eu/](https://number26.eu/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação: 
 - via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.) 
-- via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela site, o que eu fui fica em Frankfurt Allee 1)
+- via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela cidade, o que eu fui fica em Frankfurt Allee 1)
 
 ## Aplicando para o seguro de saúde
 
