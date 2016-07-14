@@ -1,6 +1,17 @@
 # awesome-berlin
 A guide aiming to help Brazilians to have a successful start in Berlin!
 
+## Índice
+
+  1. [Primeiros passos](https://github.com/marlonbernardes/awesome-berlin#primeiros-passos)
+  2. [Registro de residência](https://github.com/marlonbernardes/awesome-berlin#registro-de-residência)
+  3. [Telefone pré-pago](https://github.com/marlonbernardes/awesome-berlin#telefone-pré-pago)
+  4. [Abrindo conta em um banco](https://github.com/marlonbernardes/awesome-berlin#abrindo-conta-em-um-banco)
+  5. [Aplicando para o seguro de saúde pública](https://github.com/marlonbernardes/awesome-berlin#aplicando-para-o-seguro-de-saúde-pública)
+  6. [Obtendo o número da previdência social](https://github.com/marlonbernardes/awesome-berlin#obtendo-o-número-da-previdência-social)
+  7. [Obtendo o Tax Id](https://github.com/marlonbernardes/awesome-berlin#obtendo-o-tax-id)
+
+
 # Primeiros passos
 
 Está vindo ou acabou de chegar em Berlin? *Awesome*. 
