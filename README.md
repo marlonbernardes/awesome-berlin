@@ -46,7 +46,7 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
 10. Utilizado caso uma das pessoas tenha trocado de nome em algum momento da vida (ex. após o casamento)
 11. **Importante** Caso você preencha a religião, você precisará pagar a Taxa da Igreja (Church Tax), um valor de 8-9% em cima do seu income tax (como exemplo, quem recebe um salário de €5.000,00 bruto paga algo entre ~€53 e €95 de taxa de igreja, dependendo da categoria de imposto (more on this later)). Para não pagar essa taxa, umas das formas é deixar o campo em branco.
 12. Deixe em branco, caso não tenha essa informação (dica: primeira vez se registrando na Alemanha? Então você ainda não tem! :)). Note que marquei que a pessoa *Lfd. Nr.1* (Pedro Alvares Cabral) está empregada, enquanto a pessoa **Lfd. Nr. 2** não está.
-13. Preencha APENAS se você tiver uma esposa/marido/parceiro/parceira e a pessoa NÃO estiver morando com você (ex.: um dos membros do casal ficou no Brasil enquanto o outro veio trabalhar aqui)
+13. Preencha APENAS se você tiver uma esposa/marido/parceiro/parceira e a pessoa NÃO estiver morando com você (ex.: um dos membros do casal ficou no Brasil enquanto o outro veio trabalhar na Alemanha)
 14. Informações contidas no passaporte. 
 15. Data atual (`dd.mm.yy`) e assinatura. 
 
@@ -73,7 +73,7 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
  - Há muitos funcionários que não sabem ou não querem falar inglês. Por isso, leve todos os documentos preenchidos para minimizar as perguntas e qualquer interação humana (considerando que você não fala alemão).
  - Perguntas que já me fizeram (em alemão):
     - É a sua primeira vez se registrando na Alemanha?
-    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq aqui na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc) 
+    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc) 
  - Caso você não consiga ser atendido sem agendamento, tente novamente em outro Bürgeramt (ou no dia seguinte). Lembre-se: este documento é importante e é geralmente muito mais rápido ir presencialmente do que esperar a próxima data disponível na internet.
  - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista! 
  
@@ -102,13 +102,33 @@ Abrir uma conta no Number26 é relativamente fácil e rápido. Cadastre-se em [h
 - via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.) 
 - via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela cidade, o que eu fui fica em Frankfurt Allee 1)
 
-## Aplicando para o seguro de saúde
+## Aplicando para o seguro de saúde pública
 
-TBD
+A Alemanha tem a reputação de ter um das melhores sistemas de saúde pública do mundo. Todo mundo que mora no país é obrigado a ter um seguro de saúde, sendo que cerca de 90% da população da Alemanha está coberta com seguro de saúde pública. Se você ganha mais do que €56.250,00 por ano, você pode optar entre um plano de saúde público ou privado. Caso você ganhe menos do que isso, a inscrição em um plano de saúde pública é obrigatória. 
+
+Para se inscrever em um plano de saúde **pública** você primeiro deve escolher um dos *Krankenkassen* disponíveis, que são associações sem fins lucrativos que administram o sistema de saúde do governo. As associações mais conhecidas são:
+
+ - TK - [https://www.tk.de/tk/english/610312](https://www.tk.de/tk/english/610312)
+ - AOK - [http://en.zuwanderer.aok.de/home/](http://en.zuwanderer.aok.de/home/)
+ - BEK - [https://www.jetzt-zur-barmer-gek-wechseln.de/en](https://www.jetzt-zur-barmer-gek-wechseln.de/en)
+ - DAK - [https://www.dak.de/dak/mitglied_werden/Health_Insurance-1283602.html](https://www.dak.de/dak/mitglied_werden/Health_Insurance-1283602.html)
+
+Os planos de saúde acima não diferem muito um do outro (visto que o governo impõe muitas regras sobre o "mínimo" que cada associação deve prover), mas você pode acessar o site para obter mais informações. 
+
+Após escolher seu plano de saúde, a inscrição geralmente pode ser feita online (por e-mail) e muitas associações oferecem atendimento em inglês. 
+
+Eu optei pelo plano TK (um dos mais conhecidos por aqui), e foi relativamente simples e rápido para me inscrever. Todos meus e-mails de dúvidas foram sempre respondidos em poucas horas (às vezes em minutos!), e o contato (por email ou telefone) foi sempre em inglês. Caso você deseje se inscrever nesse plano simplesmente envie um email para "service@tk.de" dizendo que gostaria de se inscrever. Você receberá um formulário que deverá ser preenchido e enviado (por e-mail) para eles. Também será necessário enviar uma foto (por e-mail ou correio) que será impressa na sua carteirinha. Se você tiver esposa/marido/etc ou filhos (que não trabalham), é importante mencionar que você também gostaria de inscrever eles - visto que o plano cobre também os não contribuintes. Última coisa: se você for casada(o) mas o seu sobrenome e de seu cônjuge não for o mesmo, será necessário enviar uma cópia da sua certidão de casamento e também a tradução juramentada da mesma.
+
+Não se preocupe em decorar isso tudo! A sua nova associação irá solicitar qualquer documento faltante por e-mail, e também é possível tirar dúvidas diretamente com eles.
+
+Alguns dias após a sua inscrição, você receberá um certificado por e-mail e algumas semanas após a sua carteirinha:
+
+![Carteirinha TK](https://cloud.githubusercontent.com/assets/2975955/16856590/4d38d912-4a1b-11e6-9cbb-8feaab9a1203.png)
+
 
 ## Obtendo o número da previdência social
 
-TBD
+Algumas semanas (2-4) após se inscrever em um seguro de saúde você deverá receber o seu número da previdência social por correio. Caso você tenha urgência você pode enviar um e-mail (ou ligar) para a associação do seu seguro de saúde (ex.: TK) solicitando esse número. 
 
 ## Obtendo o Tax Id
 
@@ -126,6 +146,4 @@ Há duas formas de obter o seu Tax Id, e o método escolhido depende da sua urg�
 
  - Não confunda Steueridentifikationsnummer (Tax Id) com Steuernummer. Este último é uma coisa totalmente diferente e é utilizado por freelancers/comércios (não tenho mais detalhes, não entendo muito disso!)
  - Apenas para os casados: se você optar por ir no Finanzamt, aproveite para descobrir sua classe de imposto (Steuerklass). É bem possível que os dois membros do casal sejam registrados como Categoria IV. Caso uma das pessoas não esteja trabalhando, é mais vantajoso ($$$$$) alterar a categoria de imposto do(a) pessoa desempregada para V e da pessoa empregada para III. Não entendeu nada? Acesse o site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) e altere as categorias de imposto para entender do que estou falando.
-
-
 
