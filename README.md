@@ -113,7 +113,7 @@ Sidenote: Uso DB como meu banco principal e até agora tive experiências **MUIT
 ### Number26
 
 Abrir uma conta no Number26 é relativamente fácil e rápido. Cadastre-se em [https://number26.eu/](https://number26.eu/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação: 
-- via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.) 
+- ~~via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.)~~ **Edit 16/07/2016:** Number26 ainda não aceita passaporte Brasileiro para identificação via vídeo chamada.
 - via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela cidade, o que eu fui fica em Frankfurt Allee 1)
 
 ## Aplicando para o seguro de saúde pública
@@ -127,7 +127,7 @@ Para se inscrever em um plano de saúde **pública** você primeiro deve escolhe
  - BEK - [https://www.jetzt-zur-barmer-gek-wechseln.de/en](https://www.jetzt-zur-barmer-gek-wechseln.de/en)
  - DAK - [https://www.dak.de/dak/mitglied_werden/Health_Insurance-1283602.html](https://www.dak.de/dak/mitglied_werden/Health_Insurance-1283602.html)
 
-Os planos de saúde acima não diferem muito um do outro (visto que o governo impõe muitas regras sobre o "mínimo" que cada associação deve prover), mas você pode acessar o site para obter mais informações. 
+Os planos de saúde acima não diferem muito um do outro (visto que o governo impõe muitas regras sobre o "mínimo" que cada associação deve prover), mas você pode acessar o site de cada um para obter mais informações. 
 
 Após escolher seu plano de saúde, a inscrição geralmente pode ser feita online (por e-mail) e muitas associações oferecem atendimento em inglês. 
 
