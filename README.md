@@ -128,11 +128,11 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
 
 - Todos os meios de transporte público funcionam 24h de sextas para sábado e de sábados para domingo.
 - Nos demais dias, o U-Bahn e S-Bahn operam até 01:00am / 01:30am (dependendo da linha). Após esse horário, estes meios são substituídos por ônibus que geralmente seguem um caminho similar ao do metrô.
-- Os "Metrotrams" (linhas principais dos Trams, reconhecidos por um M) operam 24h por dia, todos os dias da semana.
+- Os "Metrotrams" (linhas do Trams geralmente conectadas a uma estação de U-Bahn) operam 24h por dia, todos os dias da semana.
 - O transporte público em Berlin funciona com base em um "Sistema de honra" (Honor System). Não há roletas/catracas/barreiras para entrar em um transporte público. É esperado que você tenha (ou compre) o ticket toda vez que entrar em um dos meios de transporte, apesar de raramente existir alguém para verificar se você realmente o possui. Eventualmente fiscais aparecem e pedem para ver o ticket de todos que estão no mesmo vagão/ônibus. Apesar das chances de ninguém te fiscalizar sejam grandes (e a multa de €40,00 não seja tão absurda), por favor **compre o ticket**. Sei que é óbvio (e um pouco chato dizer), mas prefiro reforçar: não encare isso como uma "oportunidade para economizar" - se você usa o transporte público, não dê o "jeitinho brasileiro" (aliás - espero que você tenha deixado isso no Brasil), e pague o ticket!
 - O transporte público é muito pontual. Atrasos são bastante raros, e estações de trams/metrôs/trems possuem sempre um painel indicando quando tempo falta para o transporte chegar. Nas paradas de ônibus há sempre um papel indicando os horários da linha em cada um dos dias da semana.
 - Há aplicativos muito úteis que podem ajudar no transporte pela cidade. Caso você tenha um smartphone, procure por Offi, Citymapper na Play Store/Apple Store. O Google Maps também permite baixar os mapas da cidade para acesso offline (algo que foi muito útil para mim).
-
+- Talvez seja óbvio, mas não custa deixar claro: os tickets de longa duração (diário/semanal/mensal/etc) não estão associados a um meio de transporte. Em outras palavras: o mesmo ticket te dá direito a utilizar Trams, U-Bahn, S-Bahn, Ônibus, etc de forma ilimitada (até a data de validade).
 
 ## Telefone pré-pago
 
