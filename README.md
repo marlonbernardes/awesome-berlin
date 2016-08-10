@@ -109,7 +109,7 @@ Poucas cidades no mundo têm uma rede de transporte público tão boa quanto Ber
 
 O transporte é gerenciado pela companhia estatal de transporte público - BVG. É possível se locomover na cidade utilizando S-Bahn (espécie de trem/metrô que anda - geralmente - por cima da terra), U-Bahn (geralmente por baixo da terra), Tram (bonde) e Ônibus. Berlin tem também uma infraestrutura muito boa para bicicletas, e cerca de 18% do trânsito da cidade é formado por ciclistas.
 
-Os diferentes meios de transporte podem ser indicados pelos seguintes ícones:
+Os diferentes meios de transporte podem ser identificados pelos seguintes ícones:
 
 ![ícones](https://cloud.githubusercontent.com/assets/2975955/17560078/fd119d6e-5f20-11e6-9bea-dea79e3aa4db.png)
 
