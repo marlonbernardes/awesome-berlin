@@ -31,9 +31,10 @@ A tabela abaixo mostra uma resumo (e recomendação!) de atividades que devem se
 | Tarefa  | Quando fazer | Onde fazer | Pré-requisitos |
 | ------------- | ------------- |------------- | ------------- |
 | Registro de residência  | Nos primeiros dias | Em um dos Bürgeramts da cidade | Ver "[Registro de residência](#registro-de-residência)"
+| Comprar ticket de transporte público  | Nos primeiros dias | Em estação de metrô/trem ou quiosque da BVG | Nenhum. Ver "[Transporte público](#transporte-público)"
 | Ter um número de telefone alemão (pré-pago)  | Pode ser feito nos primeiros dias  | Em qualquer loja de telefonia ou que venda cartões de telefone (Telekom, O2, Vodafone, etc) | Apenas seu passaporte
 | Abrir uma conta bancária  | Após ter feito o registro de residência  | No banco de sua escolha  | Passaporte e registro de residência
-| Aplicar para o seguro de saúde  | Pode ser feito nos primeiros dias  | Por e-mail | Ver "[aplicando para o seguro de saúde](#aplicando-para-o-seguro-de-saúde-pública)"
+| Aplicar para o seguro de saúde  | Pode ser feito nos primeiros dias  | Por e-mail | Nenhum. Ver "[aplicando para o seguro de saúde](#aplicando-para-o-seguro-de-saúde-pública)"
 | Obter seu número de previdência social  | Após receber a confirmação do seguro de saúde | Por e-mail | Ter um seguro de saúde
 | Obter seu Tax Id  | Pelo menos 7 dias (ou mais) após a data de registro de residência | Finanzamt do seu distrito | Registro de residência
 
@@ -58,6 +59,9 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
 
 1. Data (formato `dd.mm.yy`) que indica desde quando você mora neste endereço.  
 1. Nome da rua, número da casa e andar (em caso de prédios)
+  2. Exemplo 1 (quem mora em casa): Blabla Straße 10
+  3. Exemplo 2 (quem mora em apartamento): Foobar Straße 10, 3.0G - Re  
+    4. 3.0G == andar, Re == Localização do apartamento no andar (Re (Rechts) é direita em alemão. Use Li para esquerda e Mi para centro))
 1. Postal code 
 1. Endereço antigo (caso seja o primeiro registro na Alemanha, preencha com o endereço antigo no Brasil - esqueci de preencher no formulário de exemplo, mas você deve preencher)
 1. Nome que aparece na sua caixa de correio - só precisa preencher se a caixa de correio tiver o sobrenome/nome de outra pessoa.
@@ -170,7 +174,7 @@ Para se inscrever em um plano de saúde **pública** você primeiro deve escolhe
 
 Os planos de saúde acima não diferem muito um do outro (visto que o governo impõe muitas regras sobre o "mínimo" que cada associação deve prover), mas você pode acessar o site de cada um para obter mais informações. 
 
-Após escolher seu plano de saúde, a inscrição geralmente pode ser feita online (por e-mail) e muitas associações oferecem atendimento em inglês. 
+Após escolher seu plano de saúde, a inscrição geralmente pode ser feita online (por e-mail) e muitas associações oferecem atendimento em inglês. Não é necessário ter feito o registro de residência para aplicar para um seguro de saúde.
 
 Eu optei pelo plano TK (um dos mais conhecidos por aqui), e foi relativamente simples e rápido para me inscrever. Todos meus e-mails de dúvidas foram sempre respondidos em poucas horas (às vezes em minutos!), e o contato (por email ou telefone) foi sempre em inglês. Caso você deseje se inscrever nesse plano simplesmente envie um email para "service@tk.de" dizendo que gostaria de se inscrever. Você receberá um formulário que deverá ser preenchido e enviado (por e-mail) para eles. Também será necessário enviar uma foto (por e-mail ou correio) que será impressa na sua carteirinha. Se você tiver esposa/marido/etc ou filhos (que não trabalham), é importante mencionar que você também gostaria de inscrever eles - visto que o plano cobre também os não contribuintes. Última coisa: se você for casada(o) mas o seu sobrenome e de seu cônjuge não for o mesmo, será necessário enviar uma cópia da sua certidão de casamento e também a tradução juramentada da mesma.
 
