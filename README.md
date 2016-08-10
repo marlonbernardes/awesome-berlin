@@ -9,6 +9,9 @@ A guide aiming to help Brazilians to have a successful start in Berlin!
   	2. [Como preencher o formulário de residência?](#como-preencher-o-formulário-de-residência)
   		3. [Como fazer o registro?](#como-fazer-o-registro)
   		3. [Dicas gerais](#dicas-gerais) 
+  1. [Transporte público](#transporte-público)
+  	2. [Como comprar tickets](#como-comprar-tickets)
+  	2. [Sobre o transporte público](#sobre-o-transporte-público)
   1. [Telefone pré-pago](#telefone-pré-pago)
   1. [Abrindo conta em um banco](#abrindo-conta-em-um-banco)
   	2. [Deutsche Bank](#deutsche-bank)
@@ -96,7 +99,7 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
  - Caso você não consiga ser atendido sem agendamento, tente novamente em outro Bürgeramt (ou no dia seguinte). Lembre-se: este documento é importante e é geralmente muito mais rápido ir presencialmente do que esperar a próxima data disponível na internet.
  - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista! 
  
-## Sobre o transporte público
+##  Transporte público
 
 Poucas cidades no mundo têm uma rede de transporte público tão boa quanto Berlin. Independente da hora do dia (ou da noite), sempre existe um trem, tram ou ônibus disponível.
 
