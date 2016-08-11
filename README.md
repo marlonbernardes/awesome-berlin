@@ -138,7 +138,7 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
 - Há aplicativos muito úteis que podem ajudar no transporte pela cidade. Caso você tenha um smartphone, procure por Offi, Citymapper na Play Store/Apple Store. O Google Maps também permite baixar os mapas da cidade para acesso offline (algo que foi muito útil para mim).
 - Talvez seja óbvio, mas não custa deixar claro: os tickets de longa duração (diário/semanal/mensal/etc) não estão associados a um meio de transporte. Em outras palavras: o mesmo ticket te dá direito a utilizar Trams, U-Bahn, S-Bahn, Ônibus, etc de forma ilimitada (até a data de validade do ticket).
 - Bicicletas, malas, carrinhos de bebê e cachorros são aceitos em todos os meios de transporte.
-- Em ônibus você deve entrar porta da frente (exceções: se você estiver com um carrinho de bebê/bicicleta/cadeira de rodas/etc, o motorista irá abrir uma das portas centrais). É esperado que você mostre o ticket para o(a) motorista na hora em que entrar no ônibus (eles raramente olham, mas é considerado cordial mostrar mesmo assim). 
+- Em ônibus você deve entrar pela porta da frente (exceções: se você estiver com um carrinho de bebê/bicicleta/cadeira de rodas/etc, o(a) motorista irá abrir uma das portas centrais). É esperado que você mostre o ticket para o(a) motorista na hora em que entrar no ônibus (eles raramente olham, mas é considerado cordial mostrar mesmo assim). 
 
 ## Telefone pré-pago
 
@@ -169,7 +169,7 @@ Abrir uma conta no Number26 é relativamente fácil e rápido. Cadastre-se em [h
 
 ## Aplicando para o seguro de saúde pública
 
-A Alemanha tem a reputação de ter um das melhores sistemas de saúde pública do mundo. Todo mundo que mora no país é obrigado a ter um seguro de saúde, sendo que cerca de 90% da população da Alemanha está coberta com seguro de saúde pública. Se você ganha mais do que €56.250,00 por ano, você pode optar entre um plano de saúde público ou privado. Caso você ganhe menos do que isso, a inscrição em um plano de saúde pública é obrigatória. 
+A Alemanha tem a reputação de ter um dos melhores sistemas de saúde pública do mundo. Todo mundo que mora no país é obrigado a ter um seguro de saúde, sendo que cerca de 90% da população da Alemanha está coberta com seguro de saúde pública. Se você ganha mais do que €56.250,00 por ano, você pode optar entre um plano de saúde público ou privado. Caso você ganhe menos do que isso, a inscrição em um plano de saúde pública é obrigatória. 
 
 Para se inscrever em um plano de saúde **pública** você primeiro deve escolher um dos *Krankenkassen* disponíveis, que são associações sem fins lucrativos que administram o sistema de saúde do governo. As associações mais conhecidas são:
 
@@ -182,7 +182,7 @@ Os planos de saúde acima não diferem muito um do outro (visto que o governo im
 
 Após escolher seu plano de saúde, a inscrição geralmente pode ser feita online (por e-mail) e muitas associações oferecem atendimento em inglês. Não é necessário ter feito o registro de residência para aplicar para um seguro de saúde.
 
-Eu optei pelo plano TK (um dos mais conhecidos por aqui), e foi relativamente simples e rápido para me inscrever. Todos meus e-mails de dúvidas foram sempre respondidos em poucas horas (às vezes em minutos!), e o contato (por email ou telefone) foi sempre em inglês. Caso você deseje se inscrever nesse plano simplesmente envie um email para "service@tk.de" dizendo que gostaria de se inscrever. Você receberá um formulário que deverá ser preenchido e enviado (por e-mail) para eles. Também será necessário enviar uma foto (por e-mail ou correio) que será impressa na sua carteirinha. Se você tiver esposa/marido/etc ou filhos (que não trabalham), é importante mencionar que você também gostaria de inscrever eles - visto que o plano cobre também os não contribuintes. Última coisa: se você for casada(o) mas o seu sobrenome e de seu cônjuge não for o mesmo, será necessário enviar uma cópia da sua certidão de casamento e também a tradução juramentada da mesma.
+Eu optei pelo plano TK (um dos mais conhecidos por aqui), e foi relativamente simples e rápido para me inscrever. Todos meus e-mails de dúvidas foram sempre respondidos em poucas horas (às vezes em minutos!), e o contato (por email ou telefone) foi sempre em inglês. Caso você deseje se inscrever nesse plano, simplesmente envie um email para "service@tk.de" dizendo que gostaria de se inscrever. Você receberá um formulário que deverá ser preenchido e enviado (por e-mail) para eles. Também será necessário enviar uma foto (por e-mail ou correio) que será impressa na sua carteirinha. Se você tiver esposa/marido/etc ou filhos (que não trabalham), é importante mencionar que você também gostaria de inscrever eles - visto que o plano cobre também os não contribuintes. Última coisa: se você for casada(o) mas o seu sobrenome e de seu cônjuge não for o mesmo, será necessário enviar uma cópia da sua certidão de casamento e também a tradução juramentada da mesma.
 
 Não se preocupe em decorar isso tudo! A sua nova associação irá solicitar qualquer documento faltante por e-mail, e também é possível tirar dúvidas diretamente com eles.
 
