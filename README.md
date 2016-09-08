@@ -22,7 +22,7 @@ A guide aiming to help Brazilians to have a successful start in Berlin!
   	2. [Formas](#formas)
   	3. [Dicas](#dicas) 
   1. [Alterando a categoria de imposto](#alterando-a-categoria-de-imposto)
-    2. [Como preencher o formulário](#como-preencher-o-formulário)
+    2. [Como preencher o formulário de alteração de classe de imposto](#como-preencher-o-formulário-de-alteração-de-classe-de-imposto)
 
 
 # Primeiros passos
