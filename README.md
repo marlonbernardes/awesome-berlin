@@ -21,6 +21,7 @@ A guide aiming to help Brazilians to have a successful start in Berlin!
   1. [Obtendo o Tax Id](#obtendo-o-tax-id)
   	2. [Formas](#formas)
   	3. [Dicas](#dicas) 
+  1. [Alterando a categoria de imposto](#alterando-a-categoria-de-imposto)
 
 
 # Primeiros passos
@@ -213,4 +214,20 @@ Há duas formas de obter o seu Tax Id, e o método escolhido depende da sua urg�
 
  - Não confunda Steueridentifikationsnummer (Tax Id) com Steuernummer. Este último é uma coisa totalmente diferente e é utilizado por freelancers/comércios (não tenho mais detalhes, não entendo muito disso!)
  - Apenas para os casados: se você optar por ir no Finanzamt, aproveite para descobrir sua classe de imposto (Steuerklass). É bem possível que os dois membros do casal sejam registrados como Categoria IV. Caso uma das pessoas não esteja trabalhando, é mais vantajoso ($$$$$) alterar a categoria de imposto do(a) pessoa desempregada para V e da pessoa empregada para III. Não entendeu nada? Acesse o site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) e altere as categorias de imposto para entender do que estou falando.
+ 
+## Alterando a categoria de imposto
 
+A categoria de imposto é o fator mais importante no cálculo do imposto, e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Cateogory) com o requisitos para fazer parte de cada uma das categorias de imposto.
+
+Alguns dias/semanas após o primeiro registro de residência na Alemanha (feito no Bürgeramt), o Finanzamt será notificado e irá criar um Tax Id (um número que te identifica no "Departamento de Finanças" da Alemanha) e te enviar por correio, para o endereço em que você foi registrado. Durante a criação do Tax Id, o Finanzamt automaticamente te atribuirá para uma das categorias de imposto.
+
+O problema dessa atribuição "automática" de categoria de imposto costuma ser importante apenas para casais, aonde ambos são geralmente atribuídos a categoria de imposto IV. Caso apenas uma das pessoas do casal esteja trabalhando (ou se a diferença de renda entre os membros do casal for grande), vale a pena trocar a categoria de imposto de IV (de ambos os membros do casal) para III e V. A pessoa do casal que não recebe/recebe menos pode passar para a categoria V (e pagar mais imposto!) enquanto quem recebe o salário maior deverá passar para a categoria III (e pagar menos imposto!). Novamente, acesse o site  [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) para fazer simulações do valor pago de imposto em cada uma das categorias. Solteiros/divorciados são atribuídos automaticamente na categoria I e só podem trocar de classe caso tenham filhos.
+
+Enfim, para alterar a categoria de imposto o processo é o seguinte:
+ - Obter o formulário *Steuerklassenwechsel* (download aqui OU pegue-o no Finanzamt do seu distrito)
+ - Preencher e assinar o formulário (dica: ambos os membros de um casal precisam assinar)
+ - Entregar o formulário no Finanzamt
+ - Esperar troca ser efetuada (pode demorar até um mês)
+ - Pronto! :)
+ 
+Diferentemente do registro de residência, para alterar a classe de imposto você provavelmente não precisará enfrentar filas, acordar cedo ou fazer um agendamento de horário online pelo site. Já fui 3 vezes em Finanzamts diferentes, e sempre fui atendido em poucos minutos. 
