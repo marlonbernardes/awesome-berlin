@@ -149,13 +149,15 @@ As operadoras de telefone mais conhecidas na Alemanha são Telekom (T-Mobile), V
 Há um motivo por eu ter dito "pré-pago" no título dessa seção:
 Para ter um telefone **pós**-pago você precisa ter uma conta em um banco alemão. E para ter uma conta bancária muitos bancos exigem um número de telefone. Percebe o paradoxo? Por isso recomendo começar com um telefone pré-pago!
 
-#### Opções baratas de pré-pagos
+#### Algumas opções de pré-pagos
 - [https://www.simplytel.de/](https://www.simplytel.de/)
+- [https://www.vodafone.de/](https://www.vodafone.de/)
+- [https://www.o2online.de/](https://www.o2online.de/)
+- [https://www.telekom.de/](https://www.telekom.de/unterwegs/tarife-und-optionen/prepaid-tarife)
 - [https://www.smartmobil.de/](https://www.smartmobil.de/)
 - [https://angebote.simyo.de/](https://angebote.simyo.de/)
 - [https://www.otelo.de/](https://www.otelo.de/)
-- [https://freeflat.freenetmobile.de/](https://freeflat.freenetmobile.de/)
-- [https://preis24.de/](https://preis24.de/) - Promoções de várias operadoras
+
 
 ## Abrindo conta em um banco
 
