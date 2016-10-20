@@ -8,26 +8,26 @@ A guide aiming to help Brazilians to have a successful start in Berlin!
   	2. [O que preciso para fazer meu registro de residência?](#o-que-preciso-para-fazer-meu-registro-de-residência)
   	2. [Como preencher o formulário de residência?](#como-preencher-o-formulário-de-residência)
   		3. [Como fazer o registro?](#como-fazer-o-registro)
-  		3. [Dicas gerais](#dicas-gerais) 
+  		3. [Dicas gerais](#dicas-gerais)
   1. [Transporte público](#transporte-público)
   	2. [Como comprar tickets](#como-comprar-tickets)
   	2. [Sobre o transporte público](#sobre-o-transporte-público)
   1. [Telefone pré-pago](#telefone-pré-pago)
   1. [Abrindo conta em um banco](#abrindo-conta-em-um-banco)
   	2. [Deutsche Bank](#deutsche-bank)
-  	2. [Number26](#number26) 
+  	2. [N26](#n26)
   1. [Aplicando para o seguro de saúde pública](#aplicando-para-o-seguro-de-saúde-pública)
   1. [Obtendo o número da previdência social](#obtendo-o-número-da-previdência-social)
   1. [Obtendo o Tax Id](#obtendo-o-tax-id)
   	2. [Formas](#formas)
-  	3. [Dicas](#dicas) 
+  	3. [Dicas](#dicas)
   1. [Alterando a categoria de imposto](#alterando-a-categoria-de-imposto)
     2. [Como preencher o formulário de alteração de classe de imposto](#como-preencher-o-formulário-de-alteração-de-classe-de-imposto)
 
 
 # Primeiros passos
 
-Está vindo ou acabou de chegar em Berlin? *Awesome*. 
+Está vindo ou acabou de chegar em Berlin? *Awesome*.
 A tabela abaixo mostra uma resumo (e recomendação!) de atividades que devem ser feitas para que você tenha um bom início na cidade. Para maiores informações, leia o restante desse guia.
 
 | Tarefa  | Quando fazer | Onde fazer | Pré-requisitos |
@@ -40,7 +40,7 @@ A tabela abaixo mostra uma resumo (e recomendação!) de atividades que devem se
 | Obter seu número de previdência social  | Após receber a confirmação do seguro de saúde | Por e-mail | Ter um seguro de saúde
 | Obter seu Tax Id  | Pelo menos 7 dias (ou mais) após a data de registro de residência | Finanzamt do seu distrito | Registro de residência
 
- 
+
 ## Registro de residência
 
 O registro de residência (chamado de Anmeldung) é uma das etapas mais importantes - e urgentes - que devem ser feitas ao chegar em Berlin. Todos que vêm residir na Alemanha devem comparecer em um *Bürgeramt* e fazer este registro em até 14 dias (ou 7, dependendo da cidade) após a data de chegada. Apesar de multas por atraso no registro serem bastante raras, recomendo que o registro seja feito nos primeiros dias de sua estada. O documento recebido após o registro de residência é muito importante, e sem ele você não conseguirá receber seu salário, abrir conta em muitos bancos, assinar contratos, etc.
@@ -64,7 +64,7 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
   2. Exemplo 1 (quem mora em casa): Blabla Straße 10
   3. Exemplo 2 (quem mora em apartamento): Foobar Straße 10, 3.0G - Re  
     4. 3.0G == andar, Re == Localização do apartamento no andar (Re (Rechts) é direita em alemão. Use Li para esquerda e Mi para centro))
-1. Postal code 
+1. Postal code
 1. Endereço antigo (caso seja o primeiro registro na Alemanha, preencha com o endereço antigo no Brasil - esqueci de preencher no formulário de exemplo, mas você deve preencher)
 1. Nome que aparece na sua caixa de correio - só precisa preencher se a caixa de correio tiver o sobrenome/nome de outra pessoa.
 1. Não faço ideia, haha . Deixei em branco. (pull requests explicando esse campo são bem-vindos)
@@ -75,36 +75,36 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
 1. **Importante** Caso você preencha a religião, você precisará pagar a Taxa da Igreja (Church Tax), um valor de 8-9% em cima do seu income tax (como exemplo, quem recebe um salário de €5.000,00 bruto paga algo entre ~€53 e €95 de taxa de igreja, dependendo da categoria de imposto (more on this later)). Para não pagar essa taxa, umas das formas é deixar o campo em branco.
 1. Deixe em branco, caso não tenha essa informação (dica: primeira vez se registrando na Alemanha? Então você ainda não tem! :)). Note que marquei que a pessoa *Lfd. Nr.1* (Pedro Alvares Cabral) está empregada, enquanto a pessoa **Lfd. Nr. 2** não está.
 1. Preencha APENAS se você tiver uma esposa/marido/parceiro/parceira e a pessoa NÃO estiver morando com você (ex.: um dos membros do casal ficou no Brasil enquanto o outro veio trabalhar na Alemanha)
-1. Informações contidas no passaporte. 
-1. Data atual (`dd.mm.yy`) e assinatura. 
+1. Informações contidas no passaporte.
+1. Data atual (`dd.mm.yy`) e assinatura.
 
 
 ##### Como fazer o registro?
 
  - Tenha todos os documentos necessários (passaporte, formulário, contrato de aluguel, etc)
  - Decida a sua estratégia para realizar o registro:
- 
+
  **1) agendar um horário de atendimento em um Bürgeramt pelo site [service.berlin.de](https://service.berlin.de)**
- O problema em agendar pelo site é que raramente há datas próximas disponíveis, e muitas vezes só há datas disponíveis para 1 ou 2 meses no futuro. 
- 
+ O problema em agendar pelo site é que raramente há datas próximas disponíveis, e muitas vezes só há datas disponíveis para 1 ou 2 meses no futuro.
+
  **2) ir diretamente no Bürgeramt, sem agendamento.**
- Todas as vezes que fiz meu registro/alteração de registro foi sem agendamento. Recomendo chegar de manhã cedo. Após, vá até o balcão de informações e mostre o formulário e o passaporte. Dizer Anmeldung pode ajudar. Muitos funcionários públicos não falam ou não querem falar em inglês. O funcionário deverá entregar uma ficha de atendimento, e após isso é só esperar a sua vez. 
- 
+ Todas as vezes que fiz meu registro/alteração de registro foi sem agendamento. Recomendo chegar de manhã cedo. Após, vá até o balcão de informações e mostre o formulário e o passaporte. Dizer Anmeldung pode ajudar. Muitos funcionários públicos não falam ou não querem falar em inglês. O funcionário deverá entregar uma ficha de atendimento, e após isso é só esperar a sua vez.
+
  - Quando seu número de atendimento for chamado, dirija-se ao "caixa" indicado (deve haver um painel indicando o seu número de atendimento e o número do caixa correspondente).
  - Entregue os documentos necessários para o funcionário e aguarde. O processo deve demorar entre 5 e 10 minutos.
  - Após o registro, você sairá com o documento que prova que você está registrado no novo endereço. Guarde este documento!
  - Veja abaixo algumas dicas de como se preparar para as perguntas mais frequentes durante este processo.
- 
+
 ##### Dicas gerais
 
  - A certidão de casamento não é um documento obrigatório. No entanto, recomendo que seja levada, pois já foi solicitada para alguns brasileiros no momento do registro.
  - Há muitos funcionários que não sabem ou não querem falar inglês. Por isso, leve todos os documentos preenchidos para minimizar as perguntas e qualquer interação humana (considerando que você não fala alemão).
  - Perguntas que já me fizeram (em alemão):
     - É a sua primeira vez se registrando na Alemanha?
-    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc) 
+    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc)
  - Caso você não consiga ser atendido sem agendamento, tente novamente em outro Bürgeramt (ou no dia seguinte). Lembre-se: este documento é importante e é geralmente muito mais rápido ir presencialmente do que esperar a próxima data disponível na internet.
- - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista! 
- 
+ - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista!
+
 ##  Transporte público
 
 Poucas cidades no mundo têm uma rede de transporte público tão boa quanto Berlin. Independente da hora do dia (ou da noite), sempre existe um trem, tram ou ônibus disponível.
@@ -135,12 +135,12 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
 - Todos os meios de transporte público funcionam 24h de sextas para sábado e de sábados para domingo.
 - Nos demais dias, o U-Bahn e S-Bahn operam até 01:00am / 01:30am (dependendo da linha). Após esse horário, estes meios são substituídos por ônibus que geralmente seguem um caminho similar ao do metrô.
 - Os "Metrotrams" (linhas do Trams geralmente conectadas a uma estação de U-Bahn) operam 24h por dia, todos os dias da semana.
-- O transporte público em Berlin funciona com base em um "Sistema de honra" (Honor System). Não há roletas/catracas/barreiras para entrar em um transporte público. É esperado que você tenha (ou compre) o ticket toda vez que entrar em um dos meios de transporte, apesar de raramente existir alguém para verificar se você realmente o possui. Eventualmente fiscais aparecem e pedem para ver o ticket de todos que estão no mesmo vagão/ônibus. Mesmo sabendo que as chances de ninguém te fiscalizar sejam grandes (e a multa de €40,00 não seja tão absurda), por favor **compre o ticket**. Sei que é óbvio (e um pouco chato dizer), mas prefiro reforçar: não encare isso como uma "oportunidade para economizar" - se você usa o transporte público, não dê o "jeitinho brasileiro" (aliás - espero que você tenha deixado isso no Brasil), e pague o ticket!
+- O transporte público em Berlin funciona com base em um "Sistema de honra" (Honor System). Não há roletas/catracas/barreiras para entrar em um transporte público. É esperado que você tenha (ou compre) o ticket toda vez que entrar em um dos meios de transporte, apesar de raramente existir alguém para verificar se você realmente o possui. Eventualmente fiscais aparecem e pedem para ver o ticket de todos que estão no mesmo vagão/ônibus. Mesmo sabendo que as chances de ninguém te fiscalizar sejam grandes (e a multa de €60,00 não seja tão absurda), por favor **compre o ticket**. Sei que é óbvio (e um pouco chato dizer), mas prefiro reforçar: não encare isso como uma "oportunidade para economizar" - se você usa o transporte público, não dê o "jeitinho brasileiro" (aliás - espero que você tenha deixado isso no Brasil), e pague o ticket!
 - O transporte público é muito pontual. Atrasos são bastante raros, e estações de trams/metrôs/trems possuem sempre um painel indicando quando tempo falta para o transporte chegar. Nas paradas de ônibus há sempre um papel indicando os horários da linha em cada um dos dias da semana.
 - Há aplicativos muito úteis que podem ajudar no transporte pela cidade. Caso você tenha um smartphone, procure por Offi, Citymapper na Play Store/Apple Store. O Google Maps também permite baixar os mapas da cidade para acesso offline (algo que foi muito útil para mim).
 - Talvez seja óbvio, mas não custa deixar claro: os tickets de longa duração (diário/semanal/mensal/etc) não estão associados a um meio de transporte. Em outras palavras: o mesmo ticket te dá direito a utilizar Trams, U-Bahn, S-Bahn, Ônibus, etc de forma ilimitada (até a data de validade do ticket).
 - Bicicletas, malas, carrinhos de bebê e cachorros são aceitos em todos os meios de transporte.
-- Em ônibus você deve entrar pela porta da frente (exceções: se você estiver com um carrinho de bebê/bicicleta/cadeira de rodas/etc, o(a) motorista irá abrir uma das portas centrais). É esperado que você mostre o ticket para o(a) motorista na hora em que entrar no ônibus (eles raramente olham, mas é considerado cordial mostrar mesmo assim). 
+- Em ônibus você deve entrar pela porta da frente (exceções: se você estiver com um carrinho de bebê/bicicleta/cadeira de rodas/etc, o(a) motorista irá abrir uma das portas centrais). É esperado que você mostre o ticket para o(a) motorista na hora em que entrar no ônibus (eles raramente olham, mas é considerado cordial mostrar mesmo assim).
 
 ## Telefone pré-pago
 
@@ -163,25 +163,25 @@ Para ter um telefone **pós**-pago você precisa ter uma conta em um banco alem�
 
 Se você pretende trabalhar ou viver um longo período de tempo em Berlin, ter uma conta em um dos bancos da Alemanha passa a ser obrigatório. Sem uma conta bancária Alemã você não conseguirá receber seu salário, alugar um apartamento ou fazer um plano pós-pago de celular. Felizmente, abrir uma conta bancária costuma ser simples e rápido.
 
-Além dos bancos tradicionais, que possuem agências espalhadas pela cidade (como Deutsche Bank, Sparkasse e muitos outros) há também um banco inteiramente online, chamado Number26, que oferece uma solução um pouco diferente das demais. 
+Além dos bancos tradicionais, que possuem agências espalhadas pela cidade (como Deutsche Bank, Sparkasse e muitos outros) há também um banco inteiramente online, chamado N26, que oferece uma solução um pouco diferente das demais.
 
-Abaixo você encontra os passos necessários para abrir uma conta bancária no Deutsche Bank (DB) e no Number26 (N26), mas há muitos outros bancos disponíveis. A escolha de banco é uma questão bastante pessoal, então essa decisão fica a seu critério.
+Abaixo você encontra os passos necessários para abrir uma conta bancária no Deutsche Bank (DB) e no N26, mas há muitos outros bancos disponíveis. A escolha de banco é uma questão bastante pessoal, então essa decisão fica a seu critério.
 
 ### Deutsche Bank
 
-Simplesmente compareça a uma agência com seu passaporte e seu comprovante de residência (ver “[Registro de residência](#registro-de-residência)”) e um dos gerentes cuidará de todo o processo. Após a entrega dos documentos (e assinatura do contrato) a sua conta poderá demorar alguns dias até ficar ativa. Os funcionários deste banco estão acostumados a falar inglês, o que torna tudo mais fácil. 
+Simplesmente compareça a uma agência com seu passaporte e seu comprovante de residência (ver “[Registro de residência](#registro-de-residência)”) e um dos gerentes cuidará de todo o processo. Após a entrega dos documentos (e assinatura do contrato) a sua conta poderá demorar alguns dias até ficar ativa. Os funcionários deste banco estão acostumados a falar inglês, o que torna tudo mais fácil.
 
-Sidenote: Uso DB como meu banco principal e até agora tive experiências **MUITO** positivas com esse banco. Meus e-mails de dúvidas geralmente são respondidos em minutos (!!) e o gerente que me atende é excelente (Carsten Becker :heart: - da agência de Alexanderstraße 5). 
+Sidenote: Uso DB como meu banco principal e até agora tive experiências **MUITO** positivas com esse banco. Meus e-mails de dúvidas geralmente são respondidos em minutos (!!) e o gerente que me atende é excelente (Carsten Becker :heart: - da agência de Alexanderstraße 5).
 
-### Number26
+### N26
 
-Abrir uma conta no Number26 é relativamente fácil e rápido. Cadastre-se em [https://number26.eu/](https://number26.eu/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação: 
-- ~~via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.)~~ **Edit 16/07/2016:** Number26 ainda não aceita passaporte Brasileiro para identificação via vídeo chamada.
+Abrir uma conta no N26 é relativamente fácil e rápido. Cadastre-se em [https://n26.eu/](https://n26.eu/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação:
+- ~~via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.)~~ **Edit 16/07/2016:** N26 ainda não aceita passaporte Brasileiro para identificação via vídeo chamada.
 - via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela cidade, o que eu fui fica em Frankfurt Allee 1)
 
 ## Aplicando para o seguro de saúde pública
 
-A Alemanha tem a reputação de ter um dos melhores sistemas de saúde pública do mundo. Todo mundo que mora no país é obrigado a ter um seguro de saúde, sendo que cerca de 90% da população da Alemanha está coberta com seguro de saúde pública. Se você ganha mais do que €56.250,00 por ano, você pode optar entre um plano de saúde público ou privado. Caso você ganhe menos do que isso, a inscrição em um plano de saúde pública é obrigatória. 
+A Alemanha tem a reputação de ter um dos melhores sistemas de saúde pública do mundo. Todo mundo que mora no país é obrigado a ter um seguro de saúde, sendo que cerca de 90% da população da Alemanha está coberta com seguro de saúde pública. Se você ganha mais do que €56.250,00 por ano, você pode optar entre um plano de saúde público ou privado. Caso você ganhe menos do que isso, a inscrição em um plano de saúde pública é obrigatória.
 
 Para se inscrever em um plano de saúde **pública** você primeiro deve escolher um dos *Krankenkassen* disponíveis, que são associações sem fins lucrativos que administram o sistema de saúde do governo. As associações mais conhecidas são:
 
@@ -190,7 +190,7 @@ Para se inscrever em um plano de saúde **pública** você primeiro deve escolhe
  - BEK - [https://www.jetzt-zur-barmer-gek-wechseln.de/en](https://www.jetzt-zur-barmer-gek-wechseln.de/en)
  - DAK - [https://www.dak.de/dak/mitglied_werden/Health_Insurance-1283602.html](https://www.dak.de/dak/mitglied_werden/Health_Insurance-1283602.html)
 
-Os planos de saúde acima não diferem muito um do outro (visto que o governo impõe muitas regras sobre o "mínimo" que cada associação deve prover), mas você pode acessar o site de cada um para obter mais informações. 
+Os planos de saúde acima não diferem muito um do outro (visto que o governo impõe muitas regras sobre o "mínimo" que cada associação deve prover), mas você pode acessar o site de cada um para obter mais informações.
 
 Após escolher seu plano de saúde, a inscrição geralmente pode ser feita online (por e-mail) e muitas associações oferecem atendimento em inglês. Não é necessário ter feito o registro de residência para aplicar para um seguro de saúde.
 
@@ -205,7 +205,7 @@ Alguns dias após a sua inscrição, você receberá um certificado por e-mail e
 
 ## Obtendo o número da previdência social
 
-Algumas semanas (2-4) após se inscrever em um seguro de saúde você deverá receber o seu número da previdência social por correio. Caso você tenha urgência você pode enviar um e-mail (ou ligar) para a associação do seu seguro de saúde (ex.: TK) solicitando esse número. 
+Algumas semanas (2-4) após se inscrever em um seguro de saúde você deverá receber o seu número da previdência social por correio. Caso você tenha urgência você pode enviar um e-mail (ou ligar) para a associação do seu seguro de saúde (ex.: TK) solicitando esse número.
 
 ## Obtendo o Tax Id
 
@@ -215,7 +215,7 @@ Para trabalhar na Alemanha, é necessário fornecer este identificador ao seu em
 
 ##### Formas
 
-Há duas formas de obter o seu Tax Id, e o método escolhido depende da sua urgência (ou da urgência do seu empregador), visto que não será possível receber o salário sem esta informação. 
+Há duas formas de obter o seu Tax Id, e o método escolhido depende da sua urgência (ou da urgência do seu empregador), visto que não será possível receber o salário sem esta informação.
 
   1. **Forma "normal" (mais lenta)**: Simplesmente espere o seu Tax ID chegar por correio. O Tax ID será enviado automaticamente por correio no endereço em que você se registrou. A notícia ruim é que esta correspondência deve demorar entre 2 e 4 semanas para chegar.
 
@@ -225,7 +225,7 @@ Há duas formas de obter o seu Tax Id, e o método escolhido depende da sua urg�
 
  - Não confunda Steueridentifikationsnummer (Tax Id) com Steuernummer. Este último é uma coisa totalmente diferente e é utilizado por freelancers/comércios (não tenho mais detalhes, não entendo muito disso!)
  - Apenas para os casados: se você optar por ir no Finanzamt, aproveite para descobrir sua classe de imposto (Steuerklass). É bem possível que os dois membros do casal sejam registrados como Categoria IV. Caso uma das pessoas não esteja trabalhando, é mais vantajoso ($$$$$) alterar a categoria de imposto do(a) pessoa desempregada para V e da pessoa empregada para III. Não entendeu nada? Acesse o site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) e altere as categorias de imposto para entender do que estou falando.
- 
+
 ## Alterando a categoria de imposto
 
 A categoria de imposto é o fator mais importante no cálculo do imposto, e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Cateogory) com o requisitos para fazer parte de cada uma das categorias de imposto.
@@ -240,8 +240,8 @@ Enfim, para alterar a categoria de imposto o processo é o seguinte:
  - Entregar o formulário no Finanzamt
  - Esperar troca ser efetuada (pode demorar até um mês)
  - Pronto! :)
- 
-Diferentemente do registro de residência, para alterar a classe de imposto você provavelmente não precisará enfrentar filas, acordar cedo ou fazer um agendamento de horário online pelo site. Já fui 3 vezes em Finanzamts diferentes, e sempre fui atendido em poucos minutos. 
+
+Diferentemente do registro de residência, para alterar a classe de imposto você provavelmente não precisará enfrentar filas, acordar cedo ou fazer um agendamento de horário online pelo site. Já fui 3 vezes em Finanzamts diferentes, e sempre fui atendido em poucos minutos.
 
 ### Como preencher o formulário de alteração de classe de imposto
 
@@ -251,7 +251,7 @@ Por partes:
 
 ![primeira parte](https://cloud.githubusercontent.com/assets/2975955/18363615/1de91f8e-760b-11e6-8fc5-1c1f0a6092ca.png)
 
-Preencha o campo "Identifikationsnummer" (campo 2) com o Tax Id do marido - campo *Ehemann* e da esposa - *Ehefrau* - (nota: a terminologia utilizada no formulário não parece muito adequada no caso de casais homoafetivos). No meu caso, como eu não sabia o TaxId da minha esposa, fui instruído (pela funcionária do Finanzamt) que é OK deixar o Tax ID de apenas de um dos membros do casal. 
+Preencha o campo "Identifikationsnummer" (campo 2) com o Tax Id do marido - campo *Ehemann* e da esposa - *Ehefrau* - (nota: a terminologia utilizada no formulário não parece muito adequada no caso de casais homoafetivos). No meu caso, como eu não sabia o TaxId da minha esposa, fui instruído (pela funcionária do Finanzamt) que é OK deixar o Tax ID de apenas de um dos membros do casal.
 
 **Parte A**
 
@@ -264,7 +264,7 @@ Essa parte é intuitiva (ou ficará intuitiva após usar o Google Translate :P).
 ![parte b](https://cloud.githubusercontent.com/assets/2975955/18365030/37e86650-7611-11e6-9db1-0e64e2178541.png)
 
 Os campos 15 e 16 são os campos mais importantes. No campo 15 você deve indicar a classe de imposto atual (formato: Ehemann / Ehefrau) e no campo 16 a classe de imposto que você deseja virar.
- 
+
 No meu caso, eu quis alterar eu e minha esposa da categoria 4 para as classes 3 e 5 . Logo, marquei no campo 15 o checkbox `vier / vier` (dica: vier é 4 em alemão) e `drei / fünf` no campo 16.
 
 Uma amiga passou por uma situação similar a minha, e quis alterar a classe dela para 5 e a do seu marido para 3. Logo, ela marcou `vier / vier` no campo 15 e  `fünf / drei` no campo 16. Note que o campo 16 dela foi diferente do meu, pois o primeiro valor do campo está sempre associado a categoria de imposto do marido.
