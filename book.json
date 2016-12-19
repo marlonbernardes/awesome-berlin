@@ -7,7 +7,10 @@
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/marlonbernardes/awesome-berlin/tree/master",
-      "label": "Edit this page"
+      "label": {
+        "en": "Edit this page",
+        "pt-br": "Edite esta página"
+      }
     }
   }
 }
