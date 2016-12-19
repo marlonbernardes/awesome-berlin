@@ -1,0 +1,28 @@
+{
+  "name": "awesome-berlin",
+  "author": "Marlon Bernardes <marlonjb.cb@gmail.com>",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A guide aiming to help ~~Brazillians~~ everyone to have a successfull start in Berlin!",
+  "homepage": "https://github.com/marlonbernardes/awesome-berlin#readme",
+  "scripts": {
+    "clean": "rimraf _book",
+    "prepare": "gitbook install",
+    "watch": "npm run prepare && gitbook serve",
+    "build": "npm run prepare && gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonbernardes/awesome-berlin.git"
+  },
+  "keywords": [
+    "guide",
+    "docs",
+    "berlin",
+    "expats"
+  ],
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0",
+    "rimraf": "^2.5.4"
+  }
+}
