@@ -2,7 +2,8 @@
   "title": "Awesome Berlin",
   "plugins": [
     "anchors",
-    "edit-link"
+    "edit-link",
+    "include"
   ],
   "pluginsConfig": {
     "edit-link": {
