@@ -15,7 +15,7 @@ Enfim, para alterar a categoria de imposto o processo é o seguinte:
 
 Diferentemente do registro de residência, para alterar a classe de imposto você provavelmente não precisará enfrentar filas, acordar cedo ou fazer um agendamento de horário online pelo site. Já fui 3 vezes em Finanzamts diferentes, e sempre fui atendido em poucos minutos.
 
-## Como preencher o formulário de alteração de classe de imposto
+## Preenchendo o formulário
 
 Por partes:
 

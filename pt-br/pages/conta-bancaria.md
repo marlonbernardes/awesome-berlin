@@ -8,7 +8,7 @@ Abaixo você encontra os passos necessários para abrir uma conta bancária no D
 
 ## Deutsche Bank
 
-Simplesmente compareça a uma agência com seu passaporte e seu comprovante de residência (ver “[Registro de residência](#registro-de-residência)”) e um dos gerentes cuidará de todo o processo. Após a entrega dos documentos (e assinatura do contrato) a sua conta poderá demorar alguns dias até ficar ativa. Os funcionários deste banco estão acostumados a falar inglês, o que torna tudo mais fácil.
+Simplesmente compareça a uma agência com seu passaporte e seu comprovante de residência (ver “[Registro de residência](/pages/registro-de-residencia.md)”) e um dos gerentes cuidará de todo o processo. Após a entrega dos documentos (e assinatura do contrato) a sua conta poderá demorar alguns dias até ficar ativa. Os funcionários deste banco estão acostumados a falar inglês, o que torna tudo mais fácil.
 
 Sidenote: Uso DB como meu banco principal e até agora tive experiências **MUITO** positivas com esse banco. Meus e-mails de dúvidas geralmente são respondidos em minutos (!!) e o gerente que me atende é excelente (Carsten Becker - da agência de Alexanderstraße 5).
 
