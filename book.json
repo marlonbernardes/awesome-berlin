@@ -1,0 +1,10 @@
+{
+  "title": "Awesome Berlin",
+  "plugins": ["edit-link"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/marlonbernardes/awesome-berlin/tree/master",
+      "label": "Edit this page"
+    }
+  }
+}
