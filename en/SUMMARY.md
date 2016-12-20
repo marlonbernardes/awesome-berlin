@@ -1,1 +1,22 @@
-# WIP
+## Summary
+
+1. [Introduction](/README.md#awesome-berlin)
+1. [First steps](/pages/first-steps.md#fisrt-steps)
+1. [Address Registration](/pages/address-registration.md#address-registration)
+  1. [Requirements](/pages/address-registration.md#requirements)
+  1. [Filling the form](/pages/address-registration.md#filling-the-form)
+  1. [How to](/pages/address-registration.md)
+  1. [Tips](/pages/address-registration.md)
+1. [Public transport](/pages/public-transport.md)
+  1. [How to buy tickets](/pages/public-transport.md)
+  1. [About public transport](/pages/public-transport.md)
+1. [Mobile phones](/pages/mobile-phones.md)
+  1. [Pre-paid options](/pages/mobile-phones.md)
+1. [Opening a bank account](/pages/bank-account.md)
+  1. [Deutsche Bank](/pages/bank-account.md)
+  1. [N26](/pages/bank-account.md)
+1. [Health Insurance](/pages/health-insurance.md)
+1. [Social Security](/pages/social-security.md)
+  1. [Getting a Tax Id](/pages/social-security.md)
+1. [Changing your Tax Class](/pages/changing-tax-category.md)
+  1. [Filling the form](/pages/changing-tax-category.md)
