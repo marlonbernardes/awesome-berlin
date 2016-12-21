@@ -1,4 +1,4 @@
-## Summary
+## First steps
 
 1. [Introduction](/README.md#awesome-berlin)
 1. [First steps](/pages/first-steps.md#fisrt-steps)
