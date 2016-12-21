@@ -4,6 +4,7 @@
     "anchors",
     "disqus",
     "edit-link",
+    "ga",
     "include"
   ],
   "pluginsConfig": {
@@ -16,6 +17,9 @@
         "en": "Improve this page",
         "pt-br": "Edite esta página"
       }
+    },
+    "ga": {
+      "token": "UA-89278781-1"
     }
   }
 }
