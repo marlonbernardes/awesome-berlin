@@ -1,7 +1,6 @@
-## First steps
+## Summary
 
 1. [Introduction](/README.md#awesome-berlin)
-1. [First steps](/pages/first-steps.md#fisrt-steps)
 1. [Address Registration](/pages/address-registration.md#address-registration)
   1. [What you need](/pages/address-registration.md#what-you-need-for-the-registration)
   1. [How to fill out the form](/pages/address-registration.md#how-to-fill-out-the-form)

@@ -1,7 +1,6 @@
 ## Índice
 
 1. [Introdução](/README.md#awesome-berlin)
-1. [Primeiros passos](/pages/primeiros-passos.md#primeiros-passos)
 1. [Registro de residência](/pages/registro-de-residencia.md#registro-de-residência)
   1. [Pré-requisitos](/pages/registro-de-residencia.md#o-que-preciso-para-fazer-meu-registro-de-residência)
   1. [Preenchendo o formulário](/pages/registro-de-residencia.md#como-preencher-o-formulário-de-residência)
@@ -15,9 +14,11 @@
 1. [Abrindo uma conta bancária](/pages/conta-bancaria.md#abrindo-uma-conta-bancária)
   1. [Deutsche Bank](/pages/conta-bancaria.md#deutsche-bank)
   1. [N26](/pages/conta-bancaria.md#n26)
-1. [Aplicando para saúde pública](/pages/saude-publica.md#aplicando-para-o-seguro-de-saúde-pública)
-1. [Previdência social](/pages/previdencia-social.md#previdência-social)
-  1. [Obtendo o Tax Id](/pages/previdencia-social.md#obtendo-o-tax-id)
+1. [Sistema de saúde](/pages/saude-publica.md#aplicando-para-o-seguro-de-saúde-pública)
+  1. [Aplicando para saúde pública](/pages/saude-publica.md#aplicando-para-o-seguro-de-saúde-pública)
+1. [Trabalhando na alemanha](/pages/previdencia-social.md#previdência-social)
+  1. [Previdência social](/pages/previdencia-social.md#previdência-social)
+  1. [Tax Id](/pages/previdencia-social.md#obtendo-o-tax-id)
 1. [Alterando a categoria de imposto](/pages/categoria-de-imposto.md#alterando-a-categoria-de-imposto)
   1. [Preenchendo o formulário](/pages/categoria-de-imposto.md#preenchendo-o-formulário)
 
