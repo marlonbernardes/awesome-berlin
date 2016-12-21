@@ -5,6 +5,7 @@
     "disqus",
     "edit-link",
     "ga",
+    "github-buttons",
     "include"
   ],
   "pluginsConfig": {
@@ -20,6 +21,14 @@
     },
     "ga": {
       "token": "UA-89278781-1"
+    },
+    "github-buttons": {
+      "repo": "marlonbernardes/awesome-berlin",
+      "types": [
+        "star",
+        "watch"
+      ],
+      "size": "medium"
     }
   }
 }
