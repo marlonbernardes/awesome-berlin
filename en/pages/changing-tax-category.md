@@ -31,7 +31,7 @@ Anyway, if you want to change the tax category you need to perform the following
  - Deliver it in a Finanzamt (you do not need to schedule an appointment)
  - Done! You might need to wait up to 30 days for this change to be reflected in your salary.
 
-## Filling out the form
+## How to fill out the form
 
 Step by step:
 
