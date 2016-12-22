@@ -1,6 +1,6 @@
 # Alterando a categoria de imposto
 
-A categoria de imposto é o fator mais importante no cálculo do imposto, e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Cateogory) com o requisitos para fazer parte de cada uma das categorias de imposto.
+A categoria de imposto é o fator mais importante no cálculo do imposto, e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Category) com o requisitos para fazer parte de cada uma das categorias de imposto.
 
 Alguns dias/semanas após o primeiro registro de residência na Alemanha (feito no Bürgeramt), o Finanzamt será notificado e irá criar um Tax Id (um número que te identifica no "Departamento de Finanças" da Alemanha) e te enviar por correio, para o endereço em que você foi registrado. Durante a criação do Tax Id, o Finanzamt automaticamente te atribuirá para uma das categorias de imposto.
 
@@ -10,7 +10,7 @@ Enfim, para alterar a categoria de imposto o processo é o seguinte:
  - Obter o formulário *Steuerklassenwechsel* (download [aqui](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/steuerklassenwechsel.pdf)) OU pegue-o no Finanzamt do seu distrito)
  - Preencher e assinar o formulário (veja abaixo com preencher)
  - Entregar o formulário no Finanzamt
- - Esperar troca ser efetuada (pode demorar até um mês)
+ - Esperar a troca ser efetuada (pode demorar até um mês)
  - Pronto! :)
 
 Diferentemente do registro de residência, para alterar a classe de imposto você provavelmente não precisará enfrentar filas, acordar cedo ou fazer um agendamento de horário online pelo site. Já fui 3 vezes em Finanzamts diferentes, e sempre fui atendido em poucos minutos.
@@ -23,7 +23,7 @@ Por partes:
 
 ![primeira parte](https://cloud.githubusercontent.com/assets/2975955/18363615/1de91f8e-760b-11e6-8fc5-1c1f0a6092ca.png)
 
-Preencha o campo "Identifikationsnummer" (campo 2) com o Tax Id do marido - campo *Ehemann* e da esposa - *Ehefrau* - (nota: a terminologia utilizada no formulário não parece muito adequada no caso de casais homoafetivos). No meu caso, como eu não sabia o TaxId da minha esposa, fui instruído (pela funcionária do Finanzamt) que é OK deixar o Tax ID de apenas de um dos membros do casal.
+Preencha o campo "Identifikationsnummer" (campo 2) com o Tax Id do marido - campo *Ehemann* e da esposa - *Ehefrau* - (nota: a terminologia utilizada no formulário não parece muito adequada no caso de casais homoafetivos). No meu caso, como eu não sabia o TaxId da minha esposa, fui instruído (pela funcionária do Finanzamt) que é OK deixar o Tax ID de apenas um dos membros do casal.
 
 **Parte A**
 
