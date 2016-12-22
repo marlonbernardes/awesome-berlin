@@ -1,0 +1,33 @@
+{
+  "title": "Awesome Berlin",
+  "plugins": [
+    "anchors",
+    "disqus",
+    "edit-link",
+    "ga",
+    "github-buttons",
+    "include"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "awesome-berlin"
+    },
+    "edit-link": {
+      "base": "https://github.com/marlonbernardes/awesome-berlin/tree/master",
+      "label": {
+        "en": "Improve this page",
+        "pt-br": "Edite esta página"
+      }
+    },
+    "ga": {
+      "token": "UA-89278781-1"
+    },
+    "github-buttons": {
+      "repo": "marlonbernardes/awesome-berlin",
+      "types": [
+        "star"
+      ],
+      "size": "medium"
+    }
+  }
+}
