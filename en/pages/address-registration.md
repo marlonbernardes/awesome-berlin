@@ -6,13 +6,13 @@ The document received immediately after your registration is really important, a
 
 ## What you need for the registration
 
-- Passaport (or Passaports, in case more than one person are being registered in the same address)
+- Passport (or Passports, in case more than one person are being registered in the same address)
 - Rental agreement (*Mietvertrag*)
 - Registration form filled out (Anmeldungsformular). 
   - [Registration form - English](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
   - [Registration form - German](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
 - If you are married, bring your marriage certificate (written in English or German)
-- If you have children, bring their birth certicates
+- If you have children, bring their birth certificates
 - Patience
 
 ## How to fill out the form
@@ -35,7 +35,7 @@ Below you will find an example, followed by some explanations.
 8. Each row contains information about one of the persons being registered. Please pay attention to the row "id" (Lfd. Nr). and keep the same order in the adjacent tables.
 9. Each form allows you to register up to 4 persons at the same time. Print more copies if you need to register more than this. In this example, I am registering a couple ("Pedro Alvares Cabral" and "Fulana Ciclana Beltrana") living in the same address.
 10. Only used if one of the persons being registered changed their name (e.g: after marriage)
-11. **Important** If you specify a religion you will have to pay the church tax (something between 8% and 9% of your income tax). As an example, if you pay 1000 euros of income tax every month, then you will be charged (automatically) an extra tax of 80-90 euros per month. If you don't want to pay the Church tax leave it blank.
+11. **Important** If you specify a religion you will have to pay the church tax (something between 8% and 9% of your income tax. For catholics it can be up to as much as 18%). As an example, if you pay 1000 euros of income tax every month, then you will be charged (automatically) an extra tax of 80-90 euros per month. If you don't want to pay the Church tax leave it blank.
 12. Leave it blank if you don't have this information (tip: if this is your first time registering then you don't have it yet :-) )
 13. If you are moved to Germany but your your wife/husband is living in a different address, please specify it here.
 14. Passport information - self explanatory.
@@ -43,7 +43,7 @@ Below you will find an example, followed by some explanations.
 
 ## How the registration works
 
-- Gather all the required documentation (passport(s), filled out registration form, rental contract, marriage/birth certificate (if you are married/have children)
+- Gather all the required documentation (passport(s), filled out registration form, confirmation of recidence from your landlord (Template can be found [here](http://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
 - Take your paperwork to a local registration office (*Bürgeramt*), but before that decide your strategy:
 
  **1) Make an online appointment (via [https://service.berlin.de/](https://service.berlin.de/))**
@@ -59,5 +59,5 @@ After that, just handover all the documents to the employee and wait for your re
 ## Tips
 
 - There is a chance that the people that will take care of your registration do not speak English, so if you don't speak German make sure you have all the required documents with you (in order to minimize human interactions :P)
-- If you don't have an appointment and they don't have free slots for your don'tpanic. Try again in a different day or in a different Bürgeramt.
+- If you don't have an appointment and they don't have free slots for your don't panic. Try again in a different day or in a different Bürgeramt.
 - Be patient! :)
