@@ -19,7 +19,7 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
   - Há também um ticket mensal para empresas (uma espécie de convênio entre empresas e a BVG), com valor reduzido. Diferentemente dos outros tickets, este não é transferível e você precisa sempre andar com o ticket (que você receberá por correio) e uma carteirinha da BVG (imagem abaixo). A vantagem é que o preço do ticket mensal cai de €81,00 para €60,00. Converse com o RH de sua empresa para saber se eles têm parceria com a BVG.
   - ![carteirinha bvg](https://cloud.githubusercontent.com/assets/2975955/17556079/63dad04c-5f12-11e6-8ffb-6882a64ca625.png)
 
-  É possível comprar tickets em qualquer um quiosque da BVG ou nas máquinas encontradas em todas as estações de metrô espalhadas pela cidade. É possível pagar com dinheiro ou cartão - apesar de algumas máquinas não aceitarem cédulas muito altas.
+  É possível comprar tickets em qualquer quiosque da BVG ou nas máquinas encontradas em todas as estações de metrô espalhadas pela cidade. É possível pagar com dinheiro ou cartão - apesar de algumas máquinas não aceitarem cédulas muito altas.
 
   ![image](https://cloud.githubusercontent.com/assets/2975955/17400420/07babecc-5a48-11e6-8303-e837b419a7b8.png)
 
