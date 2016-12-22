@@ -35,7 +35,7 @@ Below you will find an example, followed by some explanations.
 8. Each row contains information about one of the persons being registered. Please pay attention to the row "id" (Lfd. Nr). and keep the same order in the adjacent tables.
 9. Each form allows you to register up to 4 persons at the same time. Print more copies if you need to register more than this. In this example, I am registering a couple ("Pedro Alvares Cabral" and "Fulana Ciclana Beltrana") living in the same address.
 10. Only used if one of the persons being registered changed their name (e.g: after marriage)
-11. **Important** If you specify a religion you will have to pay the church tax (something between 8% and 9% of your income tax. For catholics it can be up to as much as 18%). As an example, if you pay 1000 euros of income tax every month, then you will be charged (automatically) an extra tax of 80-90 euros per month. If you don't want to pay the Church tax leave it blank.
+11. **Important** If you specify a religion you will have to pay the church tax (something between 8% and 9% of your income tax). As an example, if you pay 1000 euros of income tax every month, then you will be charged (automatically) an extra tax of 80-90 euros per month. If you don't want to pay the Church tax leave it blank.
 12. Leave it blank if you don't have this information (tip: if this is your first time registering then you don't have it yet :-) )
 13. If you are moved to Germany but your your wife/husband is living in a different address, please specify it here.
 14. Passport information - self explanatory.
