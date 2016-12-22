@@ -1,7 +1,7 @@
 # Primeiros passos
 
 Está vindo ou acabou de chegar em Berlin? *Awesome*.
-A tabela abaixo mostra uma resumo (e recomendação!) de atividades que devem ser feitas para que você tenha um bom início na cidade. Para maiores informações, leia o restante desse guia.
+A tabela abaixo mostra um resumo (e recomendações!) de atividades que devem ser feitas para que você tenha um bom início na cidade. Para maiores informações, leia o restante desse guia.
 
 | Tarefa  | Quando fazer | Onde fazer | Pré-requisitos |
 | ------------- | ------------- |------------- | ------------- |
