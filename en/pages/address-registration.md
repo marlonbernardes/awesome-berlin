@@ -6,13 +6,13 @@ The document received immediately after your registration is really important, a
 
 ## What you need for the registration
 
-- Passaport (or Passaports, in case more than one person are being registered in the same address)
+- Passport (or Passports, in case more than one person are being registered in the same address)
 - Rental agreement (*Mietvertrag*)
 - Registration form filled out (Anmeldungsformular). 
   - [Registration form - English](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
   - [Registration form - German](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
 - If you are married, bring your marriage certificate (written in English or German)
-- If you have children, bring their birth certicates
+- If you have children, bring their birth certificates
 - Patience
 
 ## How to fill out the form
@@ -43,7 +43,7 @@ Below you will find an example, followed by some explanations.
 
 ## How the registration works
 
-- Gather all the required documentation (passport(s), filled out registration form, rental contract, marriage/birth certificate (if you are married/have children)
+- Gather all the required documentation (passport(s), filled out registration form, confirmation of recidence from your landlord (Template can be found [here](http://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
 - Take your paperwork to a local registration office (*Bürgeramt*), but before that decide your strategy:
 
  **1) Make an online appointment (via [https://service.berlin.de/](https://service.berlin.de/))**
@@ -59,5 +59,5 @@ After that, just handover all the documents to the employee and wait for your re
 ## Tips
 
 - There is a chance that the people that will take care of your registration do not speak English, so if you don't speak German make sure you have all the required documents with you (in order to minimize human interactions :P)
-- If you don't have an appointment and they don't have free slots for your don'tpanic. Try again in a different day or in a different Bürgeramt.
+- If you don't have an appointment and they don't have free slots for your don't panic. Try again in a different day or in a different Bürgeramt.
 - Be patient! :)
