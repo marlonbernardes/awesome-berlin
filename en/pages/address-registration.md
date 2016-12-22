@@ -43,7 +43,7 @@ Below you will find an example, followed by some explanations.
 
 ## How the registration works
 
-- Gather all the required documentation (passport(s), filled out registration form, confirmation of recidence from your landlord (Template can be found [here](http://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
+- Gather all the required documentation (passport(s), filled out registration form, confirmation of residence from your landlord (Template can be found [here](http://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
 - Take your paperwork to a local registration office (*Bürgeramt*), but before that decide your strategy:
 
  **1) Make an online appointment (via [https://service.berlin.de/](https://service.berlin.de/))**
