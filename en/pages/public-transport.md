@@ -33,11 +33,14 @@ When you buy the ticket its price will change according to the combination of zo
 
 - Please always remember to validate  you ticket before commencing your journey (does not apply to monthly and annual season tickets). There is a machine for that in every station, bus or tram - you will see it!
 
+- If you're going by (Metro)Tram there are ticket machines within the Tram itself, but you can only pay with coins.
+
 ## Tips
 
 - All means of transport work 24h per day on Fridays and Saturdays. On weekdays, the U-Bahn stops between midnight and 01:00AM (depends on the line) while the S-Bahn generally stops around 01:30 AM.
 - If the U-Bahn / S-Bahn is closed, you can always get a Metro Bus, as they work 24/7 in ten minute intervals.
 - The public transport in Berlin is based in a "Honor System", so all the stations are barrier-free. Despite of that, always buy and have your ticket with you, or you can get a fine from one of the random ticket inspectors.  - There are some useful apps that will help you to get around in the city. If you have an Android or an iPhone, look for "Citymapper" in Play Store/Apple Store. Google maps also allows you to download the maps for offline access, so that might be useful as well.
+- You can use the app BVG FahrInfo Plus for [Android](https://play.google.com/store/apps/details?id=de.eos.uptrade.android.fahrinfo.berlin) or [Apple](https://itunes.apple.com/de/app/bvg-fahrinfo-plus-berlin/id284971745?l=en&mt=8) to buy tickets online.
 - This might be obvious, but let's make it clear: you can use your ticket in any type of transportation that you want. In other words, there is no "bus ticket" or "u-bahn ticket" in Berlin.
 - Most long duration tickets (daily/weekly/monthly) allow you to take your dog with you (more information [here](https://www.bvg.de/en/Tickets/conditions-of-carriage)
 - If you buy a ticket from a bus driver (normal practice in Berlin), it is also valid for the S-Bahn, as long as you use it within two hours of your purchase.
