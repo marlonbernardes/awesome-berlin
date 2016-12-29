@@ -45,3 +45,4 @@ When you buy the ticket its price will change according to the combination of zo
 - Most long duration tickets (daily/weekly/monthly) allow you to take your dog with you (more information [here](https://www.bvg.de/en/Tickets/conditions-of-carriage)
 - If you buy a ticket from a bus driver (normal practice in Berlin), it is also valid for the S-Bahn, as long as you use it within two hours of your purchase.
 - When taking the bus, it is ~~required~~ polite to show the ticket to the bus driver (even though most of the drivers don't even look at it)
+- ![taking-the-bus](https://cloud.githubusercontent.com/assets/2975955/21542148/17b0b326-cdbc-11e6-9496-6f886919a271.gif)

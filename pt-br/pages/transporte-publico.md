@@ -37,4 +37,5 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
 - Talvez seja óbvio, mas não custa deixar claro: os tickets de longa duração (diário/semanal/mensal/etc) não estão associados a um meio de transporte. Em outras palavras: o mesmo ticket te dá direito a utilizar Trams, U-Bahn, S-Bahn, Ônibus, etc de forma ilimitada (até a data de validade do ticket).
 - Bicicletas, malas, carrinhos de bebê e cachorros são aceitos em todos os meios de transporte.
 - Em ônibus você deve entrar pela porta da frente (exceções: se você estiver com um carrinho de bebê/bicicleta/cadeira de rodas/etc, o(a) motorista irá abrir uma das portas centrais). É esperado que você mostre o ticket para o(a) motorista na hora em que entrar no ônibus (eles raramente olham, mas é considerado cordial mostrar mesmo assim).
+- ![taking-the-bus](https://cloud.githubusercontent.com/assets/2975955/21542148/17b0b326-cdbc-11e6-9496-6f886919a271.gif)
 
