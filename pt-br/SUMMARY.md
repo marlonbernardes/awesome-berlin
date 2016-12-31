@@ -8,6 +8,7 @@
   1. [Dicas gerais](/pages/registro-de-residencia.md#dicas-gerais)
 1. [Transporte público](/pages/transporte-publico.md#transporte-público)
   1. [Como comprar tickets](/pages/transporte-publico.md#como-comprar-tickets)
+  1. [Obtendo o ticket anual](/pages/transporte-publico.md#adquirindo-o-cartão-anual-de-transporte)
   1. [Sobre o transporte público](/pages/transporte-publico.md#sobre-o-transporte-público)
 1. [Telefone pré-pago](/pages/telefonia.md#telefone-pré-pago)
   1. [Operadoras](/pages/telefonia.md#algumas-opções-de-pré-pagos)

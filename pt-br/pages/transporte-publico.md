@@ -16,7 +16,8 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
   - ![mapa abc](https://cloud.githubusercontent.com/assets/2975955/17400833/81c83ad0-5a4a-11e6-9e8e-e4e1731cb51c.png)
   - Quanto maior a validade do ticket, melhor o custo benefício. Como exemplo, um ticket mensal (sem desconto) válido em qualquer horário, para as zonas AB custa €81,00 (~€2,70 por dia) - enquanto um ticket equivalente, semanal, custa €30,00 (~€4,28 por dia).
   - Há dois tipos de duração para ticket mensal: ticket mensal "normal" (monthly ticket) e o flexível (flexible monthly ticket). O ticket normal vale **sempre** do primeiro dia do mês selecionado até o último. O flexível te deixa selecionar uma data qualquer e vale por 1 mês após a data selecionada. Apenas compre o ticket "normal" caso você esteja no primeiro dia do mês OU se você for comprar para algum mês subsequente, pois você não receberá um desconto caso compre um ticket mensal normal e já esteja na metade do mês!
-  - Há também um ticket mensal para empresas (uma espécie de convênio entre empresas e a BVG), com valor reduzido. Diferentemente dos outros tickets, este não é transferível e você precisa sempre andar com o ticket (que você receberá por correio) e uma carteirinha da BVG (imagem abaixo). A vantagem é que o preço do ticket mensal cai de €81,00 para €60,00. Converse com o RH de sua empresa para saber se eles têm parceria com a BVG.
+  - Há também um ticket para empresas (uma espécie de convênio entre empresas e a BVG), com valor reduzido. Diferentemente dos outros tickets, este não é transferível e você precisa sempre andar com o ticket (que você receberá por correio) e uma carteirinha da BVG (imagem abaixo). A vantagem é que o preço do ticket mensal cai de €81,00 para €60,00. Converse com o RH de sua empresa para saber se eles têm parceria com a BVG.
+  - Também é possível comprar um ticket anual (pode ser pago mensalmente), que custa entre €60 e €63 por mês. É necessário se inscrever online para conseguir esse ticket (veja abaixo como fazer).
   - ![carteirinha bvg](https://cloud.githubusercontent.com/assets/2975955/17556079/63dad04c-5f12-11e6-8ffb-6882a64ca625.png)
   - Existem tickets anuais (que podem ser "parcelados"), saindo por um valor mais acessível: €60,00 mensais.
   - É possível comprar tickets em qualquer quiosque da BVG ou nas máquinas encontradas em todas as estações de metrô espalhadas pela cidade. É possível pagar com dinheiro ou cartão - apesar de algumas máquinas não aceitarem cédulas muito altas.
@@ -24,6 +25,21 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
   - **Importante** Sempre lembre de validar seu ticket antes de iniciar sua jornada. Existem máquinas que validam os tickets em qualquer estação trem/metrô, ônibus ou tram. Não é necessário validar tickets de longa duração (que valem para o dia inteiro, mês ou semana).
 
   ![image](https://cloud.githubusercontent.com/assets/2975955/17400420/07babecc-5a48-11e6-8303-e837b419a7b8.png)
+
+## Adquirindo o cartão anual de transporte
+
+O ticket anual é uma alternativa mais econômica em relação ao ticket mensal, custando €63,42 por mês (ou 1x de €728).
+Para adquirir este ticket, é necessário se registrar online, visto que o ticket não é vendido nas máquinas automáticas.
+
+Para fazer isso:
+
+  1. Acesse https://www.abo-antrag.de/
+  2. Clique em "Abonnement abschließen" para começar a inscrição.
+  3. Siga os passos indicados pelo site (dica: google translate) e preencha os formulários. Ter uma conta bancária alemã é obrigatório.
+  4. Após receber o email de confirmação, você precisa aguardar alguns dias para que sua inscrição fique "ativa" e você receba o cartão em sua casa.
+
+![sbahn](https://cloud.githubusercontent.com/assets/2975955/21577255/c1620f34-cf54-11e6-9859-ebad96aca928.gif)
+
 
 ## Sobre o transporte público
 
