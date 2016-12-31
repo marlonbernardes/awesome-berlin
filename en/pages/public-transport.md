@@ -35,6 +35,20 @@ When you buy the ticket its price will change according to the combination of zo
 
 - If you're going by (Metro)Tram there are ticket machines within the Tram itself, but you can only pay with coins.
 
+## Getting a yearly transport ticket
+
+The yearly transport ticket/card is a cheaper alternative when compared to the monthly ticket, costing €63,42 per month (or €728, if paid without installments).
+This card is not sold in ticket machines, so you need to register online if you want to obtain one.
+
+To do so:
+
+  1. Open https://www.abo-antrag.de/
+  2. Click on "Abonnement abschließen" to start.
+  3. Fill the form with your data (tip: use google translate). Having a bank account is mandatory.
+  4. After you receive the confirmation email, you will need to wait some days until they "activate" your subscription and you receive the transport card at your address.
+
+![sbahn](https://cloud.githubusercontent.com/assets/2975955/21577255/c1620f34-cf54-11e6-9859-ebad96aca928.gif)
+
 ## Tips
 
 - All means of transport work 24h per day on Fridays and Saturdays. On weekdays, the U-Bahn stops between midnight and 01:00AM (depends on the line) while the S-Bahn generally stops around 01:30 AM.

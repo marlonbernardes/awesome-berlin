@@ -8,6 +8,7 @@
   1. [Tips](/pages/address-registration.md#tips)
 1. [Public transport](/pages/public-transport.md#public-transport)
   1. [How to buy tickets](/pages/public-transport.md#how-to-buy-transport-tickets)
+  1. [Getting a yearly transport ticket](/pages/public-transport.md#getting-a-yearly-transport-ticket)
   1. [Tips](/pages/public-transport.md#tips)
 1. [Mobile phones](/pages/mobile-phones.md#mobile-phone)
   1. [Pre-paid options](/pages/mobile-phones.md#other-options)
