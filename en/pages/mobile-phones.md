@@ -10,3 +10,4 @@ The best-known telephone operators in Germany are Telekom (T-Mobile), Vodafone a
 - [https://www.smartmobil.de/](https://www.smartmobil.de/)
 - [https://angebote.simyo.de/](https://angebote.simyo.de/)
 - [https://www.otelo.de/](https://www.otelo.de/)
+- [https://www.blau.de/](https://www.blau.de/)
