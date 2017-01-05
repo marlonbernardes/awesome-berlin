@@ -13,4 +13,4 @@ Para ter um telefone **pós**-pago você precisa ter uma conta em um banco alem�
 - [https://www.smartmobil.de/](https://www.smartmobil.de/)
 - [https://angebote.simyo.de/](https://angebote.simyo.de/)
 - [https://www.otelo.de/](https://www.otelo.de/)
-
+- [https://www.blau.de/](https://www.blau.de/)
