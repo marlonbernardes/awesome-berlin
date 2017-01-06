@@ -18,7 +18,7 @@ Before you buy the tickets, you first need to decide which ticket to buy. There 
 
   **B** everything outside the S-Bahn ring and inside the city boundary. Airport Berlin Tegel (TXL) is located in this zone.
 
-  **C** areas outside the city limits (e.g Schönefeld airport (SFX), Potsdam)
+  **C** areas outside the city limits (e.g Schönefeld airport (SXF), Potsdam)
 
 When you buy the ticket its price will change according to the combination of zones your ticket covers (there are 3 types, AB, BC or ABC). As an example, I usually buy the AB ticket (because it is obviously cheaper than the ABC ticket) and buy an "extension ticket" in the rare occasions when I need to go to the C zone.
 
