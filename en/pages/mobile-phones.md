@@ -1,6 +1,6 @@
 # Mobile phone
 
-The best-known telephone operators in Germany are Telekom (T-Mobile), Vodafone and O2. The easiest way to get a prepaid number is to look for one of these carriers (hint: there are thousands of stores spread out in the city) or buy a chip directly from Saturn (or similar store). The value of the sim card + activation + opening balance is usually something between € 10 and € 25.
+The best-known telephone operators in Germany are Telekom (T-Mobile), Vodafone and O2. The easiest way to get a prepaid number is to look for one of these carriers (hint: there are thousands of stores spread out in the city) or buy a chip directly from Saturn (or similar store). You can also try visiting your local Lidl, Penny or Aldi and check out their networks (they usually provide really good value for the cost). The value of the sim card + activation + opening balance is usually something between € 10 and € 25.
 
 ## Other options
 - [https://www.simplytel.de/](https://www.simplytel.de/)
