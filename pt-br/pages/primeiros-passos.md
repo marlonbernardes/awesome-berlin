@@ -12,4 +12,4 @@ A tabela abaixo mostra um resumo (e recomendações!) de atividades que devem se
 | Aplicar para o seguro de saúde  | Pode ser feito nos primeiros dias  | Por e-mail | Nenhum. Ver "[aplicando para o seguro de saúde](/pages/saude-publica.md)"
 | Obter seu número de previdência social  | Após receber a confirmação do seguro de saúde | Por e-mail | Ter um seguro de saúde
 | Obter seu Tax Id  | Pelo menos 7 dias (ou mais) após a data de registro de residência | Finanzamt do seu distrito | Registro de residência
-
+| Obter SCHUFA | Antes de iniciar a busca por alugar apartamento | Internet ou alguns Post Banks | Código IBAN (ter conta em um banco) e € 29,95 na conta
