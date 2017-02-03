@@ -45,6 +45,7 @@ Para fazer isso:
 
 - Todos os meios de transporte público funcionam 24h de sextas para sábado e de sábados para domingo.
 - Nos demais dias, o U-Bahn e S-Bahn operam até 01:00am / 01:30am (dependendo da linha). Após esse horário, estes meios são substituídos por ônibus que geralmente seguem um caminho similar ao do metrô.
+- É possível levar mais uma pessoa após as 20:00h e durante todo o fim de semana com o ticket mensal.
 - Os "Metrotrams" (linhas do Trams geralmente conectadas a uma estação de U-Bahn) operam 24h por dia, todos os dias da semana.
 - O transporte público em Berlin funciona com base em um "Sistema de honra" (Honor System). Não há roletas/catracas/barreiras para entrar em um transporte público. É esperado que você tenha (ou compre) o ticket toda vez que entrar em um dos meios de transporte, apesar de raramente existir alguém para verificar se você realmente o possui. Eventualmente fiscais aparecem e pedem para ver o ticket de todos que estão no mesmo vagão/ônibus. Mesmo sabendo que as chances de ninguém te fiscalizar sejam grandes (e a multa de €60,00 não seja tão absurda), por favor **compre o ticket**. Sei que é óbvio (e um pouco chato dizer), mas prefiro reforçar: não encare isso como uma "oportunidade para economizar" - se você usa o transporte público, não dê o "jeitinho brasileiro" (aliás - espero que você tenha deixado isso no Brasil), e pague o ticket!
 - O transporte público é muito pontual. Atrasos são bastante raros, e estações de trams/metrôs/trens possuem sempre um painel indicando quando tempo falta para o transporte chegar. Nas paradas de ônibus há sempre um papel indicando os horários da linha em cada um dos dias da semana.
@@ -54,4 +55,3 @@ Para fazer isso:
 - Bicicletas, malas, carrinhos de bebê e cachorros são aceitos em todos os meios de transporte.
 - Em ônibus você deve entrar pela porta da frente (exceções: se você estiver com um carrinho de bebê/bicicleta/cadeira de rodas/etc, o(a) motorista irá abrir uma das portas centrais). É esperado que você mostre o ticket para o(a) motorista na hora em que entrar no ônibus (eles raramente olham, mas é considerado cordial mostrar mesmo assim).
 - ![taking-the-bus](https://cloud.githubusercontent.com/assets/2975955/21542148/17b0b326-cdbc-11e6-9496-6f886919a271.gif)
-
