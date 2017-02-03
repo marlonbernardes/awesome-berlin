@@ -19,11 +19,10 @@ contra acidentes domésticos
 <small>_1_- Se você não tem um documento alemão do último locatário, tente utilizar uma certidão negativa de livre de débitos
 (com tradução), ou explicar a situação, que devido a recente chegada é o seu primeiro aluguel na Alemanha.</small>
 
-## Tipos de Apartamento
-
-
 ## Aluguel "frio" e aluguel "quente"
-
+ O aluguel "frio" *(Kaltmiete)* é o valor a ser pago pelo aluguel do apartamento (somente), e é utilizado como base para o 
+ calção *(Kaution)*. Já o aluguel "quente" *(Warmmiete)* inclui o valor do alguel do apartamento mais os custos adicionais, como 
+ aquecimento e água. Eletricidade e internet não costumam fazer parte do *Warmmiete* já que você escolherá os provedores.
 
 ## Onde procurar
 
@@ -32,14 +31,14 @@ usando o Google Translator e é possivel utilizá-lo normalmente. Você pode bus
 comodos *(Zimmer<sup>1</sup>)* e pelo preço. Outra funcionalidade interessante é, quando se está logado ele te dá a 
 média de euros/m2 em comparação a imóveis semelhantes na mesma área. Sempre ao procurar veja as informaçōes importantes 
 como:
-  - Vem mobiliado ou com cozinha montada
-  - Permite pets no apartamento
-  - Tem garagem para bicicletas/carros e/ou aréa para guardar objetos (*Keller*)
-  - Aquecimento a Gás/Eletricidade/Carvão
-  - Eficiência energética
-  - Valor do calção (geralmente 3x o "aluguel frio")
-  - Super mercados, farmácias, lojas nas proximidades
-  - Transporte público nas proximidades
+  - Vem mobiliado ou com cozinha montada;
+  - Permite pets no apartamento;
+  - Tem garagem para bicicletas/carros e/ou aréa para guardar objetos (*Keller*);
+  - Aquecimento a gás/eletricidade/óleo/carvão;
+  - Eficiência energética;
+  - Valor do calção (geralmente 3x o "aluguel frio");
+  - Super mercados, farmácias, lojas nas proximidades;
+  - Transporte público nas proximidades.
  
 Pelo próprio site você pode mandar seu interesse ao locador e esperar sua resposta (geralmente já com a data de visita).
 Use esse template para mandar sua mensagem de interesse para visitar o apartamento:<sup>2</sup>
@@ -63,3 +62,22 @@ tome cuidado ao substituir!
 Preencha o formulário de aplicação (Bewerbungsbogen) e junte a todos os documentos exigidos pelo seu 
 locador/agente imobiliario (geralmente vem no formulário) em um PDF único, com as páginas na ordem que o locador pediu 
 cada documento e envie para o locador/agente imobiliario (o email geralmente também vem junto ao formulário).
+
+## Aplicação bem sucedida
+Finalmente, após um locador aceitar sua aplicação de aluguel, vocé será convidado à entrega oficial das chaves. 
+Mas antes disso você terá que assinar o contrato e criar uma conta calção em seu banco.
+
+### Conta Calção - Kautionskonto
+Na Alemanha existe uma lei que oficializa o processo de calção utilizando contas específicas para esse intuíto. Oficialmente 
+o calção só pode ser utilizado para devidos reparos ao apartamento causados pelo locatário. Esse dinheiro só poderá ser 
+retirado, ao final do contrato, pelo locador, para esses devidos fins, e o dinheiro restante volta para você.  
+A conta calçāo garante que isso ocorra, pois é feito ligado a você, o locador e o contrato. Para criar essa conta, você 
+deve ter os dados do locador e o contrato em mãos, e enviá-los/exibi-los ao gerente de seu banco.  
+Existe a opção de transferência direta para o locador, mas assim você se expoe ao risco de não reaver esse dinheiro. Para 
+evitar dores de cabeça, a kautionskonto é a melhor opção.
+
+### Entrega das chaves
+Na entrega das chaves, verifique todo o apartamento, como equipamentos e danos já existentes. Todos esses aspectos devem 
+ser incluídos no contrato. Esses aspectos serão verificados ao final do contrato e se há algum dano ou equipamento faltando 
+que não esteja descrito no contrato, o valor do reparo/compra será retirado diretamente do calção e você receberá um valor 
+menor ao reaver seu calção.
