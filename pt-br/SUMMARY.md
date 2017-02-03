@@ -25,3 +25,7 @@
 1. [Obtendo a SCHUFA](/pages/obtendo-schufa.md)
   1. [Internet](/pages/obtendo-schufa.md#internet)
   1. [Post Bank](/pages/obtendo-schufa.md#post-bank)
+1. [Alugando Apartamento](/pages/alugando-apartamento.md)
+  1. [Aluguel "Quente" e "Frio"](/pages/alugando-apartamento.md#aluguel-frio-e-aluguel-quente)
+  1. [Onde Procurar](/pages/alugando-apartamento.md#onde-procurar)
+  1. [Conta Calção](/pages/alugando-apartamento.md#conta-calção---kautionskonto)
