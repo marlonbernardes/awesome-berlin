@@ -49,14 +49,9 @@ Mit freundlichen Grüßen,
 ${SEU_NOME_COMPLETO}
 </pre>
 
-<small>
-
-**1** - Zimmers são os comodos. Banheiros e varandas não contam como Zimmers.
-<br/>
-**2** - Note que para nomes masculinos se usa **Sehr geehrter Herr ...**, enquanto para nomes femininos se usa **Sehr geehrte Frau ...**,
-tome cuidado ao substituir!
-
-</small>
+<sub>**1** - Zimmers são os comodos. Banheiros e varandas não contam como Zimmers.</sub><br/>
+<sub>**2** - Note que para nomes masculinos se usa **Sehr geehrter Herr ...**, enquanto para nomes femininos se usa **Sehr geehrte Frau ...**,
+tome cuidado ao substituir!</sub>
 
 ## Aplicação:
 Preencha o formulário de aplicação (Bewerbungsbogen) e junte a todos os documentos exigidos pelo seu 
@@ -78,6 +73,6 @@ evitar dores de cabeça, a kautionskonto é a melhor opção.
 
 ### Entrega das chaves
 Na entrega das chaves, verifique todo o apartamento, como equipamentos e danos já existentes. Todos esses aspectos devem 
-ser incluídos no contrato. Esses aspectos serão verificados ao final do contrato e se há algum dano ou equipamento faltando 
+ser incluídos no contrato. Esses detalhes serão verificados ao final do contrato e houver algum dano ou equipamento faltando, 
 que não esteja descrito no contrato, o valor do reparo/compra será retirado diretamente do calção e você receberá um valor 
-menor ao reaver seu calção.
+menor ao reaver seu dinheiro.
