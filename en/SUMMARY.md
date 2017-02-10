@@ -22,4 +22,4 @@
   1. [Tax Id number](/pages/working.md#getting-your-tax-id-number)
 1. [Changing your Tax Class](/pages/changing-tax-category.md#changing-your-tax-category)
   1. [How to fill out the form](/pages/changing-tax-category.md#how-to-fill-out-the-form)
-1. [Social Networks](/pages/social-networks.md)
+1. [Social Networks](/pages/social-networks.md#social-networks)
