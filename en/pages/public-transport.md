@@ -49,6 +49,19 @@ To do so:
 
 ![sbahn](https://cloud.githubusercontent.com/assets/2975955/21577255/c1620f34-cf54-11e6-9859-ebad96aca928.gif)
 
+You can only request a yearly ticket for the start of the next month if you request it up to the 10th day of the current month.
+
+After applying for a yearly ticket, you can also immediately request a **Startkarte** to bridge the period of time between the current date and the start date of your subscription (which is always on the first day of the month). The main advantage is that a **Startkarte** has a reduced fare per day, just like the yearly ticket. To request one, look for a "Customer Center" (Kundenzentren), available in any of the following **S-Bahn** stations:
+
+  - Alexanderplatz
+  - Friedrichstraße
+  - Gesundbrunnen
+  - Hauptbahnhof
+  - Lichtenberg
+  - Ostbahnhof
+  - Potsdam Hauptbahnhof
+  - Spandau
+
 ## Tips
 
 - All means of transport work 24h per day on Fridays and Saturdays. On weekdays, the U-Bahn stops between midnight and 01:00AM (depends on the line) while the S-Bahn generally stops around 01:30 AM.

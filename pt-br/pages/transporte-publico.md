@@ -36,10 +36,24 @@ Para fazer isso:
   1. Acesse https://www.abo-antrag.de/
   2. Clique em "Abonnement abschließen" para começar a inscrição.
   3. Siga os passos indicados pelo site (dica: google translate) e preencha os formulários. Ter uma conta bancária alemã é obrigatório.
-  4. Após receber o email de confirmação, você precisa aguardar alguns dias para que sua inscrição fique "ativa" e você receba o cartão em sua casa.
+  4. Após receber o email de confirmação, você precisa aguardar alguns dias para que sua inscrição fique "ativa" e você receba o cartão em sua casa (você deve receber aproximadamente uma semana antes à data de início dsua validade).
 
 ![sbahn](https://cloud.githubusercontent.com/assets/2975955/21577255/c1620f34-cf54-11e6-9859-ebad96aca928.gif)
 
+A validade do cartão anual de transporte sempre inicia no **dia primeiro do mês selecionado**. O cartão sempre deve ser solicitado com algumas semanas de antecedência, tendo como data limite o dia 10 do mês anterior à data de início. Como exemplos:
+  - Realizando a inscrição até o dia 10 de janeiro: o cartão pode ser válido a partir de Fevereiro.
+  - Realizando a inscrição após o 10 de janeiro: o cartão pode ser válido a partir de Março.
+
+Após solicitar um cartão anual você já tem direito a usufruir ao preço reduzido de tarifa para o mês atual (antes mesmo do cartão anual chegar). Para isso, procure um dos "centros do cliente" (Kundenzentren) disponíveis nas seguintes estações da **S-Bahn**, e solicite um **Startkarte**:
+
+  - Alexanderplatz
+  - Friedrichstraße
+  - Gesundbrunnen
+  - Hauptbahnhof
+  - Lichtenberg
+  - Ostbahnhof
+  - Potsdam Hauptbahnhof
+  - Spandau
 
 ## Sobre o transporte público
 
