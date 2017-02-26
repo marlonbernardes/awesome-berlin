@@ -1,12 +1,26 @@
 # Trazendo pet do brasil (cães e gatos)
+
 O processo de imigração para cães e/ou gatos leva em torno de 5 meses, então se organize com antecedência!
 
 Para trazer seu pet você irá precisar:
+
+- Inserir microchip internacional
+- Vacinação anti-rábica
+- Sorologia anti-rábica
+- Compra de passagens aéreas
+- Atestado de saúde do animal
+- CZI - permissão internacional para viajar
+- Desmbarque e inspeção
+- Registro do animal em Berlin (Hundesteuer-Anmeldung)
+
+
 ## Inserir microchip internacional
+
 O primeiro passo é a inserção do microchip internacional no animal. Fique atento que o microchip deve seguir as regras da **ISO 11784 ou 11785**.
 Em geral, qualquer clínica veterinária no Brasil faz a aplicação de microchip, e o valor fica por volta de R$90 a R$180.
 Caso seu pet já possua o microchip, siga para o próximo passo: vacina anti-rábica.
 
+**Importante:** você precisará do [certificado do microchip](http://www.backhome.com.br/media/site/certificado_microchipagem.pdf) (esse é o modelo da BackHome), assinado e carimbado pelo veterinário, as vezes as clínicas esquecem de lhe entregar.
 
 ## Vacinação anti-rábica
 Após a inserção do microchip, o próximo passo é a vacina anti-rábica. Ela deve ser aplicada obrigatoriamente após a inserção do microchip. No Brasil, essa vacina costuma ser feita anualmente, e mesmo que não faça um ano desde a última aplicação dessa vacina em seu pet, não tem problema, você pode re-fazêla sem problemas.
@@ -24,7 +38,7 @@ Para mais informações sobre as condições do soro sanguíneo para estar apto 
 Para solicitar esse exame, você terá que ir no veterinário ou laboratório para fazer a coleta do sangue do animal. Após coletado, o sangue será centrifugado para se obter o soro do sangue.
 Para enviar o soro para o laboratório de SP, você pode levar pessoalmente, ou encaminhar por Sedex.
 
-Para encaminhar por Sedex, você precisa preparar uma caixa térmica (eu usei uma caixa de isopor) com gelo reciclável (eu usei gelo em gel) suficiente para manter o soro refrigerado (entre 4º a 8ºC) por alguns dias. O tubo onde contém o soro sanguíneo, não pode estar em contato com o gelo, pois caso o soro congele, ele não pode mais ser utilizado. O tubo que contém o soro, precisa estar identificado com o número do microchip do animal. 
+Para encaminhar por Sedex, você precisa preparar uma caixa térmica (eu usei uma caixa de isopor) com gelo reciclável (eu usei gelo em gel) suficiente para manter o soro refrigerado (entre 4º a 8ºC) por alguns dias. O tubo onde contém o soro sanguíneo, não pode estar em contato com o gelo, pois caso o soro congele, ele não pode mais ser utilizado. O tubo que contém o soro, precisa estar identificado com o número do microchip do animal.
 
 Ainda dentro da caixa de isopor, você precisa colocar a requisição do exame, que você encontra [clicando aqui](http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/pagina_raiva_formulário_sorologia_animal_de_companhia__2__1461767048.pdf).
 Coloque o papel da requisição dentro de um saco plástico, para garantir que o gelo não danifique o papel.
@@ -39,7 +53,7 @@ A requisição deve ser preenchida pelo veterinário responsável pelo animal. C
 Com a caixa térmica contendo o soro sanguíneo, gelo e a requisição você já pode lacrar e enviar por Sedex10.
 ![img_20160427_113723278](https://cloud.githubusercontent.com/assets/3342195/23273017/bd0495dc-f9fd-11e6-860b-de87dbf56f35.jpg)
 
-Quando o laboratório de SP receber a caixa, você receberá um email com o boleto para pagar o exame. 
+Quando o laboratório de SP receber a caixa, você receberá um email com o boleto para pagar o exame.
 
 O exame está custando pouco menos de 200 reais no momento. Caso a amostra não esteja em condições de ser analisada, o laboratório também avisará por email e você terá que enviar uma nova amostra.
 
@@ -51,11 +65,51 @@ Caso você tenha alguma dúvida sobre esse processo, você pode ligar diretament
 **O laboratório de SP é o único laboratório no Brasil credenciado pela União Européia que pode emitir a sorologia anti-rábica.** Já aconteceu de o laboratório não estar fazendo esse exame pois estava sem o material necessário. Nesse caso, você terá que solicitar esse exame em algum outro país. Você pode conferir a lista de laboratórios autorizados [clicando aqui](http://ec.europa.eu/food/animals/pet-movement/approved-labs_en#brasil).
 No início do ano de 2016, o laboratório ficou alguns meses sem fazer esse exame, e a alternativa mais fácil para brasileiros era solicitar esse exame em um dos laboratórios dos Estados Unidos, pois as regras alfandegárias para levar soro sanguíneo para o Chile (laboratório mais próximo) são bastante restritas.
 
+## Atestado de saúde do animal
+
+Para fazer o CZI (etapa abaixo) será necessário ter um atestado de saúde do animal, você deverá ir ao veterinário do seu animal e solicitar que ele faça esse atestado.
+
+**Importante observar que:**
+- O atestado de saúde deve ser emitido por um veterinário em papel timbrado;
+- O atestado deve seguir o modelo de atestado de saúde (modelo abaixo);
+- O atestado de saúde só possui 3 dias de validade, contando do dia da emissão do
+atestado até o dia de emissão do CZI (Certificado Zoossanitário Internacional);
+- O atestado de saúde deve conter data e cidade;
+- O atestado deve ser assinado e carimbado pelo veterinário (caneta com tinta azul), e o
+carimbo deve conter o número do seu CRMV.
+
+**Modelo do texto para o atestado de saúde**
+![modelo_atestado_de_saude.jpg](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/modelo_atestado_de_saude.jpg)
+*Fonte: www.doc-dog.com
+
+
 ## CZI - permissão internacional para viajar
+
 O CZI pode ser solicitado a partir de 3 meses após a data da coleta de sangue para a sorologia anti-rábica. Atenção: esse é um item super importante e que causa bastante confusão. Não existe quarentena para o animal entrar na união européia, o que existe é um período de **90 dias entre a coleta de sangue para a sorologia e a solicitação do CZI**. Não são 90 dias a partir do momento que você recebeu o resultado da sorologia, e sim do dia que o sangue foi coletado. Essa data fica registrada no resultado do exame da sorologia.
 ![img_20170223_215155177](https://cloud.githubusercontent.com/assets/3342195/23278652/8cd0d370-fa12-11e6-98f6-9e5bb1718465.jpg)
 
-Para solicitar o CZI você precisa fazer um agendamento na Vigiagro do seu estado para, no máximo, 10 dias antes do  embarque.
+Para solicitar o CZI você precisa fazer um agendamento na Vigiagro do seu estado para, no máximo, 10 dias antes do  embarque. É importante fazer o contato com eles bem antes e já tirar dúvidas, alguns pedem para você enviar a documentação por e-mail antecipadamente assim eles podem conferir e lhe orientar do que mais precisa ser feito, não ficando aquela correria de última hora porque algo mudou na legislação ou por que ficou esquecido. No site do [Ministério da Agricultura](http://www.agricultura.gov.br/assuntos/sanidade-animal-e-vegetal/saude-animal/transito-animal/animais-estimacao/) você encontra mais informações.
+
+## Compra de passagens aéreas
+
+- Antes de comprar as passagens confirme com a companhia se há vagas para seu pet no voo escolhido;
+- Após comprar as passagens ligue novamente na companhia para reservar a vaga do seu pet no voo, em cada um dos voos e companhias;
+- Verificar se a caixa de transporte se encontra dentro dos limites impostos pela cia
+aérea;
+- No dia do embarque, chegar com pelo menos 3 horas de antecedência ao check-in.
+
+## Documentação final antes do embarque
+
+- Possuir carteira de vacinação original, com vacina anti-rábica válida;
+- Possuir o certificado de microchipagem;
+- Possuir o resultado do exame de sorologia;
+- Possuir CZI (Certificado Zoossanitário Internacional), emitido pelo Ministério da
+Agricultura (Vigiagro), dentro da validade;
+- Escanear documentação e guardar uma cópia no seu e-mail, caso precise;
+- Tirar dois jogos de cópias: um para entregar à companhia aérea no momento do
+check-in, e outro para entregar às autoridades europeias;
+- O atestado de saúde emitido pelo veterinário pode ficar retido no Ministério da Agricultura,
+portanto importante ficar com uma cópia dele.
 
 ## Desmbarque e inspeção
 Grande parte das pessoas apenas passam com o animal pela fiscalização da fronteira e ninguém verifica se a documentação do animal está ok. Porém, o correto é que você procure o local onde o animal deve ser inspecionado. Se você não for atrás disso, ninguém vai ir te procurar para verificar a documentaçao.
@@ -69,8 +123,10 @@ Aproveite e se informe sobre o valor dessa inspeçāo. O valor varia em cada pa�
 
 Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você deve sair da área de desembarque pela saída da Aduana/Alfândega em que você vai declarar o que está trazendo, e eles irão conferir se o veterinario assinou o CZI. Muitas pessoas costumam passar pela saída 'Nada a declarar', e não da nenhum problema, porém o correto seria passar pela Aduana/Alfândega declarando a entrada do animal.
 
-
 ## Registro do animal em Berlin (Hundesteuer-Anmeldung)
+
+**A princípio esse registro não é obrigatório para gatos**
+
 É obrigatório fazer o registro do animal no Finanzamt e pagar o imposto de 120 euros por ano.
 [Clique aqui](http://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) para baixar o formulário que deve ser entregue no dia do registro do animal.
 Você encontra esse formulário já impresso no Finanzamt, mas é sempre bom levar já preenchido (ainda mais se você não fala Alemão).
