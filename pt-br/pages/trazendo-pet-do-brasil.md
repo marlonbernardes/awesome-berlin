@@ -10,7 +10,7 @@ Para trazer seu pet você irá precisar:
 - Compra de passagens aéreas
 - Atestado de saúde do animal
 - CZI - permissão internacional para viajar
-- Desmbarque e inspeção
+- Desembarque e inspeção
 - Registro do animal em Berlin (Hundesteuer-Anmeldung)
 
 
@@ -111,7 +111,7 @@ check-in, e outro para entregar às autoridades europeias;
 - O atestado de saúde emitido pelo veterinário pode ficar retido no Ministério da Agricultura,
 portanto importante ficar com uma cópia dele.
 
-## Desmbarque e inspeção
+## Desembarque e inspeção
 Grande parte das pessoas apenas passam com o animal pela fiscalização da fronteira e ninguém verifica se a documentação do animal está ok. Porém, o correto é que você procure o local onde o animal deve ser inspecionado. Se você não for atrás disso, ninguém vai ir te procurar para verificar a documentaçao.
 
 Essa inspeção deve ser feita no primeiro país que você entrar na União Européia. Se você tem alguma escala dentro da União Européia, o primeiro país que você entrou na UE é onde a inspeção deve ser feita.
@@ -125,7 +125,7 @@ Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você dev
 
 ## Registro do animal em Berlin (Hundesteuer-Anmeldung)
 
-**A princípio esse registro não é obrigatório para gatos**
+**Este registro deve ser feito apenas para cachorros.**
 
 É obrigatório fazer o registro do animal no Finanzamt e pagar o imposto de 120 euros por ano.
 [Clique aqui](http://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) para baixar o formulário que deve ser entregue no dia do registro do animal.
