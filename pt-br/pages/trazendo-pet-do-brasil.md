@@ -46,7 +46,7 @@ A requisição deve ser preenchida pelo veterinário responsável pelo animal. C
 
 ![sorologia-material](https://cloud.githubusercontent.com/assets/3342195/23272920/554b05de-f9fd-11e6-852d-3111a46f984e.jpg)
 
-  1. Requisição da sorologia, dentro de um saco plastico.
+  1. Requisição da sorologia, dentro de um saco plástico.
   2. Soro sanguíneo, enrolado em papel e colado na parede da caixa, para não ficar rolando dentro da caixa durante o transporte.
   3. Duas caixinhas de gelo reciclável.
 
@@ -112,16 +112,16 @@ check-in, e outro para entregar às autoridades europeias;
 portanto importante ficar com uma cópia dele.
 
 ## Desembarque e inspeção
-Grande parte das pessoas apenas passam com o animal pela fiscalização da fronteira e ninguém verifica se a documentação do animal está ok. Porém, o correto é que você procure o local onde o animal deve ser inspecionado. Se você não for atrás disso, ninguém vai ir te procurar para verificar a documentaçao.
+Grande parte das pessoas apenas passam com o animal pela fiscalização da fronteira e ninguém verifica se a documentação do animal está ok. Porém, o correto é que você procure o local onde o animal deve ser inspecionado. Se você não for atrás disso, ninguém vai ir te procurar para verificar a documentação.
 
 Essa inspeção deve ser feita no primeiro país que você entrar na União Européia. Se você tem alguma escala dentro da União Européia, o primeiro país que você entrou na UE é onde a inspeção deve ser feita.
 
-Em cada aeroporto, o local onde o animal é inspecionado é diferente. Por exemplo, no aeroporto de Lisboa em Portugal, a sala do veterinário fica logo ao lado da esteira onde se retira as bagagens. Normalmnete você encontra cartazes na parede com informacoes de como proceder.
+Em cada aeroporto, o local onde o animal é inspecionado é diferente. Por exemplo, no aeroporto de Lisboa em Portugal, a sala do veterinário fica logo ao lado da esteira onde se retira as bagagens. Normalmente você encontra cartazes na parede com informações de como proceder.
 
-ATENÇÃO: Em alguns países (por exemplo, Portugal), você precisa agendar essa inspeção. [Clicando aqui](https://ec.europa.eu/food/animals/pet-movement/eu-legislation/non-commercial-non-eu/tpe_en), você encontra o contato de todos os *Travellers Point of Entry* da UE. Na maioria dos países você pode fazer o agendamento por email, e não esqueca de incluir o número do voo que o animal vai chegar.
+ATENÇÃO: Em alguns países (por exemplo, Portugal), você precisa agendar essa inspeção. [Clicando aqui](https://ec.europa.eu/food/animals/pet-movement/eu-legislation/non-commercial-non-eu/tpe_en), você encontra o contato de todos os *Travellers Point of Entry* da UE. Na maioria dos países você pode fazer o agendamento por email, e não esqueça de incluir o número do voo que o animal vai chegar.
 Aproveite e se informe sobre o valor dessa inspeçāo. O valor varia em cada país (alguns não cobram nada), mas só para dar uma noção de valor, em Portugal custa 30 euros e na Alemanha 70 euros e normalmente só aceitam pagamento em dinheiro. Mas se informe, pois os valores podem ter mudado!
 
-Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você deve sair da área de desembarque pela saída da Aduana/Alfândega em que você vai declarar o que está trazendo, e eles irão conferir se o veterinario assinou o CZI. Muitas pessoas costumam passar pela saída 'Nada a declarar', e não da nenhum problema, porém o correto seria passar pela Aduana/Alfândega declarando a entrada do animal.
+Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você deve sair da área de desembarque pela saída da Aduana/Alfândega em que você vai declarar o que está trazendo, e eles irão conferir se o veterinário assinou o CZI. Muitas pessoas costumam passar pela saída 'Nada a declarar', e não da nenhum problema, porém o correto seria passar pela Aduana/Alfândega declarando a entrada do animal.
 
 ## Registro do animal em Berlin (Hundesteuer-Anmeldung)
 

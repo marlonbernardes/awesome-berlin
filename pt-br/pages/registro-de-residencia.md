@@ -16,10 +16,10 @@ O registro de residência (chamado de Anmeldung) é uma das etapas mais importan
 Abaixo um exemplo de formulário preenchido seguido de explicações:
 ![anmeldungsformular (english)](https://cloud.githubusercontent.com/assets/2975955/16777113/9b445a1e-4868-11e6-8fc0-3abd4dc6251d.png)
 
-1. Data (formato `dd.mm.yy`) que indica desde quando você mora neste endereço.  
+1. Data (formato `dd.mm.yy`) que indica desde quando você mora neste endereço.
 1. Nome da rua, número da casa e andar (em caso de prédios)
   2. Exemplo 1 (quem mora em casa): Blabla Straße 10
-  3. Exemplo 2 (quem mora em apartamento): Foobar Straße 10, 3.0G - Re  
+  3. Exemplo 2 (quem mora em apartamento): Foobar Straße 10, 3.0G - Re
     4. 3.0G == andar, Re == Localização do apartamento no andar (Re (Rechts) é direita em alemão. Use Li para esquerda e Mi para centro))
 1. Postal code
 1. Endereço antigo (caso seja o primeiro registro na Alemanha, preencha com o endereço antigo no Brasil - esqueci de preencher no formulário de exemplo, mas você deve preencher)
@@ -58,6 +58,6 @@ Abaixo um exemplo de formulário preenchido seguido de explicações:
  - Há muitos funcionários que não sabem ou não querem falar inglês. Por isso, leve todos os documentos preenchidos para minimizar as perguntas e qualquer interação humana (considerando que você não fala alemão).
  - Perguntas que já me fizeram (em alemão):
     - É a sua primeira vez se registrando na Alemanha?
-    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso pq na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc)
+    - O seu apartamento fica pra esquerda (links), direita (rechts) ou meio (mitte)? (perguntam isso porque na Alemanha geralmente os apartamentos não tem um número único, e acabam sendo identificados pelo número do andar + localização (esquerda, direita, frente ou frente + esquerda, etc)
  - Caso você não consiga ser atendido sem agendamento, tente novamente em outro Bürgeramt (ou no dia seguinte). Lembre-se: este documento é importante e é geralmente muito mais rápido ir presencialmente do que esperar a próxima data disponível na internet.
  - Novamente, tenha **paciência**. Caso consiga um atendimento e esteja sendo mal atendido, não desista!
