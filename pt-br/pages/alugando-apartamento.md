@@ -13,10 +13,10 @@ mensal, como extrato bancário de vários meses;
 - *[SCHUFA](/pages/obtendo-schufa)* (documento que prova que você é um bom pagador)
 - *[Amtliche Meldebestätigung für die Anmeldung](/pages/registro-de-residencia.md)* (Confirmação oficial do registro de
 residência)
-- Alguns locatários exigem o visto de residência ou um termo de comprometimento que você irá fazer um seguro
+- Alguns locadores exigem o visto de residência ou um termo de comprometimento que você irá fazer um seguro
 contra acidentes domésticos,
 
-<small>_1_- Se você não tem um documento alemão do último locatário, tente utilizar uma certidão negativa de livre de débitos
+<small>_1_- Se você não tem um documento alemão do último locador, tente utilizar uma certidão negativa de livre de débitos
 (com tradução), ou explicar a situação, que devido a recente chegada é o seu primeiro aluguel na Alemanha.</small>
 
 ## Antes de começar a procura
