@@ -2,22 +2,18 @@
 
 ## Pré-requisitos
 
-Existem alguns documentos necessários para fazer uma aplicação válida de um apartamento. Antes de fazer qualquer
-aplicação, tenha em mãos:
+Existem alguns documentos necessários para fazer uma aplicação válida de um apartamento. Antes de fazer qualquer aplicação, tenha em mãos:
 
 - *Bewerbungsbogen* - formulário de aplicação, o locador lhe fornecerá esse documento (algumas imobiliárias mandam por este documento por email, após você agendar uma visita)
-- Últimos 3 contra cheques **ou** contrato de trabalho que prove sua renda mensal **ou** algo que comprove renda fixa
-mensal, como extrato bancário de vários meses;
+- Últimos 3 contra cheques **ou** contrato de trabalho que prove sua renda mensal **ou** algo que comprove renda fixa mensal, como extrato bancário de vários meses;
 - *Mietschuldenfreiheitsbescheinigung*<sup>1</sup>(Documento que prova que você não tem débitos com o último locador);
 - Documento de Identificação, ID ou passaporte + visto;
 - *[SCHUFA](/pages/obtendo-schufa)* (documento que prova que você é um bom pagador)
 - *[Amtliche Meldebestätigung für die Anmeldung](/pages/registro-de-residencia.md)* (Confirmação oficial do registro de
 residência)
-- Alguns locatários exigem o visto de residência ou um termo de comprometimento que você irá fazer um seguro
-contra acidentes domésticos,
+- Alguns locadores exigem o visto de residência ou um termo de comprometimento que você irá fazer um seguro contra acidentes domésticos,
 
-<small>_1_- Se você não tem um documento alemão do último locatário, tente utilizar uma certidão negativa de livre de débitos
-(com tradução), ou explicar a situação, que devido a recente chegada é o seu primeiro aluguel na Alemanha.</small>
+<small>_1_- Se você não tem um documento alemão do último locador, tente utilizar uma certidão negativa de livre de débitos (com tradução), ou explicar a situação, que devido a recente chegada é o seu primeiro aluguel na Alemanha.</small>
 
 ## Antes de começar a procura
 
@@ -61,8 +57,7 @@ Há também outros sites para você procurar sua nova moradia. Os mais populares
 - http://www.lieblingsmieter.de/
 - https://www.immowelt.de/
 
-<sub>**1** - Note que para nomes masculinos se usa **Sehr geehrter Herr ...**, enquanto para nomes femininos se usa **Sehr geehrte Frau ...**,
-tome cuidado ao substituir!</sub>
+<sub>**1** - Note que para nomes masculinos se usa **Sehr geehrter Herr ...**, enquanto para nomes femininos se usa **Sehr geehrte Frau ...**, tome cuidado ao substituir!</sub>
 
 ## O processo
 
