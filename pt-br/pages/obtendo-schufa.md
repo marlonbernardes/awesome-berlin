@@ -1,9 +1,9 @@
 # Obtendo a SCHUFA
 
 ## O que é a SCHUFA?
-A SCHUFA, Schutzgemeinschaft für allgemeine Kreditsicherung *(Associação de protecção ao crédito geral, trdução livre)*, funciona como uma certidão de bom "pagador".
+A SCHUFA, Schutzgemeinschaft für allgemeine Kreditsicherung *(Associação de protecção ao crédito geral, tradução livre)*, funciona como uma certidão de bom "pagador".
 
-Podemos compará-lo a orgãos no Brasil como, SPC e SERASA, porém utilizado para fins mais genéricos.
+Podemos compará-lo a órgãos no Brasil como, SPC e SERASA, porém utilizado para fins mais genéricos.
 Enquanto SPC e SERASA são usados para proteção de credores, aqui a SCHUFA é usada até para fechar contratos de aluguel de apartamentos.
 Aí que entra a necessidade de você ter a SCHUFA para alugar um apartamento em Berlin. Não é obrigatório, mas sem ela suas chances de alugar
 qualquer apartamento são quase nulas.
@@ -15,8 +15,7 @@ qualquer apartamento são quase nulas.
 ## Opçōes para obter a SCHUFA
 
 ### Internet
-Essa é a maneira mais prática de obter esse relatorio. O **Immobilien Scout 24** tem parceria com a SHCUFA, e basta preencher seus dados no formulário
-e enviar. Em alguns dias, sua SCHUFA chegará pelo correio. [Acesse o formulário aqui](https://bonitaetscheck.immobilienscout24.de/).
+Essa é a maneira mais prática de obter esse relatório. O **Immobilien Scout 24** tem parceria com a SCHUFA, e basta preencher seus dados no formulário e enviar. Em alguns dias, sua SCHUFA chegará pelo correio. [Acesse o formulário aqui](https://bonitaetscheck.immobilienscout24.de/).
 
 ### Post Bank
 Pra quem é old school e prefere ir presencialmente, existe a opção de requerir no Post Bank. Apenas alguns provem esse servico,
