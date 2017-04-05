@@ -10,8 +10,6 @@ Para trazer seu pet você irá precisar:
 - Compra de passagens aéreas
 - Atestado de saúde do animal
 - CZI - permissão internacional para viajar
-- Desembarque e inspeção
-- Registro do animal em Berlin (Hundesteuer-Anmeldung)
 
 
 ## Inserir microchip internacional
@@ -98,6 +96,15 @@ Para solicitar o CZI você precisa fazer um agendamento na Vigiagro do seu estad
 aérea;
 - No dia do embarque, chegar com pelo menos 3 horas de antecedência ao check-in.
 
+Preço das passagens, tamanho e peso do animal permitido na cabine e tamanho da caixa de transporte variam entre as cias aéreas.
+
+[Clique aqui](http://www.lufthansa.com/pt/pt/Animais) para ver as condições de transporte de animais da cia **Lufthansa**
+
+[Clique aqui](https://www.flytap.com/pt-st/necessidades-especiais/viajar-com-animais) para ver as condições de transporte de animais da cia **TAP**
+
+[Clique aqui](https://www.klm.com/travel/br_br/prepare_for_travel/travel_planning/pets/index.htm) para ver as condições de transporte de animais da cia **KLM**
+
+
 ## Documentação final antes do embarque
 
 - Possuir carteira de vacinação original, com vacina anti-rábica válida;
@@ -113,6 +120,10 @@ portanto importante ficar com uma cópia dele.
 
 ## Desembarque e inspeção
 Grande parte das pessoas apenas passam com o animal pela fiscalização da fronteira e ninguém verifica se a documentação do animal está ok. Porém, o correto é que você procure o local onde o animal deve ser inspecionado. Se você não for atrás disso, ninguém vai ir te procurar para verificar a documentação.
+Como é muito comum as pessoas entrarem na UE sem fazer essa ficalização (porque não sabiam ou não quiseram pagar as taxas), muitas pessoas dizem que esse passo não é obrigatório, mas ele é sim:
+> Travellers' point of entry - the pet animal (dog, cat or ferret) must pass through a travellers' point of entry designated by Member States. The owner must, at the time of entry, contact the competent authority present at the point of entry for the purposes of the documentary and identity checks.
+
+Trecho copiado do site da European Comission. Para mais informações acesse: [https://ec.europa.eu/food/animals/pet-movement/eu-legislation/non-commercial-non-eu_en](https://ec.europa.eu/food/animals/pet-movement/eu-legislation/non-commercial-non-eu_en)
 
 Essa inspeção deve ser feita no primeiro país que você entrar na União Européia. Se você tem alguma escala dentro da União Européia, o primeiro país que você entrou na UE é onde a inspeção deve ser feita.
 
@@ -129,7 +140,8 @@ Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você dev
 
 É obrigatório fazer o registro do animal no Finanzamt e pagar o imposto de 120 euros por ano.
 [Clique aqui](http://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) para baixar o formulário que deve ser entregue no dia do registro do animal.
-Você encontra esse formulário já impresso no Finanzamt, mas é sempre bom levar já preenchido (ainda mais se você não fala Alemão).
+Você encontra esse formulário já impresso no Finanzamt, mas é sempre bom levar já preenchido (ainda mais se você não fala Alemão). 
+No dia que fizer o registro, você receberá a tag de identificação do animal que deve ser mantida na coleira.
 
 ## Mais informações
 O blog Pequenos Monstros tem um post excelente e muito completo sobre trazer pets para a Europa. Para ler o post [clique aqui](http://www.pequenosmonstros.com/2014/05/como-levar-animais-para-a-uniao-europeia).
