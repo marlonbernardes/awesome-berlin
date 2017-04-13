@@ -12,6 +12,8 @@ Tasks to complete:
 | Task          | Where         | Approx. Cost |
 | ------------- | ------------- |------------- |
 | Eye test | Any eye glasses store (e.g. Fielmann) | €7
+| Photo for drivers license | Any photo store that takes passport photos | €10
+| First-aid course (Erste Hilfe) | ... | €35
 
 ## Resources
 
