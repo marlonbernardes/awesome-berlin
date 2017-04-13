@@ -6,7 +6,8 @@ many steps involved and the process can be affected by a number of factors:
 - In which country (and possibly, which state) was your license issued?
 - Is your previous drivers license still valid?
 
-## Necessary tasks to complete BEFORE submitting your application at the Bürgeramt:
+## BEFORE submitting your application at the Bürgeramt:
+Tasks to complete:
 
 | Task          | Where         | Approx. Cost |
 | ------------- | ------------- |------------- |
