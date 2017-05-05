@@ -13,31 +13,44 @@ There are two tests you will have to take (depending on your current drivers lic
 - Practical (i.e. driving test)
 
 The theorie test requires that you learn 1000 questions. 30 questions will be randomly selected for the test. There are 2-5 points associated with each question, depending on the importance of
-the question. When you miss a question, the points associated with the question are tallied. **You must miss 10 points or less to pass.**
+the question. When you miss a question, the points associated with the question are tallied. **To pass the test, you must miss 10 points or less.**
 
-Here is a [sample driving test](http://osterberger.org/test.html). It's an old paper test. You will be taking a digital test. The questions shown here, however, are similar to the questions you will face
+Here is a [sample driving test](http://osterberger.org/test.html). It's an old paper test. You will be taking a digital test. The questions shown on the paper test are similar to the questions you will face
 on the digital test.
 
 When you sign up for a driving school (Fahrschule), you will almost certainly be given access to a smartphone app that will allow you to study the required 1000 questions. The questions will
-appear identically to the way they will appear on the theorie test. There might be minor differences depending on the update status of the app you are using.
+appear identically (or near-identically) to the way they will appear on the theorie test. There may be minor differences depending on the app you are using to study.
  
-The theorie questions are updated every three months so it's best to study fast so you don't have to learn new questions. Although they are updated, most questions are updated somewhat
-insignificantly.
+The theorie questions are updated every three months so it's best to study fast so you don't have to learn new questions.
 
 ## Translation of your current drivers license
 Depending on where your current drivers license was issued, you may have to get it translated to German. / ADAC
 
-## BEFORE submitting your application at the Bürgeramt:
-Tasks to complete:
+## PRIOR to submitting your application at the Bürgeramt:
+You need to complete the following tasks before going to the Bürgeramt:
 
-| Task          | Where         | Approx. Cost |
-| ------------- | ------------- |------------- |
-| Eye test | Any eye glasses store (e.g. [Fielmann](https://www.fielmann.de)) | €7
-| Photo for drivers license | Any photo store that takes passport photos | €10
-| First-aid course (Erste Hilfe) | [M-A-U-S](https://www.erstehilfe.de/) / [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/) / [Erste Hilfe Kurs](http://www.ersthelferkurs.de/) | €35
+- **Eye test** / Any eye glasses store (e.g. [Fielmann](https://www.fielmann.de))
+- **Photo** / Any photo store that takes passport photos
+- **First-aid course (Erste Hilfe)**:
+  - [M-A-U-S](https://www.erstehilfe.de/)
+  - [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/)
+  - [Erste Hilfe Kurs](http://www.ersthelferkurs.de/)
+  - and others
 
 ## Bürgeramt Application
 
+
+## Approximate Costs
+
+| Task          | Approx. Cost |
+| ------------- |------------- |
+| Eye test | €7
+| Photo for drivers license | €10
+| First-aid course (Erste Hilfe) | €35
+| Bürgeramt Application | €43
+| Theorie Test | €23
+| Driving Test | €92
+| Fahrschule (Driving School) | Depends on school and what materials/classes you need
 
 ## Resources
 
