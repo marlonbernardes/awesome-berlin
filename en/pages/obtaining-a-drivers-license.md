@@ -24,11 +24,16 @@ appear identically (or near-identically) to the way they will appear on the theo
 The theorie questions are updated every three months so it's best to study fast so you don't have to learn new questions.
 
 ## Translation of your current drivers license
-Depending on where your current drivers license was issued, you may have to get it translated to German. / ADAC
+Depending on where your current drivers license was issued, you may have to get it translated to German.
+
+| Location          | Approx. Cost | Waiting Period | Other Information
+| ------------- |------------- |------------- |------------- |
+| [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | approx. 10 days **(ADAC will keep your drivers license during this time)** | If you pick up the license for someone else, you will need their passport 
 
 ## PRIOR to submitting your application at the Bürgeramt:
 You need to complete the following tasks before going to the Bürgeramt:
 
+- **Translation** / See [above](#translation-of-your-current-drivers-license)
 - **Eye test** / Any eye glasses store (e.g. [Fielmann](https://www.fielmann.de))
 - **Photo** / Any photo store that takes passport photos
 - **First-aid course (Erste Hilfe)**:
@@ -37,10 +42,10 @@ You need to complete the following tasks before going to the Bürgeramt:
   - [Erste Hilfe Kurs](http://www.ersthelferkurs.de/)
   - and others
 
-## Bürgeramt Application
+## Bürgeramt application
 
 
-## Approximate Costs
+## Approximate costs
 
 | Task          | Approx. Cost |
 | ------------- |------------- |
