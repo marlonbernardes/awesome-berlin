@@ -43,6 +43,8 @@ You need to complete the following tasks before going to the Bürgeramt:
   - and others
 
 ## Bürgeramt application
+- Make sure you specify "Manual Transmission" on the application if you want to drive/rent manual transmission cars. If you specify "Automatic Transmission", you will only be allowed to
+drive and rent automatic transmission cars.
 
 
 ## Approximate costs
