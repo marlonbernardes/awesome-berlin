@@ -30,8 +30,9 @@ Depending on where your current drivers license was issued, you may have to get 
 | ------------- |------------- |------------- |------------- |
 | [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | approx. 10 days **(ADAC will keep your drivers license during this time)** | If you pick up the license for someone else, you will need their passport 
 
-## PRIOR to submitting your application at the Bürgeramt:
-You need to complete the following tasks before going to the Bürgeramt:
+## Prior to submitting your application at the Bürgeramt:
+You need to complete the following tasks before going to the Bürgeramt. Note that the links below are a mere sampling and do not constitute an endorsement.
+It is recommended to research any company before signing up to determine their validity and English-speaking capabilities:
 
 - **Translation** / See [above](#translation-of-your-current-drivers-license)
 - **Eye test** / Any eye glasses store (e.g. [Fielmann](https://www.fielmann.de))
@@ -41,10 +42,17 @@ You need to complete the following tasks before going to the Bürgeramt:
   - [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/)
   - [Erste Hilfe Kurs](http://www.ersthelferkurs.de/)
   - and others
+- **Fahrschule** / You need to sign up with a driving school prior to going to the Bürgeramt
+  - [Fahrschule R.E.X.](http://www.rexdrive.de/)
+  - [Fahrschule Verkehr Human](http://www.verkehrhuman.de/)
+  - [Fit-For-Drive](http://www.fit-for-drive.cc/)
+  - [AS Driving Schools](http://www.as-fahrschule.de/)
+  - [Fahrschule Prenzlauer Berg](http://www.fahrschule-berlin-prenzlauer-berg.de/german%20driving%20license%20home.html)
+  - [Asphalt-Profis](http://www.asphalt-profis.de/)
 
-## Bürgeramt application
+## Bürgeramt application notes
 - Make sure you specify "Manual Transmission" on the application if you want to drive/rent manual transmission cars. If you specify "Automatic Transmission", you will only be allowed to
-drive and rent automatic transmission cars.
+drive/rent automatic transmission cars. You will also take your practical driving lessons/test using a manual transmission.
 
 
 ## Approximate costs
@@ -61,9 +69,17 @@ drive and rent automatic transmission cars.
 
 ## Resources
 
+### Berlin.de (German language)
+- [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
+- [Umstellung der Fahrerlaubnis / Change of Driving License](https://www.berlin.de/ba-mitte/service/dienstleistungen/service.89637.php/dienstleistung/124556/)
+- [Fahrerlaubnis / Driving license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
+- [More about changing a drivers license](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
+- [Sample Photograph (Downloadable PDF)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
+- [Bürgeramt location in Mitte](https://service.berlin.de/standort/123202/)
+
 ### German Way
-- [German Drivers License Reciprocity](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/)
 - [Getting a German Drivers License](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/getting-a-german-drivers-license/)
+- [German Drivers License Reciprocity (US/Canada)](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/)
 
 ### Wikipedia
 - [German Road Signs](https://en.wikipedia.org/wiki/Road_signs_in_Germany)
@@ -71,10 +87,3 @@ drive and rent automatic transmission cars.
 
 ### U.S. citizens only
 - [Driving in Germany](https://de.usembassy.gov/u-s-citizen-services/driving-in-germany/)
-
-
-### Various
-- [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
-- [Umstellung der Fahrerlaubnis / Change of Driving License](https://www.berlin.de/ba-mitte/service/dienstleistungen/service.89637.php/dienstleistung/124556/)
-- [Fahrerlaubnis / Driving license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
-- [Location in Mitte](https://service.berlin.de/standort/123202/)
