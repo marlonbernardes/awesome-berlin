@@ -12,3 +12,14 @@ Contributions are welcome and are greatly appreciated!
 Every little bit helps. Pull-requests are always welcome!
 
 See [CONTRIBUTING](./CONTRIBUTING.md)
+
+# Contributors
+
+Special thanks to everyone who contributed!
+
+<!-- contributors:start -->
+
+<!-- contributors:end -->
+
+... and many [others](https://github.com/marlonbernardes/awesome-berlin/graphs/contributors)!
+
