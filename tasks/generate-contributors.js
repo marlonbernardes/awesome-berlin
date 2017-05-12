@@ -27,7 +27,7 @@ function handleHttpError(error, response, body) {
 }
 
 function meetsMinimumContributionCriteria(contributor, index) {
-  return computeContributorAdditions(contributor) > 5;
+  return computeContributorAdditions(contributor) > 2;
 }
 
 function computeContributorAdditions(contributor) {
