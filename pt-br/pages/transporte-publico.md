@@ -22,7 +22,7 @@ Antes de comprar os tickets, é preciso decidir qual ticket comprar. Há muitos 
   - Existem tickets anuais (que podem ser "parcelados"), saindo por um valor mais acessível: €60,00 mensais.
   - É possível comprar tickets em qualquer quiosque da BVG ou nas máquinas encontradas em todas as estações de metrô espalhadas pela cidade. É possível pagar com dinheiro ou cartão - apesar de algumas máquinas não aceitarem cédulas muito altas.
   - Tickets também são vendidos em trams. Procure uma máquina de ticket dentro dele, mas note que essas só aceitam moedas.
-  - **Importante** Sempre lembre de validar seu ticket antes de iniciar sua jornada. Existem máquinas que validam os tickets em qualquer estação trem/metrô, ônibus ou tram. Não é necessário validar tickets de longa duração (que valem para o dia inteiro, mês ou semana).
+  - **Importante** Sempre lembre de validar seu ticket antes de iniciar sua jornada. Existem máquinas que validam os tickets em qualquer estação trem/metrô, ônibus ou tram. Não é necessário validar tickets válidos para um intervalo específico de datas. Em outras palavras, se a data inicial/final já está impressa no ticket, não é necessário validar.
 
   ![image](https://cloud.githubusercontent.com/assets/2975955/17400420/07babecc-5a48-11e6-8303-e837b419a7b8.png)
 
