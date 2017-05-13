@@ -23,7 +23,7 @@ request(options, (error, response, body) => {
 });
 
 function handleHttpError(error, response, body) {
-    throw `[${response && response.statusCode}] Error while performing http request: ${error}\n${body}`;
+  throw `[${response && response.statusCode}] Error while performing http request: ${error}\n${body}`;
 }
 
 function meetsMinimumContributionCriteria(contributor, index) {
