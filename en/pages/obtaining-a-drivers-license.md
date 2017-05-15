@@ -71,7 +71,9 @@ drive/rent automatic transmission cars. You will also take your practical drivin
 
 ### Berlin.de (German language)
 - [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
-- [Umstellung der Fahrerlaubnis / Change of Driving License](https://www.berlin.de/ba-mitte/service/dienstleistungen/service.89637.php/dienstleistung/124556/)
+- Umschreibung einer ausländischen Fahrerlaubnis / Transfer of a foreign license:
+  - [aus EU-/EWR-Staat / from EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
+  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
 - [Fahrerlaubnis / Driving license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
 - [More about changing a drivers license](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
 - [Sample Photograph (Downloadable PDF)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
