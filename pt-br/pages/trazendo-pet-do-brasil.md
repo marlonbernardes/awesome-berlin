@@ -38,7 +38,7 @@ Para enviar o soro para o laboratório de SP, você pode levar pessoalmente, ou 
 
 Para encaminhar por Sedex, você precisa preparar uma caixa térmica (eu usei uma caixa de isopor) com gelo reciclável (eu usei gelo em gel) suficiente para manter o soro refrigerado (entre 4º a 8ºC) por alguns dias. O tubo onde contém o soro sanguíneo, não pode estar em contato com o gelo, pois caso o soro congele, ele não pode mais ser utilizado. O tubo que contém o soro, precisa estar identificado com o número do microchip do animal.
 
-Ainda dentro da caixa de isopor, você precisa colocar a requisição do exame, que você encontra [clicando aqui](http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/pagina_raiva_formulário_sorologia_animal_de_companhia__2__1461767048.pdf).
+Ainda dentro da caixa de isopor, você precisa colocar a requisição do exame, que você encontra [clicando aqui](http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/pagina_raiva_formulario_sorologia_animal_de_companhia__2__1461767048.pdf).
 Coloque o papel da requisição dentro de um saco plástico, para garantir que o gelo não danifique o papel.
 A requisição deve ser preenchida pelo veterinário responsável pelo animal. Caso você faça esse processo por algum laboratório da sua cidade, provavelmente o veterinário que atende seu pet terá que preencher essa requisição, e não o veterinário do laboratório.
 
