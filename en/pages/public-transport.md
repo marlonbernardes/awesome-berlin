@@ -66,7 +66,7 @@ After applying for a yearly ticket, you can also immediately request a **Startka
 
 - All means of transport work 24h per day on Fridays and Saturdays. On weekdays, the U-Bahn stops between midnight and 01:00AM (depends on the line) while the S-Bahn generally stops around 01:30 AM.
 - If the U-Bahn / S-Bahn is closed, you can always get a Metro Bus, as they work 24/7 in ten minute intervals.
-- You can take someone else with you when using the monthly ticket after 8pm and during the whole weekend.
+- You can take someone else with you when using the monthly ticket. It is possible to do so Monday through Friday (8 p.m. to 3 a.m.) and for the whole day during weekends and holidays (more information [here](http://www.s-bahn-berlin.de/aboundtickets/vbb_umweltkarte_im_abo.htm)).
 - The public transport in Berlin is based in a "Honor System", so all the stations are barrier-free. Despite of that, always buy and have your ticket with you, or you can get a fine from one of the random ticket inspectors.  - There are some useful apps that will help you to get around in the city. If you have an Android or an iPhone, look for "Citymapper" in Play Store/Apple Store. Google maps also allows you to download the maps for offline access, so that might be useful as well.
 - You can use the app BVG FahrInfo Plus for [Android](https://play.google.com/store/apps/details?id=de.eos.uptrade.android.fahrinfo.berlin) or [Apple](https://itunes.apple.com/de/app/bvg-fahrinfo-plus-berlin/id284971745?l=en&mt=8) to buy tickets online.
 - This might be obvious, but let's make it clear: you can use your ticket in any type of transportation that you want. In other words, there is no "bus ticket" or "u-bahn ticket" in Berlin.
