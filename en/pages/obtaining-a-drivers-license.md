@@ -84,7 +84,7 @@ You will almost certainly have to surrender your current drivers license so be p
 
 **Farherlaubnisbehörde**
 - [Hours and Info](https://service.berlin.de/standort/121646/)
-- [Google Maps](https://www.google.de/maps/place/Puttkamerstra%C3%9Fe+16,+10969+Berlin/@52.5046997,13.3882222,17.79z/data=!4m5!3m4!1s0x47a851d399b94635:0x130caea12dfcec60!8m2!3d52.50469!4d13.38942)
+- [Google Maps](https://www.google.de/maps/place/LABO+Fahrerlaubnisbeh%C3%B6rde/@52.5047176,13.3888316,17.99z/data=!4m13!1m7!3m6!1s0x47a851d399b94635:0x130caea12dfcec60!2sPuttkamerstra%C3%9Fe+16,+10969+Berlin!3b1!8m2!3d52.50469!4d13.38942!3m4!1s0x0:0x490912bc66bfd973!8m2!3d52.5045857!4d13.3893514)
 
 ## Resources
 
