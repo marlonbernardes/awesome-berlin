@@ -67,6 +67,27 @@ drive/rent automatic transmission cars. You will also take your practical drivin
 | Driving Test | €92
 | Fahrschule (Driving School) | Depends on school and what materials/classes you need
 
+## After you pass your practical license test
+Upon passing your practical test, you will be given a temporary paper license. Be sure to carry your passport with you when using this temporary license.
+Around four weeks after receiving the temporary license, you can pick up your permanent license. Nothing will be mailed to you.
+
+## Picking up your permanent license
+No appointments are required (or accepted) to pick up your permanent license. Because of this, the lines at the Farherlaubnisbehörde can be quite long.
+It is recommended that you arrive at least 30 minutes before opening hours. Even with this advice, you are likely going to wait in line for some time.
+
+Bring the following items when picking up your permanent license:
+- Temporary paper license
+- Current drivers license, if you have one (e.g. license from your origin country)
+- Passport
+
+You will almost certainly have to surrender your old drivers license so be prepared to leave without it.
+
+Farherlaubnisbehörde
+Puttkamerstraße 16
+10969 Berlin
+[Hours and Info](https://service.berlin.de/standort/121646/)
+[Google Maps](https://www.google.de/maps/place/Puttkamerstra%C3%9Fe+16,+10969+Berlin/@52.5046997,13.3882222,17.79z/data=!4m5!3m4!1s0x47a851d399b94635:0x130caea12dfcec60!8m2!3d52.50469!4d13.38942)
+
 ## Resources
 
 ### Berlin.de (German language)
