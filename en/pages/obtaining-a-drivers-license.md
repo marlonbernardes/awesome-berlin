@@ -80,7 +80,7 @@ Bring the following items when picking up your permanent license:
 - Current drivers license, if you have one (e.g. license from your origin country)
 - Passport
 
-You will almost certainly have to surrender your old drivers license so be prepared to leave without it.
+You will almost certainly have to surrender your current drivers license so be prepared to leave without it.
 
 **Farherlaubnisbehörde**
 - [Hours and Info](https://service.berlin.de/standort/121646/)
