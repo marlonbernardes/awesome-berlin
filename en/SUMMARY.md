@@ -28,5 +28,7 @@
   1. [Prior to submitting your application at the Bürgeramt](/pages/obtaining-a-drivers-license.md#prior-to-submitting-your-application-at-the-bürgeramt)
   1. [Bürgeramt application notes](/pages/obtaining-a-drivers-license.md#bürgeramt-application-notes)
   1. [Approximate costs](/pages/obtaining-a-drivers-license.md#approximate-costs)
+  1. [After you pass your practical license test](/pages/obtaining-a-drivers-license.md#after-you-pass-your-practical-license-test)
+  1. [Picking up your permanent license](/pages/obtaining-a-drivers-license.md#picking-up-your-permanent-license)
   1. [Resources](/pages/obtaining-a-drivers-license.md#resources)
 1. [Social Networks](/pages/social-networks.md#social-networks)
