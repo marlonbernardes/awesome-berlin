@@ -31,4 +31,8 @@
   1. [After you pass your practical license test](/pages/obtaining-a-drivers-license.md#after-you-pass-your-practical-license-test)
   1. [Picking up your permanent license](/pages/obtaining-a-drivers-license.md#picking-up-your-permanent-license)
   1. [Resources](/pages/obtaining-a-drivers-license.md#resources)
+1. [Renting an apartment](/pages/renting-an-apartment.md#renting-an-apartment)
+  1. [Requirements](/pages/renting-an-apartment.md#requirements)
+  1. [Before you start](/pages/renting-an-apartment.md#before-you-start-your-search)
+  1. [The process](/pages/renting-an-apartment.md#the-process)
 1. [Social Networks](/pages/social-networks.md#social-networks)
