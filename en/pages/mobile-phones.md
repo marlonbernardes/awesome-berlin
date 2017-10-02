@@ -6,7 +6,7 @@ The best-known telephone operators in Germany are Telekom (T-Mobile) and Vodafon
 Often you will be required to show your passport when activating the simcards. Although some of them can still be activated with out one.
 
 # Airport 
-You can also buy a simcard from [Lebara](https://www.lebara.com/) from the electronics store at the airport(Tegal). Lebara is slightly more expensive than Vodafone and Telekom but you can buy it at the airport. It also has a great ios/android application which is in english.
+You can also buy a simcard from [Lebara](https://www.lebara.com/) from the electronics store at the airport (Tegel). Lebara is slightly more expensive than Vodafone and Telekom but you can buy it at the airport. It also has a great ios/android application which is in english.
 
 ## Other options
 - [https://www.simplytel.de/](https://www.simplytel.de/)
