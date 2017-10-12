@@ -22,6 +22,8 @@
   1. [Tax Id](/pages/previdencia-social.md#obtendo-o-tax-id)
 1. [Alterando a categoria de imposto](/pages/categoria-de-imposto.md#alterando-a-categoria-de-imposto)
   1. [Preenchendo o formulário](/pages/categoria-de-imposto.md#preenchendo-o-formulário)
+1. [Obtendo a carteira de motorista](/pages/obtendo-a-carteira-de-motorista.md)
+  1. [Testes para a carteira de motorista](/pages/obtendo-a-carteira-de-motorista.md#testes-para-a-carteira-de-motorista)
 1. [Obtendo a SCHUFA](/pages/obtendo-schufa.md#obtendo-a-schufa)
   1. [Internet](/pages/obtendo-schufa.md#internet)
   1. [Post Bank](/pages/obtendo-schufa.md#post-bank)
