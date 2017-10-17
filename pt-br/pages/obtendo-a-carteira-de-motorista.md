@@ -15,7 +15,7 @@ Há dois testes que você terá que fazer, dependendo da validade de sua carteir
 
 O teste teórico requer que você estude um pouco mais de 1000 questões. 30 delas serão selecionadas aleatoriamente para o teste. Cada questão vale de 2 a 5 pontos, dependendo da importância da pergunta. Quando você erra a questão, a pontuação associada a ela é contada. Para passar no teste você deve contar um máximo de 10 pontos. Você pode escolher o idioma da prova (e.g inglês, alemão ou português de portugal). Acabei optando por fazer a prova em inglês, pois existem muitas diferenças entre o português de portugal e o português brasileiro (há bons exemplos disso neste excelente post [aqui](www.brasileiros-mundo-afora.com/2014/03/10-dicas-para-voce-conseguir-carteira.html)).
 
-Aqui está [um exemplo de teste teórico](http://osterberger.org/test.html). Este é um exemplo de teste impresso, antigo. Você fará um teste digital, possivelmente em um tablet. As perguntas mostradas no teste em papel do link anterior são bastante similares às que você responderá no teste digital.
+Você fará um teste digital, possivelmente em um tablet. 
 
 A maior parte das autoescolas (Fahrschule) fornecem aplicativos para smartphone que permite que você estude as 1000+ questões requeridas. As perguntas serão idênticas (ou quase) às que aparecerão no teste teórico. Pode haver pequenas diferenças dependendo do aplicativo que você usará para estudar.
 
