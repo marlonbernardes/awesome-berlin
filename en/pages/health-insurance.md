@@ -1,6 +1,6 @@
 # Health Insurance
 
-Germany has a reputation for having one of the best health care systems in the world. As an employee, it is mandatory to have a German health insurance, being it public health insurance or private health insurance. Around 90% of the German population are memebers wof the public health scheme. Applying for private health insurance is more complicated and the process is not yet covered by this guide.
+Germany has a reputation for having one of the best health care systems in the world. As an employee, it is mandatory to have a German health insurance, being it public health insurance or private health insurance. Around 90% of the German population are members of the public health scheme. Applying for private health insurance is more complicated and the process is not yet covered by this guide.
 
 This guide provides a brief summary of how to apply for public health insurance, but I also strongly recommend that you read the following websites for more information:
 

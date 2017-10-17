@@ -1,6 +1,6 @@
 # Alterando a categoria de imposto
 
-A categoria de imposto é o fator mais importante no cálculo do imposto, e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Category) com o requisitos para fazer parte de cada uma das categorias de imposto.
+A categoria de imposto é o fator mais importante no cálculo do imposto e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Category) com o requisitos para fazer parte de cada uma das categorias de imposto.
 
 Alguns dias/semanas após o primeiro registro de residência na Alemanha (feito no Bürgeramt), o Finanzamt será notificado e irá criar um Tax Id (um número que te identifica no "Departamento de Finanças" da Alemanha) e te enviar por correio, para o endereço em que você foi registrado. Durante a criação do Tax Id, o Finanzamt automaticamente te atribuirá para uma das categorias de imposto.
 

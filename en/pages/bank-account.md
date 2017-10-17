@@ -10,6 +10,8 @@ Simply go to an agency with your passport and proof of residence (the document y
 
 Sidenote: I've been using Deutsche Bank as my primary bank account and I've only had positive experiences with it. The "customer area" in their website is also available in English, so I can do almost everything I need online. In the rare cases when I had questions, my emails were always (!!) responded within minutes.
 
+If you are a Deutsche Bank client you can withdraw money from your account without paying any fees if you use ATMs of any of the following banks: Deutsche Bank, Commerzbank, Postbank or HVB (HypoVerinsbank). It is also possible to use different ATMs, but usually there is a fee ranging from €3,50 to €4,50.
+
 ## N26
 
 Differently from other banks, N26 is an online bank with no physical branches, so you can do everything online. Opening a bank account at N26 is also relatively easy and fast. You can sign up for an account [here](https://n26.com) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.

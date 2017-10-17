@@ -12,6 +12,8 @@ Simplesmente compareça a uma agência com seu passaporte e seu comprovante de r
 
 Sidenote: Uso DB como meu banco principal e até agora tive experiências **MUITO** positivas com esse banco. Meus e-mails de dúvidas geralmente são respondidos em minutos (!!) e o gerente que me atende é excelente (Carsten Becker - da agência de Alexanderstraße 5).
 
+Clientes do DB podem realizar saques (sem custo) em caixas eletrônicos dos seguintes bancos: Deutsche Bank, Commerzbank, Postbank ou HVB (HypoVereinsbank). Também é possível usar outras ATMs para sacar dinheiro, mas normalmente há uma taxa fixa entre €3,50 e €4,50 por saque.
+
 ## N26
 
 Abrir uma conta no N26 é relativamente fácil e rápido. Cadastre-se em [https://n26.com/](https://n26.com/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone com o aplicativo (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação:
