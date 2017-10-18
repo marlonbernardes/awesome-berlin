@@ -15,8 +15,7 @@ There are two tests you will have to take (depending on your current drivers lic
 The theorie test requires that you learn 1000 questions. 30 questions will be randomly selected for the test. There are 2-5 points associated with each question, depending on the importance of
 the question. When you miss a question, the points associated with the question are tallied. **To pass the test, you must miss 10 points or less.**
 
-Here is a [sample driving test](http://osterberger.org/test.html). It's an old paper test. You will be taking a digital test. The questions shown on the paper test are similar to the questions you will face
-on the digital test.
+You will be taking a digital test, probably in a tablet.
 
 When you sign up for a driving school (Fahrschule), you will almost certainly be given access to a smartphone app that will allow you to study the required 1000 questions. The questions will
 appear identically (or near-identically) to the way they will appear on the theorie test. There may be minor differences depending on the app you are using to study.
