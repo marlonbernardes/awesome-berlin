@@ -6,6 +6,12 @@ Como na maioria dos processos oficiais na Alemanha, obter uma carteira de motori
 - Em que país sua carteira foi emitida?
 - Sua carteira ainda está válida?
 
+# Visão geral do processo
+
+Abaixo você irá encontrar uma visão geral do processo para obter uma carteira de motorista na alemanha.
+
+![processo da carteira de motorista (flow chart)](/files/driverslicense_pt_br.png)
+
 ## Testes para a carteira de motorista
 
 Há dois testes que você terá que fazer, dependendo da validade de sua carteira atual, do país e do estado em que ela foi emitida:
