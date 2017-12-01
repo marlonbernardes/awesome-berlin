@@ -12,7 +12,9 @@ The Tax Id (also known as *Steueridentifikationsnummer*, *Identifikationsnummer*
 There are two ways of obtaining your Tax Id:
 
   1. Simply wait until you receive it by email. This number will be automatically generated and sent to you between 2 to 4 weeks after you've done your address registration.
-  1. If you can't wait 2 to 4 weeks to get your Tax Id, you can go directly to the *Finanzamt* of your district (tip: use google to find the address) and ask for it. Take your passport with you. Differently from the Bürgeramt, usually there are no lines in the *Finanzamt* and you do not need to go early. Please note that you should wait at least one week after your address registration before you go to the *Finanzamt*, as this number takes some days to be generated.
+  2. If you can't wait 2 to 4 weeks to get your Tax Id, you can go directly to the *Finanzamt* of your district (tip: use google to find the address) and ask for it. Take your passport with you. Differently from the Bürgeramt, usually there are no lines in the *Finanzamt* and you do not need to go early. Please note that you should wait at least one week after your address registration before you go to the *Finanzamt*, as this number takes some days to be generated.
+
+If you have already completed the above steps before, but then lost the number, you can request it online: [https://www.bzst.de/DE/Steuern_National/Steuerliche_Identifikationsnummer/ID_Eingabeformular/ID_Node.html](https://www.bzst.de/DE/Steuern_National/Steuerliche_Identifikationsnummer/ID_Eingabeformular/ID_Node.html).
 
 ### Tips
 
