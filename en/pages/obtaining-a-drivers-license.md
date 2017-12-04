@@ -6,6 +6,12 @@ many steps involved and the process can be affected by a number of factors:
 - In which country (and possibly, which state) was your license issued?
 - Is your previous drivers license still valid?
 
+# Overview
+
+Below you'll find an overview of the process for obtaining a driver's license in Germany.
+
+![driver license process overview (flow chart)](/files/driverslicense.png)
+
 ## Drivers license tests
 
 There are two tests you will have to take (depending on your current drivers license status/country/state):
