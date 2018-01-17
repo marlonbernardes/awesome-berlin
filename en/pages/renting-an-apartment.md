@@ -33,7 +33,7 @@ There are some necessary documents to put in a valid application for an apartmen
 
 ## Where to look
 
-The most known website to search for an apartment is [ImmobilienScout24](immobilienscout24.de). Even though it’s available only in German, you can always use Google Translate. You can search by district, number of rooms or price. Another interesting functionality is when you’re logged in, it’s possible to check the average euros per m2 in comparison to similar apartments in the same area.
+The most known website to search for an apartment is [ImmobilienScout24](https://www.immobilienscout24.de/). Even though it’s available only in German, you can always use Google Translate. You can search by district, number of rooms or price. Another interesting functionality is when you’re logged in, it’s possible to check the average euros per m2 in comparison to similar apartments in the same area.
 Using the website you can send a message to the landlord, expressing your interest and wait for the response - they usually get back with a date for you to visit the apartment. You can use the following template to send your message:
 
 ```
@@ -78,5 +78,3 @@ This account guarantees that this happens, as it’s connected directly to you, 
 ### Getting the keys to your new apartment
 
 When you receive the keys to your new apartment, make sure everything is fine and that there are no damages. At the end of your contract, someone will come and check the apartment, and if there’s any damages or anything is missing (that are not described in the contract), the expenses will come out of your security deposit.
-
-
