@@ -19,20 +19,20 @@ Há dois testes que você terá que fazer, dependendo da validade de sua carteir
 - Teórico (ex. teste escrito)
 - Prático (ex. teste de direção)
 
-O teste teórico requer que você estude um pouco mais de 1000 questões. 30 delas serão selecionadas aleatoriamente para o teste. Cada questão vale de 2 a 5 pontos, dependendo da importância da pergunta. Quando você erra a questão, a pontuação associada a ela é contada. Para passar no teste você deve contar um máximo de 10 pontos. Você pode escolher o idioma da prova (e.g inglês, alemão ou português de portugal). Acabei optando por fazer a prova em inglês, pois existem muitas diferenças entre o português de portugal e o português brasileiro (há bons exemplos disso neste excelente post [aqui](www.brasileiros-mundo-afora.com/2014/03/10-dicas-para-voce-conseguir-carteira.html)).
+O teste teórico requer que você estude um pouco mais de 1000 questões. 30 delas serão selecionadas aleatoriamente para o teste. Cada questão vale de 2 a 5 pontos, dependendo da importância da pergunta. Quando você erra a questão, a pontuação associada a ela é contada. Para passar no teste você deve contar um máximo de 10 pontos. Você pode escolher o idioma da prova (e.g inglês, alemão ou português de portugal). Acabei optando por fazer a prova em inglês, pois existem muitas diferenças entre o português de portugal e o português brasileiro (há bons exemplos disso neste excelente post [aqui](http://www.brasileiros-mundo-afora.com/2014/03/10-dicas-para-voce-conseguir-carteira.html)).
 
-Você fará um teste digital, possivelmente em um tablet. 
+Você fará um teste digital, possivelmente em um tablet.
 
-A maior parte das autoescolas (Fahrschule) fornecem aplicativos para smartphone que permite que você estude as 1000+ questões requeridas. As perguntas serão idênticas (ou quase) às que aparecerão no teste teórico. Pode haver pequenas diferenças dependendo do aplicativo que você usará para estudar.
+A maior parte das autoescolas (Fahrschule) fornecem aplicativos para smartphone que permitem que você estude as 1000+ questões requeridas. As perguntas serão idênticas (ou quase) às que aparecerão no teste teórico. Pode haver pequenas diferenças dependendo do aplicativo que você usará para estudar.
 
 As questões teóricas são atualizadas a cada três meses, portanto é bom estudar rápido para não ter que estudar novas questões.
 
 ## Tradução da sua carteira atual
 
-Dependendo de onde sua carteira foi emitida, você pode ter que traduzi-la para ao alemão. Carteiras de motorista brasileiras (ou em inglês) **não** precisam ser traduzidas. Apesar disso, em algumas cidades/Bürgeramts o(a) funcionário(a) pode solicitar a tradução da carteira para inglês (eles nem sempre sabem quando é obrigatório ou não). No meu caso, solicitaram, eu falei que não era necessário e não tive problema algum - consegui a aprovação para transferir a carteira brasileira para cá.
+Dependendo de onde sua carteira foi emitida, você pode ter que traduzí-la para o alemão. Carteiras de motorista brasileiras (ou em inglês) **não** precisam ser traduzidas. Apesar disso, em algumas cidades/Bürgeramts o(a) funcionário(a) pode solicitar a tradução da carteira para inglês (eles nem sempre sabem quando é obrigatório ou não). No meu caso, solicitaram, eu falei que não era necessário e não tive problema algum - consegui a aprovação para transferir a carteira brasileira para cá.
 
 
-| Local          | Custo Aprox. | Tempo de espera | Observações 
+| Local          | Custo Aprox. | Tempo de espera | Observações
 | ------------- |------------- |------------- |------------- |
 | [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | approx. 10 dias **(ADAC vai ficar com a sua carteira de motorista durante este período)** | Outra pessoa pode buscar a sua carteira/tradução se ela levar seu passaporte.
 
@@ -41,15 +41,15 @@ Dependendo de onde sua carteira foi emitida, você pode ter que traduzi-la para 
 
 Você deve completar os seguintes passos antes de ir ao Bürgeramt. Note que as empresas mencionadas abaixo são meros exemplos e não recomendações. É recomendado que você pesquise cada empresa antes de adquirir seus serviços para determinar sua validade, qualidade e nível de inglês:
 
-- **Translation** / See [above](#translation-of-your-current-drivers-license)
-- **Eye test** / Any eye glasses store (e.g. [Fielmann](https://www.fielmann.de))
-- **Photo** / Any photo store that takes passport photos
-- **First-aid course (Erste Hilfe)**:
+- **Tradução** / Veja [acima](#tradução-da-sua-carteira-atual)
+- **Exame de vista** / Qualquer ótica (e.g. [Fielmann](https://www.fielmann.de))
+- **Foto** / Qualquer loja de fotos que tire fotos de passaporte
+- **Curso de primeiros socorros (Erste Hilfe)**:
   - [M-A-U-S](https://www.erstehilfe.de/)
   - [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/)
   - [Erste Hilfe Kurs](http://www.ersthelferkurs.de/)
-  - and others
-- **Fahrschule** / You need to sign up with a driving school prior to going to the Bürgeramt
+  - e outras
+- **Autoescola (Fahrschule)** / Você precisa assinar com alguma auto-escola antes de ir ao Bürgeramt
   - [Fahrschule R.E.X.](http://www.rexdrive.de/)
   - [Fahrschule Verkehr Human](http://www.verkehrhuman.de/)
   - [Fit-For-Drive](http://www.fit-for-drive.cc/)
@@ -64,7 +64,7 @@ Você deve completar os seguintes passos antes de ir ao Bürgeramt. Note que as 
 
 ## Custos aproximados
 
-| Task          | Approx. Cost |
+| Etapa         | Custo aproximado |
 | ------------- |------------- |
 | Teste de visão | €7
 | Foto para a carteira de motorista | €10
@@ -78,20 +78,20 @@ Você deve completar os seguintes passos antes de ir ao Bürgeramt. Note que as 
 ## Links úteis
 
 ### Berlin.de (German language)
-- [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
-- Umschreibung einer ausländischen Fahrerlaubnis / Transfer of a foreign license:
+- [Localizações de Bürgeramts](https://service.berlin.de/buergerberatung-aemter/)
+- Umschreibung einer ausländischen Fahrerlaubnis / Trasferindo uma carteira estrangeira:
   - [aus EU-/EWR-Staat / from EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
   - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
-- [Fahrerlaubnis / Driving license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
-- [More about changing a drivers license](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
-- [Sample Photograph (Downloadable PDF)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
-- [Bürgeramt location in Mitte](https://service.berlin.de/standort/123202/)
+- [Fahrerlaubnis / Carteira de motorista](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
+- [Mais sobre como transferir sua carteira de motorista](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
+- [Exemplo de foto (PDF para download)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
+- [Localizações de Bürgeramts no Mitte](https://service.berlin.de/standort/123202/)
 
 ### German Way
-- [Getting a German Drivers License](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/getting-a-german-drivers-license/)
-- [German Drivers License Reciprocity (US/Canada)](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/)
+- [Obtendo uma carteira de motorista alemã](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/getting-a-german-drivers-license/)
+- [Reciprocidade da carteira de motorista alemã (US/Canada)](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/)
 
 ### Wikipedia
-- [German Road Signs](https://en.wikipedia.org/wiki/Road_signs_in_Germany)
-- [European Drivers License Categories](https://en.wikipedia.org/wiki/European_driving_licence#Categories_valid_in_all_EEA_member_states)
+- [Sinais de trânsito alemães](https://en.wikipedia.org/wiki/Road_signs_in_Germany)
+- [Categorias das carteiras de motorista na Europa](https://en.wikipedia.org/wiki/European_driving_licence#Categories_valid_in_all_EEA_member_states)
 
