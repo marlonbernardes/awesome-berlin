@@ -18,8 +18,7 @@ Differently from other banks, N26 is an online bank with no physical branches, s
 
 ## [ING-DiBa](https://www.ing-diba.de/)
 
-ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's aslo an online bank with no physical branches. Opening an account costs nothing by it may takes from week to 2 weeks. The bank offer you by default giro and visa card with no yearly fees. You can use your VISA card to withdraw in any european country with being charged extra money. If you have a partner they can also offer him cards having acces to your account. Intersted? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
-
+ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an online bank with no physical branches. Opening an account costs nothing but it may takes from one to two weeks. The bank offers a Giro and Visa card with no yearly fees. You can use your VISA card to withdraw for free in any European country. If you have a partner they can also have extra cards for. Interested? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
 
 
 ## Other options
