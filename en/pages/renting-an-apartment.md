@@ -11,17 +11,17 @@ There are some necessary documents to put in a valid application for an apartmen
   - Amtliche Meldebestätigung für die Anmeldung - it’s the confirmation of your residence registration
   - Some landlords/real estate agencies will require the residency visa or a proof that will get an insurance to protect you in case of any accidents in the apartment
 
-[1] If you don’t have this document, try to use another proof that you don’t have any debt (translated to German), or try to explain the situation, saying that you just arrived in Germany and this would be your first rent in the city. 
+[1] If you don’t have this document, try to use another proof that you don’t have any debt (translated to German), or try to explain the situation, saying that you just arrived in Germany and this would be your first rent in the city.
 
 ## Before you start your search
 
 **Be careful!** Never transfer money to a potential landlord/real estate agency before signing the rental agreement. Many people are victims of malicious acts - it’s not an unusual thing to happen.
 
   - Long term rents will usually require you to make a security deposit after signing the rental agreement/contract (Kaution in German). This will represent 3 times the amount of the “cold rent”, that can be paid in three times with the first three months of rent. This amount will be given back to you when the contract ends.
-  - When looking for an apartment, you might encounter the words "Kaltmiete" and "Warmmiete". It’s important to understand the difference between them, so you know how much you’ll end up paying. Kaltmiete means the “cold rent” - it’s just the cost of the rent itself and doesn’t include extra costs, like heating or cleaning fees. Warmmiete means the “hot rent” - this one includes the extra costs. Make sure you check in advance what exactly is included in the “hot rent”. Usually the “hot rent” is 20% of the “cold rent” amount. 
+  - When looking for an apartment, you might encounter the words "Kaltmiete" and "Warmmiete". It’s important to understand the difference between them, so you know how much you’ll end up paying. Kaltmiete means the “cold rent” - it’s just the cost of the rent itself and doesn’t include extra costs, like heating or cleaning fees. Warmmiete means the “hot rent” - this one includes the extra costs. Make sure you check in advance what exactly is included in the “hot rent”. Usually the “hot rent” is 20% of the “cold rent” amount.
   - The word Zimmer represents the number of rooms in the apartment (bathroom, kitchen and balconies are not included). For example, an apartment with 3 zimmers will probably be 2 bedrooms and a living room.
   - The following questions could help you to better pick an apartment during your search:
-    - Is it furnished or does it have all the kitchen appliances? 
+    - Is it furnished or does it have all the kitchen appliances?
     - Are pets allowed?
     - Do you know/like the neighborhood?
     - Is there a garage/storage room for bikes and other objects (Keller)?
@@ -66,14 +66,14 @@ The apartment visits usually happen with the landlord or the real estate agency 
 
 Since it’s common to have many application for one apartment, the faster you are in delivering the document, the better are your chances of being accepted.
 
-## When you succeed in your application 
+## When you succeed in your application
 
 Finally, after a landlord/real estate agency accepts your application to an apartment, you’ll be invited to sign the contract and get the apartment keys. Don’t forget to register your new address as soon as possible. You might need to create a security deposit account in a bank (see below), where the deposit will be required from.
 
 ### Security Deposit Account - Kautionskonto
 
-In germany, there’s a law that formalizes the process of Security Deposits using specific accounts for that. Officially, this deposit can only be used in case there’s any damage to the property, caused by the tenant. This money will only be withdrawn at the end of the rental agreement/contract, by the landlord/real estate agency - the rest of the money will be returned to the tenant.
-This account guarantees that this happens, as it’s connected directly to you, the landlord/real estate agency and the contract. To create this account, you must have the information of your landlord/real estate agency and the contract at the day you go to the bank. There’s another option that is transfer the security deposit directly to the landlord/real estate agency, but you might be exposed to not getting this money back. To avoid any headaches, the kautionskonto is the better option. Some real estate agencies will open this account for you.
+In Germany, there’s a law that formalizes the process of Security Deposits using specific accounts for that. Officially, this deposit can only be used in case there’s any damage to the property, caused by the tenant. This money will only be withdrawn at the end of the rental agreement/contract, by the landlord/real estate agency - the rest of the money will be returned to the tenant.
+This account guarantees that this happens, as it’s connected directly to you, the landlord/real estate agency and the contract. To create this account, you must have the information of your landlord/real estate agency and the contract at the day you go to the bank. There’s another option that is transfer the security deposit directly to the landlord/real estate agency, but you might be exposed to not getting this money back. To avoid any headaches, the Kautionskonto is the better option. Some real estate agencies will open this account for you.
 
 ### Getting the keys to your new apartment
 
