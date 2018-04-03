@@ -7,8 +7,8 @@ There are some necessary documents to put in a valid application for an apartmen
   - Last three payslip or the employment agreement (or other document), that can prove your monthly income
   - *Mietschuldenfreiheitsbescheinigung* [1] - it’s the document that proves you don’t have any debt with you previous landlord
   - ID - Identification Document - the passport with the visa
-  - SCHUFA - it’s a document that proves you have no unpaid debts
-  - Amtliche Meldebestätigung für die Anmeldung - it’s the confirmation of your residence registration
+  - SCHUFA - it’s a document that proves you have no unpaid debts and gives you a trustworthiness score. [You can get a SCHUFA for free](http://allaboutberlin.com/guides/free-schufa-berlin), but if you need it now, you can get one from Postbank and Volksbank branches.
+  - Amtliche Meldebestätigung für die Anmeldung - it’s the confirmation of your residence registration. It's also called the Meldebescheinigung.
   - Some landlords/real estate agencies will require the residency visa or a proof that will get an insurance to protect you in case of any accidents in the apartment
 
 [1] If you don’t have this document, try to use another proof that you don’t have any debt (translated to German), or try to explain the situation, saying that you just arrived in Germany and this would be your first rent in the city.
@@ -34,6 +34,9 @@ There are some necessary documents to put in a valid application for an apartmen
 ## Where to look
 
 The most known website to search for an apartment is [ImmobilienScout24](https://www.immobilienscout24.de/). Even though it’s available only in German, you can always use Google Translate. You can search by district, number of rooms or price. Another interesting functionality is when you’re logged in, it’s possible to check the average euros per m2 in comparison to similar apartments in the same area.
+
+[eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) is also worth a look, as it has fewer agents and more regular residents listing their apartments. There are [many more options](http://allaboutberlin.com/guides/find-a-flat-in-berlin), but these cover most of the market.
+
 Using the website you can send a message to the landlord, expressing your interest and wait for the response - they usually get back with a date for you to visit the apartment. You can use the following template to send your message:
 
 ```
@@ -43,7 +46,8 @@ Mit freundlichen Grüßen,
 ${YOUR FULL NAME}
 ```
 
-It’s also possible to send a message in English, even though the response rate will probably be lower in this case.
+It’s also possible to send a message in English, even though the response rate will probably be lower in this case. The best way to get a response is to call.
+
 There are other websites/real estate agencies for you to search. The following are the most popular:
 
   - https://www.nestpick.com/
@@ -68,7 +72,7 @@ Since it’s common to have many application for one apartment, the faster you a
 
 ## When you succeed in your application
 
-Finally, after a landlord/real estate agency accepts your application to an apartment, you’ll be invited to sign the contract and get the apartment keys. Don’t forget to register your new address as soon as possible. You might need to create a security deposit account in a bank (see below), where the deposit will be required from.
+Finally, after a landlord/real estate agency accepts your application to an apartment, you’ll be invited to sign the contract and get the apartment keys. Don’t forget to register your new address (a process called the Anmeldung) as soon as possible. You might need to create a security deposit account in a bank (see below), where the deposit will be required from.
 
 ### Security Deposit Account - Kautionskonto
 
