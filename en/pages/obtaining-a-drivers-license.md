@@ -44,10 +44,11 @@ It is recommended to research any company before signing up to determine their v
 - **Photo** / Any photo store that takes passport photos
 - **First-aid course (Erste Hilfe)**:
   - [M-A-U-S](https://www.erstehilfe.de/)
-  - [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/)
+  - [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/) - Theory in multiple languages, demonstration in German
   - [Erste Hilfe Kurs](http://www.ersthelferkurs.de/)
   - and others
 - **Fahrschule** / You need to sign up with a driving school prior to going to the Bürgeramt
+  - [List of English-speaking driving schools in Berlin](http://allaboutberlin.com/guides/english-driving-schools-in-berlin)
   - [Fahrschule R.E.X.](http://www.rexdrive.de/)
   - [Fahrschule Verkehr Human](http://www.verkehrhuman.de/)
   - [Fit-For-Drive](http://www.fit-for-drive.cc/)
@@ -102,6 +103,12 @@ You will almost certainly have to surrender your current drivers license so be p
 - [More about changing a drivers license](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
 - [Sample Photograph (Downloadable PDF)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
 - [Bürgeramt location in Mitte](https://service.berlin.de/standort/123202/)
+
+### All About Berlin
+
+- [Converting a Canadian driving licence to a German one](http://allaboutberlin.com/guides/canadian-german-driving-license)
+- [How to get an International Driving Permit in Germany](http://allaboutberlin.com/guides/international-driving-permit-germany)
+- [How to get a motorcycle driving licence in Germany](http://allaboutberlin.com/guides/motorcycle-licence-in-germany)
 
 ### German Way
 - [Getting a German Drivers License](https://www.german-way.com/for-expats/living-in-germany/german-drivers-license-reciprocity/getting-a-german-drivers-license/)
