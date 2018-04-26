@@ -12,9 +12,13 @@ Sidenote: I've been using Deutsche Bank as my primary bank account and I've only
 
 If you are a Deutsche Bank client you can withdraw money from your account without paying any fees if you use ATMs of any of the following banks: Deutsche Bank, Commerzbank, Postbank or HVB (HypoVerinsbank). It is also possible to use different ATMs, but usually there is a fee ranging from €3,50 to €4,50.
 
+Deutsche bank is the only physical bank that offers a large part of its services in English, but some of the correspondence is still in German.
+
 ## [N26](https://n26.com)
 
-Differently from other banks, N26 is an online bank with no physical branches, so you can do everything online. Opening a bank account at N26 is also relatively easy and fast. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
+Differently from other banks, N26 is an online bank with no physical branches, so you can do everything online. It's often recommended because you can open an account before your Anmeldung. Opening a bank account at N26 is usually fast and easy, [but it's not always the case](http://allaboutberlin.com/guides/an-honest-review-of-n26). You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
+
+N26 is the only bank that offers 100% of its banking experience in English.
 
 ## [ING-DiBa](https://www.ing-diba.de/)
 
