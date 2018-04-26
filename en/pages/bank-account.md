@@ -16,7 +16,7 @@ Deutsche bank is the only physical bank that offers a large part of its services
 
 ## [N26](https://n26.com)
 
-Differently from other banks, N26 is an online bank with no physical branches, so you can do everything online. It's often recommended because you can open an account before your Anmeldung. Opening a bank account at N26 is usually fast and easy, [but it's not always the case](http://allaboutberlin.com/guides/an-honest-review-of-n26). You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
+Differently from other banks, N26 is an online bank with no physical branches, so you can do everything online. It's often recommended because you can open an account before your Anmeldung. Opening a bank account at N26 is usually fast and easy.You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
 
 N26 is the only bank that offers 100% of its banking experience in English.
 
