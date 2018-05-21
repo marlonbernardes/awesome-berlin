@@ -2,11 +2,11 @@
 
 If you plan to work or live in Berlin, having a German bank account becomes mandatory. Without one you will not be able to receive your salary, rent an apartment or get a postpaid mobile phone. Fortunately, opening a bank account is usually simple and fast.
 
-Below you will find the steps required to open a bank account. 
+Below you will find the steps required to open a bank account. But do keep in mind that choosing a bank is a very personal matter, so that decision is at your discretion.
 
-## Normal Banks
+## Traditional Banks
 
-These banks have physical branches where you may visit and open you bank account. One can also open bank account without going to a branch by using VideoIdent / PostIdent processes offered by banks. However, this option is not available to people from certain nations like India ( [Reddit.com](https://www.reddit.com/r/germany/comments/6v66sz/whats_up_with_postident_not_accepting_foreign/) ).
+These banks have physical branches where you may visit and open your bank account.
 
 ### [Deutsche Bank](https://www.deutsche-bank.de)
 
@@ -28,16 +28,18 @@ Deutsche bank is the only physical bank that offers a large part of its services
 - [Deutsche Kreditbank](https://www.dkb.de/)
 
 
-## Only Online Banks
+## Online Banks
 These banks are different from other banks, as there are no physical branches, so you can do everything online. Using such banks, one gets argubaly better technological benefits.
 
 ### [N26](https://n26.com)
-It's often recommended because you can open an account before your Anmeldung. Opening a bank account at N26 is usually fast and easy. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
+N26 is often recommended because you can open an account even before your Anmeldung. Opening a bank account here is usually fast and easy. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
 It offers 100% of its banking experience in English.
+
+However, N26 is unavailable for people from certain nations like India and Ukraine ( [N26.com](https://support.n26.com/read/000001250?locale=en) ). Other banks like Revolut and Transferwise are easy alternatives for online banks.
 
 ### [ING-DiBa](https://www.ing-diba.de/)
 
-ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an online bank with no physical branches. Opening an account costs nothing but it may takes from one to two weeks. The bank offers a Giro and Visa card with no yearly fees. You can use your VISA card to withdraw for free in any European country. If you have a partner they can also have extra cards for. Interested? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
+ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an online bank with no physical branches. Opening an account costs nothing but it may take from one to two weeks. The bank offers a Giro and Visa card with no yearly fees. You can use your VISA card to withdraw for free in any European country. If you have a partner they can also have extra cards for. Interested? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
 
 ### Other Options
 - [Revolut](https://www.revolut.com)
