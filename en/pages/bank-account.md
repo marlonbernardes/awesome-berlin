@@ -2,7 +2,7 @@
 
 If you plan to work or live in Berlin, having a German bank account becomes mandatory. Without one you will not be able to receive your salary, rent an apartment or get a postpaid mobile phone. Fortunately, opening a bank account is usually simple and fast.
 
-Below you will find the steps required to open a bank account. But do keep in mind that choosing a bank is a very personal matter, so that decision is at your discretion.
+Below you will find the steps required to open a bank account in many different banks. Keep in mind that there are many other banks not included in the list below and that choosing a bank is a very personal matter, so that decision is at your discretion.
 
 ## Traditional Banks
 
@@ -34,8 +34,6 @@ These banks are different from other banks, as there are no physical branches, s
 ### [N26](https://n26.com)
 N26 is often recommended because you can open an account even before your Anmeldung. Opening a bank account here is usually fast and easy. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
 It offers 100% of its banking experience in English.
-
-However, N26 is unavailable for people from certain nations like India and Ukraine ( [N26.com](https://support.n26.com/read/000001250?locale=en) ). Other banks like Revolut and Transferwise are easy alternatives for online banks.
 
 ### [ING-DiBa](https://www.ing-diba.de/)
 
