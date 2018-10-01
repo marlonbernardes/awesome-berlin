@@ -9,3 +9,4 @@ communities:
 - [Facebook - Free Advice Berlin](https://www.facebook.com/groups/FreeAdviceBerlin/)
 - [Reddit - /r/Berlin](https://www.reddit.com/r/berlin/)
 - [Forum - Toytown Germany](https://www.toytowngermany.com/forum/)
+- [Mastodon instance for Berlin](https://toot.berlin/)
