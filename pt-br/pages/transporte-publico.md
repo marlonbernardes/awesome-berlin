@@ -44,16 +44,20 @@ A validade do cartão anual de transporte sempre inicia no **dia primeiro do mê
   - Realizando a inscrição até o dia 10 de janeiro: o cartão pode ser válido a partir de Fevereiro.
   - Realizando a inscrição após o 10 de janeiro: o cartão pode ser válido a partir de Março.
 
-Após solicitar um cartão anual você já tem direito a usufruir ao preço reduzido de tarifa para o mês atual (antes mesmo do cartão anual chegar). Para isso, procure um dos "centros do cliente" (Kundenzentren) disponíveis nas seguintes estações da **S-Bahn**, e solicite um **Startkarte**:
+Após solicitar um cartão anual você já tem direito a usufruir ao preço reduzido de tarifa para o mês atual (antes mesmo do cartão anual chegar). Para isso, procure um dos "centros do cliente" (Kundenzentren) disponíveis nas seguintes estações da **S-Bahn**, e solicite um [Startkarte](https://sbahn.berlin/tickets/vbb-ticket-im-abo/startkarte/):
 
-  - Alexanderplatz
-  - Friedrichstraße
-  - Gesundbrunnen
-  - Hauptbahnhof
-  - Lichtenberg
-  - Ostbahnhof
-  - Potsdam Hauptbahnhof
-  - Spandau
+| Estaçãp | Horário de funcionamento | extra info |
+|--- |----- |----- |
+| Alexanderplatz | Segunda - Sexta: 08:00 - 20:00<br>Sábado / Domingo / Feriados: 09:00 - 18:30||
+| Friedrichstraße | Segunda - Sexta: 08:00 - 20:00<br>Sábado / Domingo / Feriados: 09:00 - 18:30| No prédio da estação, entrada Friedrichstr. (Georgenstraße 14, 10117 Berlin) |
+| Gesundbrunnen | Segunda - Sexta: 08:00 - 20:00<br>Sábado / Domingo/ Feriados: 09:00 - 18:30| No DB Travel Center na recepção do prédio |
+| Hauptbahnhof | Segunda - Sábado: 07:00 - 22:00<br>Domingo: 08:00 - 22:00| Customer Center no DB Travel Center (primeiro andar)|
+| Lichtenberg | Segunda - Sexta: 08:00 - 20:00<br>Sábado / Domingo/ Feriados: 08:30 - 17:00 | No porão da portaria |
+| Ostbahnhof | Segunda - Sexta: 08:00 - 20:00<br>Sábado / Domingo/ Feriados: 08:30 - 17:00||
+| Potsdam Hauptbahnhof | Segunda - Sexta: 07:00 - 20:30<br>Sábado: 08:00 - 18:30<br>Domingo / Feriados: 08:00 - 17:00| Na estação de trem de Potsdam: Babelsberger Straße 1, 14473 Potsdam|
+| Spandau | Segunda - Sexta: 08:00 - 20:00<br>Sábado / Domingo/ Feriados: 08:30 - 18:00 | Seegefelder Straße 1, 13597 Berlin |
+
+Cheque por informações atualizadas dos horários de funcionamento [aqui](https://sbahn.berlin/tickets/verkauf-kontakt/verkaufsstellen/).
 
 ## Sobre o transporte público
 
