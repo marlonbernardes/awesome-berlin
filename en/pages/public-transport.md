@@ -51,16 +51,20 @@ To do so:
 
 You can only request a yearly ticket for the start of the next month if you request it up to the 10th day of the current month.
 
-After applying for a yearly ticket, you can also immediately request a **Startkarte** to bridge the period of time between the current date and the start date of your subscription (which is always on the first day of the month). The main advantage is that a **Startkarte** has a reduced fare per day, just like the yearly ticket. To request one, look for a "Customer Center" (Kundenzentren), available in any of the following **S-Bahn** stations:
+After applying for a yearly ticket, you can also immediately request a [Startkarte](https://sbahn.berlin/tickets/vbb-ticket-im-abo/startkarte/) to bridge the period of time between the current date and the start date of your subscription (which is always on the first day of the month). The main advantage is that a **Startkarte** has a reduced fare per day, just like the yearly ticket. To request one, look for a "Customer Center" (Kundenzentren), available in any of the following **S-Bahn** stations:
 
-  - Alexanderplatz
-  - Friedrichstraße
-  - Gesundbrunnen
-  - Hauptbahnhof
-  - Lichtenberg
-  - Ostbahnhof
-  - Potsdam Hauptbahnhof
-  - Spandau
+| Station | business hours | extra info |
+|--- |----- |----- |
+| Alexanderplatz | Monday - Friday: 08:00 - 20:00<br>Saturday / Sunday / public holiday: 09:00 - 18:30||
+| Friedrichstraße | Monday - Friday: 08:00 - 20:00<br>Saturday / Sunday / public holiday: 09:00 - 18:30| In the station building, entrance Friedrichstr. (Georgenstraße 14, 10117 Berlin) |
+| Gesundbrunnen | Monday - Friday: 08:00 - 20:00<br>Saturday / Sunday / public holiday: 09:00 - 18:30| In the DB Travel Center in the reception building |
+| Hauptbahnhof | Monday - Saturday: 07:00 - 22:00<br>Sunday: 08:00 - 22:00| Customer Center in the DB Travel Center (1st floor)|
+| Lichtenberg | Monday - Friday: 08:00 - 20:00<br>Saturday / Sunday / public holiday: 08:30 - 17:00 | In the basement of the lobby |
+| Ostbahnhof | Monday - Friday: 08:00 - 20:00<br>Saturday / Sunday / public holiday: 08:30 - 17:00||
+| Potsdam Hauptbahnhof | Monday - Friday: 07:00 - 20:30<br>Saturday: 08:00 - 18:30<br>Sunday / public holiday: 08:00 - 17:00|in the railway station Potsdam: Babelsberger Straße 1, 14473 Potsdam|
+| Spandau | Monday - Friday: 08:00 - 20:00<br>Saturday / Sunday / public holiday: 08:30 - 18:00 | Seegefelder Straße 1, 13597 Berlin |
+
+Check for updates in the bussines hours [here](https://sbahn.berlin/tickets/verkauf-kontakt/verkaufsstellen/).
 
 ## Tips
 
