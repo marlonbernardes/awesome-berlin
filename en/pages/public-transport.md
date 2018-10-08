@@ -24,7 +24,7 @@ When you buy the ticket its price will change according to the combination of zo
 
 ![mapa abc](https://cloud.githubusercontent.com/assets/2975955/17400833/81c83ad0-5a4a-11e6-9e8e-e4e1731cb51c.png)
 
-- Monthly tickets cost less per day than weekly tickets (which, in turn, cost less per day than daily ticket). It is also possible to get an yearly ticket (paid monthly) which cost around €60 per month.
+- Monthly tickets cost less per day than weekly tickets (which, in turn, cost less per day than daily ticket). It is also possible to get an yearly ticket (paid monthly) which cost around €60 per month. *Note* There are two types of monthly tickets available from a vending machine, "Monthly Ticket" and "Monthly Ticket Flexible". Always buy *Monthly Ticket Flexible* as it is valid for 30 days and you get to choose when those 30 days start from. On the other hand, a _Monthly Ticket_ as mentioned on the vending machine, stops being valid at the end of calendar month. So if you buy a _Monthly Ticket_ on 20th June, you will pay the full price but the ticket will still expire on 30th June. 
 
 - You can buy tickets at BVG sales outlets (find their location [here](https://www.bvg.de/en/Tickets/Other-ways-to-buy/At-sales-outlets) or at ticket machines (there are multiple in every U-Bahn and S-Bahn station).
 
