@@ -1,63 +1,63 @@
-# Address Registration
+# 전입신고
 
-The address registration (aka *Anmeldung*) is one of the most important - and urgent - things that you must do after you arrive in Germany. Any person who moves into long-term accomodation in Berlin (i.e. renting a room or a flat) is required by law to register with the Resident's Registration Office (*Bürgeramt*) within 2 weeks of the arrival date in Germany. Despite of that, Berlin's registration offices are extremely busy, so it's normally not a problem if you register a little late.
+전입신고 (이하 안멜둥 : *Anmeldung*)은 독일생활에서 제일 중요하고, 또 빨리 처리해야 하는 일 중 하나입니다. 베를린에 길게 묵을 예정인 그 누구던(아파트 전체를 빌리던 플랫쉐어를 하던) 법에 따라 전입신고를 전입 등록소 (독어 : *Bürgeramt*)에 가서 입국 2주 안에 해야합니다. 그래서 베를린의 전임 등록소는 항상 미친듯이 바쁩니다. 그래서 저것보다 조금 일정이 늦어지는 것이 큰 문제를 야기하지는 않습니다.
 
-The document received immediately after your registration is really important, and without it, you won't be able to receive your salary, open a bank account, sign contracts or even apply for a Blue card/residence permit.
+전입신고 후 받은 서류는 정말 중요합니다. 왜냐하면 이 전입등록서 없이는 월급을 받을 수가 없기 때문입니다. 또 은행계좌도 개설할 수 없고, 어떤 계약서 내에도 사인할 수 없을 겁니다. 블루카드나 영주권 신청도 불가능합니다.
 
-## What you need for the registration
+## 전입신고에 필요한 것
 
-- Passport (or Passports, in case more than one person are being registered in the same address)
-- Rental agreement (*Mietvertrag* or *Einzugsbestätigung des Wohnungsgebers*)
-- Registration form filled out (Anmeldungsformular). 
-  - [Registration form - English](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
-  - [Registration form - German](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
-- If you are married, bring your marriage certificate (written in English or German)
-- If you have children, bring their birth certificates
-- Patience
+- 여권(혹시 같은 주소에 여러 명*가족 등*이 등록할경우 그사람 모두의 여권 전부)
+- 집 계약서 (독어 : *Mietvertrag* 혹은 *Einzugsbestätigung des Wohnungsgebers*)
+- 전입신고 신청서 (Anmeldungsformular)
+  - [영문버전](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
+  - [독문버전](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
+- 기혼자일 시, 결혼 증명서(영문 혹은 독문)
+- 유자녀일 시, 출생증명서
+- 존버정신
 
-## How to fill out the form
+## 전입신고 신청서 채우는법
 
-Below you will find an example, followed by some explanations.
-![anmeldungsformular (english)](https://cloud.githubusercontent.com/assets/2975955/16777113/9b445a1e-4868-11e6-8fc0-3abd4dc6251d.png)
+아래 영어 샘플을 보고 설명을 참고하시면서 작성하시면 됩니다.
+![anmeldungsformular (영어)](https://cloud.githubusercontent.com/assets/2975955/16777113/9b445a1e-4868-11e6-8fc0-3abd4dc6251d.png)
 
-1. Indicates the date (format `dd.mm.yy`) when you started living in this address.
-2. Street name, house number, floor and (optionally) the "location" in the floor (right (Re), left (Li), center (Mi))
-  2. Example 1 (house): Blabla Straße 10
-  2. Example 2 (apartment): Foobar Straße 20, 3.0G - Re
-    > 3.0G is the floor.
+1. 이 집에 살기 시작할 날짜 (포맷 : `dd.mm.yy`)를 기입할 것
+2. 주소 이름, 집 번호, 층이나 플랫쉐어 시에는 그 층에서 자기 방의 정확한 위치(right (Re), left (Li), center (Mi))
+  2. 예 1 (집): Blabla Straße 10
+  2. 예 2 (아파트): Foobar Straße 20, 3.0G - Re
+    > 3.0G > 층수
 
-    > Re is the location (Rechts means "right" in German. Ask your landlord if you don't know about yours)
-3. Postal code
-4. Previous address (please specify even if you were living outside of Germany)
-5. In case your last name is not in the mailbox, please specify the correct one here.
-6. (no idea - I left this field blank both times I filled out this form)
-7. Self explanatory.
-8. Each row contains information about one of the persons being registered. Please pay attention to the row "id" (Lfd. Nr). and keep the same order in the adjacent tables.
-9. Each form allows you to register up to 4 people at the same time. Print more copies if you need to register more than this. In this example, I am registering a couple ("Pedro Alvares Cabral" and "Fulana Ciclana Beltrana") living in the same address.
-10. Only used if one of the persons being registered changed their name (e.g: after marriage)
-11. **Important** If you specify a religion you will have to pay the church tax (something between 8% and 9% of your income tax). As an example, if you pay 1000 euros of income tax every month, then you will be charged (automatically) an extra tax of 80-90 euros per month. If you don't want to pay the Church tax leave it blank.
-12. Leave it blank if you don't have this information (tip: if this is your first time registering then you don't have it yet :-) )
-13. If you moved to Germany but your your wife/husband is living in a different address, please specify it here.
-14. Passport information - self explanatory.
-15. Date when you filled out this form (`dd.mm.yy`) and your signature.
+    > Re > 그 층 오른쪽 방이란 얘기 (Rechts 가 독일어로 "right", 오른쪽입니다. 만약 헷갈리면 꼭 집주인한테 물어보세요)
+3. 우편번호
+4. 전에 살던 곳 주소(전에 독일 밖에서 살았더라도 그 주소를 적으시면 됩니다)
+5. 성(last name)을 정확히 적으세요
+6. (모름 - 이 칸을 이 서류 2번을 쓸때 다 그냥 비워놨음)
+7. 자기한테 해당되는 것 체크
+8. 각 줄마다 등록할 사람에 대한 정보를 적으시면 됩니다. "id" (Lfd. Nr) 번호에 유의할 것. 거기 적은 id 순서대로 다른 테이블에도 동일하게 적어줘야 합니다.
+9. 한 폼마다 한번에 4명까지 전입신고를 할 수 있게 되어있습니다. 만약 그보다 더 많은 인원수를 등록해야 된다면 한 부 더 전입신고서를 뽑아야 합니다. 이 예제에서는 한 주소 아래 둘이 사는 커플을 등록하고 있습니다. ("Pedro Alvares Cabral" 하고 "Fulana Ciclana Beltrana")
+10. 결혼 후 등 한사람의 이름이 바뀌었을 때만 사용
+11. **주의** 만약 종교가 있다고 표시하면 종교세를 내야 합니다(대강 8에서 9퍼센트정도 냄). 예를 들어, 매달 1000유로를 세금으로 내는 중이라면, 자동으로 80-90유로를 종교세로 달마다 더 내야 합니다. 종교세를 내기 싫으면 빈칸으로 두세요.
+12. 해당사항이 없으면 빈칸으로 두세요 (팁 : 첫번째 주거등록시에는 상관이 없음 :-) )
+13. 만약 독일로 혼자 올라왔고 배우자는 다른 주소에 살 경우 여기에 적어주세요.
+14. 여권 정보.
+15. 서류 쓴 날짜(`dd.mm.yy`) 랑 싸인.
 
-## How the registration works
+## 전입신고 진행과정
 
-- Gather all the required documentation (passport(s), filled out registration form, confirmation of residence from your landlord (Template can be found [here](http://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
-- Take your paperwork to a local registration office (*Bürgeramt*), but before that decide your strategy:
+- 필요한 온갖 서류를 다 모아옵니다 (여권, 전입신고 신청서, 집주인한테 받은 허가증(대강 이렇게 생겼습니다 [링크](http://www.berlin.de/formularserver/formular.php?402544)), 계약서, 결혼증명서나 출생증명서
+- 전입신고 센터 (*Bürgeramt*)에 가서 등록하기 전, 아래와 같은 사실을 유념하세요 :
 
- **1) Make an online appointment (via [https://service.berlin.de/](https://service.berlin.de/))**
- The problem with this approach is that usually there aren't a lot of appointments available in the near future (some people claim they can only get appointments for one or two months in the future). Fortunately, the situation improved a lot, and it's usually possible to get an appointment in the next week.
+ **1) 온라인으로 예약을 하고 가기 (주소 : [https://service.berlin.de/](https://service.berlin.de/))**
+ 문제는 아마 근시일내 가능한 예약날짜가 얼마 없을거란 겁니다.(몇 사람들은 심지어 1,2 달이 지나서야 예약할 수 있었다고...) 그나마 요새는 좀 나아져서 1주일 내로는 예약을 잡을 수 있습니다.
 
- **2) Go to the Bürgeramt without an appointment**
- Simply show up early and let them know you are there for your "Anmeldung". Be prepared to wait, though.
+ **2) Bürgeramt 에 예약 안잡고 그냥 가기**
+아침 일찍 가서 전입신고 - "Anmeldung"을 하러 왔다고 하면 됩니다. 많이 기다려야만 합니다.
 
-Despite of your strategy, you will receive an appointment number and then you will just have to go to the Bürgeramt (in case you are not there) and wait for your number to be displayed on the screen.
+어느 방식으로 가던, 번호표를 받고 관청 안에서 기다려야 합니다. 그리고 화면에 자기 번호가 뜰 때까지 무한 기다림을 겪어야 합니다.
 
-After that, just handover all the documents to the employee and wait for your registration to be complete. This step should take less than 10 minutes. The document you will receive after your registration is really important, so make sure you don't lose it.
+그 이후에는 준비해온 서류를 공무원에게 건네고 처리가 끝날 때 까지 기다립니다. 이 과정은 대강 10분 정도 걸립니다. 과정이 완료되면 전입 신고 서류를 받을텐데 정말 정말 중요하니 절대 잃어버리지 않도록 합니다.
 
-## Tips
+## 팁
 
-- There is a chance that the people that will take care of your registration do not speak English, so if you don't speak German make sure you have all the required documents with you (in order to minimize human interactions :P)
-- If you don't have an appointment and they don't have free slots for your don't panic. Try again in a different day or in a different Bürgeramt.
-- Be patient! :)
+- 가끔씩 담당 공무원이 영어를 못하는 사람으로 배정될수도 있습니다. 그러므로 독일어에 자신이 없다면 서류를 완벽하게 준비해서 가져갔는지 여러 번 확인하는게 좋습니다.
+- 만약 예약 없이 그냥 갔는데 빈 자리가 없다면 놀라지 말고 다른 날에 다시 오거나 다른 관청에 찾아가면 됩니다.
+- 오래 기다리는 게 정상이니 너무 스트레스 받지마세요!
