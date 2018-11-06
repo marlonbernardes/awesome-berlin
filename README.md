@@ -5,6 +5,7 @@ Available in:
 
 - :brazil: [Português](https://marlonbernardes.github.io/awesome-berlin/pt-br/)
 - :us: [English](https://marlonbernardes.github.io/awesome-berlin/en/)
+- :kor: [Korean](https://marlonbernardes.github.io/awesome-berlin/kr/)
 
 # Want to help?
 Contributions are welcome and are greatly appreciated!
