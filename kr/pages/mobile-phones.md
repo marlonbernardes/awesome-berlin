@@ -1,14 +1,15 @@
-# Mobile phone
+# 핸드폰 개통
 
-The best-known telephone operators in Germany are Telekom (T-Mobile) and Vodafone. The easiest way to get a prepaid number is to look for one of these carriers (hint: there are thousands of stores spread out in the city) or buy a chip directly from Saturn (or similar store). You can also try visiting your local Lidl, Penny or Aldi and check out their networks (they usually provide really good value for the cost). The value of the sim card + activation + opening balance is usually something between € 10 and € 25.
+독일에서 가장 유명한 통신사는 Telekom (T-Mobile)이랑 Vodafone입니다. 가장 쉽게 미리 선불된 유심칩을 구하는 방법은 이런 시내에 널린 두 통신사 지점 중 아무데나 들어가셔서 물어보시거나 아니면 Saturn 같은 곳에서 사는 겁니다.
+혹은 Lidl, Penny 이나 Aldi 에 들어가보세요. 그리고 거기서 판매하는 심들을 찾아보세요. 훨씬 저렴한 상품들이 많습니다. 심 카드 + 등록 + 개통까지 대강 10에서 25유로정도 듭니다.\
 
-# Activation
-Often you will be required to show your passport when activating the simcards. Although some of them can still be activated with out one.
+# 개통
+유심카드 개통에 여권이 필요할 때도 있습니다. 그렇지만 거의 필요없습니다.
 
-# Airport
-You can also buy a simcard from [Lebara](https://www.lebara.com/) from the electronics store at the airport (Tegel). Lebara is slightly more expensive than Vodafone and Telekom but you can buy it at the airport. It also has a great iOS/Android application which is in english.
+# 공항
+공항 안에(테겔공항의 경우) [Lebara](https://www.lebara.com/) 에 유심을 팝니다. 여기가 보다폰이나 텔레콤보다 좀 비싸긴 한데 공항 안에서 살 수 있는 장점이 있어요. 또 안드/아이폰 버전으로 괜찮은 영어 앱도 지원합니다.
 
-## Other options
+## 다른 옵션
 - [https://www.simplytel.de/](https://www.simplytel.de/)
 - [https://www.vodafone.de/](https://www.vodafone.de/)
 - [https://www.o2online.de/](https://www.o2online.de/)
