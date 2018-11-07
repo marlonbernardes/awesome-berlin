@@ -1,15 +1,14 @@
-# Opening a bank account
+#  은행계좌 열기
 
-If you plan to work or live in Berlin, having a German bank account becomes mandatory. Without one you will not be able to receive your salary, rent an apartment or get a postpaid mobile phone. Fortunately, opening a bank account is usually simple and fast.
+베를린에서 일을 하거나, 어찌되었건 살아갈 예정이라면 은행 계좌 하나는 꼭 필요합니다. 은행이 없으면 월급을 못받고 집도 못빌리고 핸드폰 요금도 못 내잖아요. 다행히 은행 계좌 만들기는 그렇게까지 어렵지는 않습니다.
 
-Below you will find the steps required to open a bank account in many different banks. Keep in mind that there are many other banks not included in the list below and that choosing a bank is a very personal matter, so that decision is at your discretion.
+아래를 잘 읽어보시면 은행 계좌를 여러가지 방법으로 여는 법을 알 수 있습니다. 물론 아래에 있는 은행이 독일 내 은행의 전부가 아니라는 걸 유념하시고, 어떤 은행을 고르실 지는 개인의 취향껏 해주시면 됩니다.a
 
-## Traditional Banks
+## 일반 은행
 
-These banks have physical branches where you may visit and open your bank account.
+실제 지점이 있고 예약방문으로 은행업무를 보는 은행
 
 ### [Deutsche Bank](https://www.deutsche-bank.de)
-
 
 Simply go to an agency with your passport and proof of residence (the document you receive after your address registration) and one of the managers will take care of everything for you (German speaking skills are not required :P). After you sign up the contract, you will need to wait some days until your account becomes active.
 
