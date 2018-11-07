@@ -10,16 +10,16 @@
 
 ### [Deutsche Bank](https://www.deutsche-bank.de)
 
-Simply go to an agency with your passport and proof of residence (the document you receive after your address registration) and one of the managers will take care of everything for you (German speaking skills are not required :P). After you sign up the contract, you will need to wait some days until your account becomes active.
+여권하고 거주등록증(전입신고 하고 나서 받은거)을 들고 지점에 가면 영어를 할 줄 아는 매니저가 붙어서 안내를 해 줄 겁니다. 계약서에 사인하고 난 후, 계좌를 받기까지는 며칠 걸립니다.
 
-Sidenote: I've been using Deutsche Bank as my primary bank account and I've only had positive experiences with it. The "customer area" in their website is also available in English, so I can do almost everything I need online. In the rare cases when I had questions, my emails were always (!!) responded within minutes.
+경험 공유 : 독일은행을 주은행으로 쓰고있는데 정말 괜찮습니다. 사이트에 "customer area"가 영어로 되어있고, 온라인으로 거의 모든 작업을 할 수 있기 때문이죠. 가끔 질문이 있을 땐 이메일로 물어보면 되는데 몇분내로 답장을 줍니다.
 
-If you are a Deutsche Bank client you can withdraw money from your account without paying any fees if you use ATMs of any of the following banks belonging to Cash Group: Deutsche Bank, Commerzbank, Postbank or HVB (HypoVerinsbank). It is also possible to use different ATMs, but usually there is a fee ranging from €3,50 to €4,50.
+독일은행의 고객이라면 아래와 같은 ATM에서 자신의 독일은행 계좌를 수수료 없이 이용할 수 있습니다. : Deutsche Bank, Commerzbank, Postbank, HVB (HypoVerinsbank). 다른 ATM 이용 시, 수수료가 대강 €3,50 에서 €4,50정도 나옵니다.
 
-Deutsche bank is the only physical bank that offers a large part of its services in English, but some of the correspondence is still in German.
+영어를 제공하는 일반 은행이 독일은행 뿐인걸로 압니다. 그렇지만 아직도 일정 부분은 독일어입니다.
 
 
-### Other options
+### 다른 일반 은행들
 - [Commerzbank](https://www.commerzbank.de/)
 - [Postbank](https://www.postbank.de/)
 - [Sparkasse](https://www.berliner-sparkasse.de)
@@ -27,17 +27,16 @@ Deutsche bank is the only physical bank that offers a large part of its services
 - [Deutsche Kreditbank](https://www.dkb.de/)
 
 
-## Online Banks
-These banks are different from other banks, as there are no physical branches, so you can do everything online. Using such banks, one gets argubaly better technological benefits.
+## 인터넷 은행
+다른 일반 은행과는 다르게, 이 은행들은 실제 지점이 없습니다. 그러므로 모든 은행업무를 온라인으로 처리할 수 있습니다. 이런 은행을 쓰는 게 기술적으로 훨씬 편하긴 합니다.
 
 ### [N26](https://n26.com)
-N26 is often recommended because you can open an account even before your Anmeldung. Opening a bank account here is usually fast and easy. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
-It offers 100% of its banking experience in English.
+N26 은 가장 많이 추천받는데, 왜냐하면 지긋지긋한 거주등록(Anmeldung) 전 계좌를 만들 수 있는 은행이기 때문입니다.  N26에서 계좌를 만드는 건 쉽고 빠릅니다. 여기에서 등록할 수 있고요, [링크](https://app.n26.com/register) 하라는대로 따라하면 계좌가 만들어입니다. 스마트폰, 여권, 독일 주소만 있으면 계좌 개설이 가능합니다. 100% 영어 지원은 덤입니다.
 
 ### [ING-DiBa](https://www.ing-diba.de/)
 
-ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an online bank with no physical branches. Opening an account costs nothing but it may take from one to two weeks. The bank offers a Giro and Visa card with no yearly fees. You can use your VISA card to withdraw for free in any European country. If you have a partner they can also have extra cards for. Interested? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
+ING-DiBa AG 네덜란드 다국적 회사 ING그룹의 자회사고, 인터넷 은행입니다. 지점이 없습니다. 계좌를 여는 데 돈이 들거나 하지 않지만 대강 계좌 개설에 1-2주는 걸립니다. 이 은행에서는 Giro랑 Visa카드를 연회비 없이 발급해줍니다. VISA카드로 어느 유럽 국가에서도 무료로 인출할 수 있습니다. 만약 배우자가 있다면 배우자용 카드도 발급해 줍니다. 참고 [링크](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
 
-### Other Options
+### 다른 선택
 - [Revolut](https://www.revolut.com)
 - [Transferwise](https://transferwise.com)
