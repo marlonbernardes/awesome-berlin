@@ -1,53 +1,50 @@
-# Obtaining a drivers license
+# 운전면허증 얻기
 
-Like most official processes in Germany, obtaining a drivers license takes time and patience. There are
-many steps involved and the process can be affected by a number of factors:
-- Do you already have a drivers license?
-- In which country (and possibly, which state) was your license issued?
-- Is your previous drivers license still valid?
+독일에서 하는 모든 서류작업하고 같이, 운전면허증 신청도 존버정신...()과 긴 시간이 필요합니다. 아래와 같은 사항을 고려하게 될 겁니다.
+- 이미 운전면허증이 있는 경우
+- 어느 나라 어느 주에서 이 면허증이 나왔는가
+- 이 면허증이 아직 유효한가
 
-# Overview
+# 요약
 
-Below you'll find an overview of the process for obtaining a driver's license in Germany.
-
+이 순서도에서 독일에서 면허증 얻기에 대한 요약적 정보를 얻을 수 있습니다.
 ![driver license process overview (flow chart)](/files/driverslicense.png)
 
-## Drivers license tests
+## 운전면허시험
+
+대략 운전면허 시험은 아래와 같은 2가지로 나뉩니다(현재 운전면허증 소지여부/국가/주에 따라 다를 수 있음)
 
 There are two tests you will have to take (depending on your current drivers license status/country/state):
-- Theorie (i.e. written test)
-- Practical (i.e. driving test)
+- 이론시험 (i.e. 시험지)
+- 실제시험 (i.e. 도로주행)
 
-The theorie test requires that you learn 1000 questions. 30 questions will be randomly selected for the test. There are 2-5 points associated with each question, depending on the importance of
-the question. When you miss a question, the points associated with the question are tallied. **To pass the test, you must miss 10 points or less.**
+이론시험은 1000문제 중 골라서 나오는 문제은행 형식입니다. 30문제가 랜덤하게 선택되서 시험에 제출됩니다. 각 문항당 2-5점이 중요성에 따라 배점되어 있습니다. 문제에 틀릴때마다, 틀린 문제에 해당된 점수가 집계됩니다. **통과하기 위해서는, 10점 이상 점수를 잃으면 안됩니다.**
 
-You will be taking a digital test, probably in a tablet.
+태블릿으로 보는 디지털 형식 시험을 보게 될 겁니다.
 
-When you sign up for a driving school (Fahrschule), you will almost certainly be given access to a smartphone app that will allow you to study the required 1000 questions. The questions will
-appear identically (or near-identically) to the way they will appear on the theorie test. There may be minor differences depending on the app you are using to study.
+운전면허학원 (Fahrschule)에 등록시, 필요한 문제은항 1000개에 접근할 수 있는 앱이 담긴 스마트폰을 받게 되실 건데요, 거의 비슷하게 실제 이론시험에 출제됩니다. 약간 앱별로 차이가 있을 수는 있습니다만 거의 비슷하게 출제됩니다.
  
-The theorie questions are updated every three months so it's best to study fast so you don't have to learn new questions.
+이론시험 문제는 매 3달마다 바뀌므로 최대한 빨리 시험에 응시하는 것이 새 문제를 외우는 것보다 훨씬 이득입니다.
 
-## Translation of your current drivers license
-Depending on where your current drivers license was issued, you may have to get it translated to German.
+## 보유중인 면허증 번역
+가지고 있는 면허증에 따라 독어로 번역이 필요한 경우가 있습니다.
 
-| Location          | Approx. Cost | Waiting Period | Other Information
+| 장소          | 가격 | 대기 기간 | 기타 정보
 | ------------- |------------- |------------- |------------- |
-| [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | approx. 10 days **(ADAC will keep your drivers license during this time)** | If you pick up the license for someone else, you will need their passport 
+| [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | 대략 10일 **(ADAC에서 이 기간동안 면허증을 가지고 있습니다.)** | 만약 타인의 것을 대리신청할 시 면허증 주인의 여권이 필요합니다.
 
-## Prior to submitting your application at the Bürgeramt:
-You need to complete the following tasks before going to the Bürgeramt. Note that the links below are a mere sampling and do not constitute an endorsement.
-It is recommended to research any company before signing up to determine their validity and English-speaking capabilities:
+## Bürgeramt 서류 제출 전 :
+Bürgeramt에 가기 전 아래 서류들을 준비하세요. 아래는 단순한 예제에 불과하며 확실하다고 보증할 수 없습니다. 정확한 정보는 등록 전 잘 알아보고 계약하는 것이 좋습니다.:
 
-- **Translation** / See [above](#translation-of-your-current-drivers-license)
-- **Eye test** / Any eye glasses store (e.g. [Fielmann](https://www.fielmann.de))
-- **Photo** / Any photo store that takes passport photos
-- **First-aid course (Erste Hilfe)**:
+- **영어 번역** /  [영어번역](#translation-of-your-current-drivers-license)
+- **시력테스트** / 안경점에서 가능 (예제 : [Fielmann](https://www.fielmann.de))
+- **사진** / 여권사진 찍어주는 아무 사진 스튜디오
+- **Erste Hilfe**:
   - [M-A-U-S](https://www.erstehilfe.de/)
   - [Ersthelfer.tv](https://www.ersthelfer.tv/reservieren/reservation/) - Theory in multiple languages, demonstration in German
   - [Erste Hilfe Kurs](http://www.ersthelferkurs.de/)
   - and others
-- **Fahrschule** / You need to sign up with a driving school prior to going to the Bürgeramt
+- **Fahrschule** /  Bürgeramt에 가기 전 운전강습 학원에 등록해야 합니다.
   - [List of English-speaking driving schools in Berlin](http://allaboutberlin.com/guides/english-driving-schools-in-berlin)
   - [Fahrschule R.E.X.](http://www.rexdrive.de/)
   - [Fahrschule Verkehr Human](http://www.verkehrhuman.de/)
@@ -56,37 +53,34 @@ It is recommended to research any company before signing up to determine their v
   - [Fahrschule Prenzlauer Berg](http://www.fahrschule-berlin-prenzlauer-berg.de/german%20driving%20license%20home.html)
   - [Asphalt-Profis](http://www.asphalt-profis.de/)
 
-## Bürgeramt application notes
-- Make sure you specify "Manual Transmission" on the application if you want to drive/rent manual transmission cars. If you specify "Automatic Transmission", you will only be allowed to
-drive/rent automatic transmission cars. You will also take your practical driving lessons/test using a manual transmission.
+## Bürgeramt 등록시
+- 1종을 따셔서 수동 (Manual Transmission)을 모시는 분은 꼭 수동에 체크하세요. 자동(Automatic Transmission) 에 체크하면 오토 차로 배정됩니다. 또 수동으로도 교육이나 시험을 치를 수 있습니다.
 
 
-## Approximate costs
+## 가격
 
-| Task          | Approx. Cost |
+| 시험          | 가격 |
 | ------------- |------------- |
-| Eye test | €7
-| Photo for drivers license | €10
-| First-aid course (Erste Hilfe) | €35
-| Bürgeramt Application | €43
-| Theorie Test | €23
-| Driving Test | €92
-| Fahrschule (Driving School) | Depends on school and what materials/classes you need
+| 시력검사 | €7
+| 면허증 사진 | €10
+| 응급처치 과정 (Erste Hilfe) | €35
+| Bürgeramt 원서값 | €43
+| 이론시험 | €23
+| 주행시험 | €92
+| Fahrschule (운전면허 강습학원) | 학원마다 다름
 
-## After you pass your practical license test
-Upon passing your practical test, you will be given a temporary paper license. Be sure to carry your passport with you when using this temporary license.
-Around four weeks after receiving the temporary license, you can pick up your permanent license. Nothing will be mailed to you.
+## 시험 통과 후
+시험에 합격하면 임시 도로주행증을 받습니다. 이 주행증이랑 꼭 여권을 같이 챙겨다녀야 합니다. 4주정도가 지나면 실제 영구 운전면허증을 받습니다. 따로 연락은 없을겁니다.
 
-## Picking up your permanent license
-No appointments are required (or accepted) to pick up your permanent license. Because of this, the lines at the Farherlaubnisbehörde can be quite long.
-It is recommended that you arrive at least 30 minutes before opening hours. Even with this advice, you are likely going to wait in line for some time.
+## 영구 운전면허증 받기
+영구 운전면허증을 받기 위해 따로 예약은 필요 없습니다. 그래서 Farherlaubnisbehörde에 면허증 받는 줄이 꽤 길 수 있습니다. 적어도 영업시간 30분 전에는 도착해서 기다려야 하는게 좋습니다. 그래도 많이 기다릴 수 있습니다.
 
-Bring the following items when picking up your permanent license:
-- Temporary paper license
-- Current drivers license, if you have one (e.g. license from your origin country)
-- Passport
+영구 운전면허증 수령시 가져올 것 :
+- 임시 도로주행증
+- 원래 나라에서 갖고있었던 운전면허증(있으면)
+- 여권
 
-You will almost certainly have to surrender your current drivers license so be prepared to leave without it.
+원래 소지하고 있던 운전면허증이 있으면 제출하라고 할 수 있으니 그냥 두고 오는게 나을수도 있습니다.
 
 **Farherlaubnisbehörde**
 - [Hours and Info](https://service.berlin.de/standort/121646/)
