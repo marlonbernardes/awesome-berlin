@@ -122,7 +122,8 @@ Kündigung erhalten am: <Date delivered to landlord>
 
 
 
-____________________        			                     _____________________       <Your name>			                                        	          <Landlord’s name>
+____________________        			                     _____________________
+<Your name>			                                       <Landlord’s name>
 
 ____________________
-<Co-renter’s name>```
+<Co-renter’s name> ```
