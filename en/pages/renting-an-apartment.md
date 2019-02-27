@@ -88,42 +88,43 @@ When you receive the keys to your new apartment, make sure everything is fine an
 Terminating your rental contract usually requires a written notice to your landlord, three calendar months in advance. E.g.: if you notify your landlord on February 27th, your contract will be terminated on May 31st.
 The notification can use the following template:
 
-```<Your name>
-<Your address>
-<Your PLZ> Berlin 
+```
+${YOUR NAME}
+${YOUR ADDRESS}
+${YOUR PLZ} Berlin 
 
-E-Mail: <Your e-mail>
-Telefon: <Your phone>
+E-Mail: ${YOUR EMAIL}
+Telefon: ${YOUR PHONE NUMBER}
 
 
-<Landlord’s name>
-<Landlord’s address>
-<Landlord’s PLZ> Berlin
+${LANDLORD'S NAME}
+${LANDLORD'S ADDRESS}
+${LANDLORD'S PLZ} Berlin
 
 Kündigung des Mietvertrags 
-<Address you are leaving>
+${ADDRESS YOU ARE VACATING}
 
-28.01.2019 
+${DATE}
 
 Sehr geehrte Damen und Herren,
 
-hiermit kündige ich fristgerecht meinen Mietvertrag für die Wohnung in der <Your address, PLZ and unit>.
+hiermit kündige ich fristgerecht meinen Mietvertrag für die Wohnung in der ${ADDRESS, PLZ AND UNIT YOU ARE VACATING}.
 
-Laut unserem Mietvertrag ist diese Kündigung mit einer Frist von 3 Monaten verbunden. Das Mietverhältnis endet also am <Termination date here>.
+Laut unserem Mietvertrag ist diese Kündigung mit einer Frist von 3 Monaten verbunden. Das Mietverhältnis endet also am ${CONTRACT TERMINATION DATE}.
 
-Als Termin für die Übergabe der Wohnung schlage ich Ihnen den <Proposed handover date > vor.
+Als Termin für die Übergabe der Wohnung schlage ich Ihnen den ${PROPOSED HANDOVER DATE} vor.
 
 Sollten Sie zur Weitervermietung die Wohnung besichtigen lassen, stimmen Sie bitte jeden Termin per E-Mail mit mir ab.
 
 Mit freundlichen Grüßen,
 
 
-Kündigung erhalten am: <Date delivered to landlord>
+Kündigung erhalten am: ${DATE OF DELIVERY TO LANDLORD}
 
 
 
 ____________________        			                     _____________________
-<Your name>			                                       <Landlord’s name>
+${YOUR NAME}		                                       ${LANDLORD'S NAME}
 
 ____________________
-<Co-renter’s name>
+${CO-RENTER'S NAME}
