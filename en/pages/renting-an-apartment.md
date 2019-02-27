@@ -123,8 +123,8 @@ Kündigung erhalten am: ${DATE OF DELIVERY TO LANDLORD}
 
 
 
-____________________        			                     _____________________
-${YOUR NAME}		                                       ${LANDLORD'S NAME}
+____________________                                   _____________________
+${YOUR NAME}                                           ${LANDLORD'S NAME}
 
 ____________________
 ${CO-RENTER'S NAME}
