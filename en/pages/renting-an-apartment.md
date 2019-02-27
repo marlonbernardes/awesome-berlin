@@ -82,3 +82,10 @@ This account guarantees that this happens, as it’s connected directly to you, 
 ### Getting the keys to your new apartment
 
 When you receive the keys to your new apartment, make sure everything is fine and that there are no damages. At the end of your contract, someone will come and check the apartment, and if there’s any damages or anything is missing (that are not described in the contract), the expenses will come out of your security deposit.
+
+### Terminating the contract
+
+Terminating your rental contract usually requires a written notice to your landlord, three calendar months in advance. E.g.: if you notify your landlord on February 27th, your contract will be terminated on May 31st.
+The notification can use the following template:
+
+
