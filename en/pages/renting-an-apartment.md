@@ -88,4 +88,41 @@ When you receive the keys to your new apartment, make sure everything is fine an
 Terminating your rental contract usually requires a written notice to your landlord, three calendar months in advance. E.g.: if you notify your landlord on February 27th, your contract will be terminated on May 31st.
 The notification can use the following template:
 
+```<Your name>
+<Your address>
+<Your PLZ> Berlin 
 
+E-Mail: <Your e-mail>
+Telefon: <Your phone>
+
+
+<Landlord’s name>
+<Landlord’s address>
+<Landlord’s PLZ> Berlin
+
+Kündigung des Mietvertrags 
+<Address you are leaving>
+
+28.01.2019 
+
+Sehr geehrte Damen und Herren,
+
+hiermit kündige ich fristgerecht meinen Mietvertrag für die Wohnung in der <Your address, PLZ and unit>.
+
+Laut unserem Mietvertrag ist diese Kündigung mit einer Frist von 3 Monaten verbunden. Das Mietverhältnis endet also am <Termination date here>.
+
+Als Termin für die Übergabe der Wohnung schlage ich Ihnen den <Proposed handover date > vor.
+
+Sollten Sie zur Weitervermietung die Wohnung besichtigen lassen, stimmen Sie bitte jeden Termin per E-Mail mit mir ab.
+
+Mit freundlichen Grüßen,
+
+
+Kündigung erhalten am: <Date delivered to landlord>
+
+
+
+____________________        			                     _____________________       <Your name>			                                        	          <Landlord’s name>
+
+____________________
+<Co-renter’s name>```
