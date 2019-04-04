@@ -48,14 +48,16 @@ ${SEU_NOME_COMPLETO}
 Também é possível mandar a mensagem em inglês, apesar de que a taxa de resposta (provavelmente) será menor neste caso.
 
 Há também outros sites para você procurar sua nova moradia. Os mais populares são:
-- https://www.nestpick.com/
-- https://www.crocodilian.de/
-- http://www.berlin99.com/
-- http://www.urban-apartments.com/berlin/index.php
-- https://goeasyberlin.de/
-- https://akelius.de/en/search/apartments/osten/berlin/;list/
-- http://www.lieblingsmieter.de/
-- https://www.immowelt.de/
+
+  - http://www.berlin99.com/
+  - http://www.lieblingsmieter.de/
+  - http://www.urban-apartments.com/berlin/index.php
+  - https://akelius.de/en/search/apartments/osten/berlin/;list/
+  - https://goeasyberlin.de/
+  - https://www.crocodilian.de/
+  - https://www.i-live-berlin.de/
+  - https://www.immowelt.de/
+  - https://www.nestpick.com/
 
 <sub>**1** - Note que para nomes masculinos se usa **Sehr geehrter Herr ...**, enquanto para nomes femininos se usa **Sehr geehrte Frau ...**, tome cuidado ao substituir!</sub>
 
