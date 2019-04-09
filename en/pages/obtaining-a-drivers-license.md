@@ -94,6 +94,9 @@ You will almost certainly have to surrender your current drivers license so be p
 
 ## Resources
 
+### Test questions / answers
+- [Test Q & A](https://gist.github.com/gregdeane/4ef2c6e563d4bb06e9144b779537c8a1)
+
 ### Berlin.de (German language)
 - [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
 - Umschreibung einer ausländischen Fahrerlaubnis / Transfer of a foreign license:
