@@ -72,3 +72,49 @@ Na Alemanha existe uma lei que oficializa o processo de caução utilizando cont
 
 ### Entrega das chaves
 Na entrega das chaves, verifique todo o apartamento, como equipamentos e danos já existentes. Todos esses aspectos devem ser incluídos no contrato. Esses detalhes serão verificados ao final do contrato e houver algum dano ou equipamento faltante (que não esteja descrito no contrato), o valor do reparo/compra será retirado diretamente da conta caução e você receberá um valor menor ao reaver seu dinheiro.
+
+### Encerrando o contrato
+
+Encerrar o contrato de locação normalmente exige uma notificação por escrito ao locador com três meses completos de antecedência. Exemplo: caso você notifique o locador em 27 de fevereiro, seu contrato será encerrado em 31 de maio.
+A notificação pode ser feita com o modelo abaixo:
+
+```
+${YOUR NAME}
+${YOUR ADDRESS}
+${YOUR PLZ} Berlin 
+
+E-Mail: ${YOUR EMAIL}
+Telefon: ${YOUR PHONE NUMBER}
+
+
+${LANDLORD'S NAME}
+${LANDLORD'S ADDRESS}
+${LANDLORD'S PLZ} Berlin
+
+Kündigung des Mietvertrags 
+${ADDRESS YOU ARE VACATING}
+
+${DATE}
+
+Sehr geehrte Damen und Herren,
+
+hiermit kündige ich fristgerecht meinen Mietvertrag für die Wohnung in der ${ADDRESS, PLZ AND UNIT YOU ARE VACATING}.
+
+Laut unserem Mietvertrag ist diese Kündigung mit einer Frist von 3 Monaten verbunden. Das Mietverhältnis endet also am ${CONTRACT TERMINATION DATE}.
+
+Als Termin für die Übergabe der Wohnung schlage ich Ihnen den ${PROPOSED HANDOVER DATE} vor.
+
+Sollten Sie zur Weitervermietung die Wohnung besichtigen lassen, stimmen Sie bitte jeden Termin per E-Mail mit mir ab.
+
+Mit freundlichen Grüßen,
+
+
+Kündigung erhalten am: ${DATE OF DELIVERY TO LANDLORD}
+
+
+
+____________________                                   _____________________
+${YOUR NAME}                                           ${LANDLORD'S NAME}
+
+____________________
+${CO-RENTER'S NAME}

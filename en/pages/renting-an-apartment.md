@@ -82,3 +82,49 @@ This account guarantees that this happens, as it’s connected directly to you, 
 ### Getting the keys to your new apartment
 
 When you receive the keys to your new apartment, make sure everything is fine and that there are no damages. At the end of your contract, someone will come and check the apartment, and if there’s any damages or anything is missing (that are not described in the contract), the expenses will come out of your security deposit.
+
+### Terminating the contract
+
+Terminating your rental contract usually requires a written notice to your landlord, three calendar months in advance. E.g.: if you notify your landlord on February 27th, your contract will be terminated on May 31st.
+The notification can use the following template:
+
+```
+${YOUR NAME}
+${YOUR ADDRESS}
+${YOUR PLZ} Berlin 
+
+E-Mail: ${YOUR EMAIL}
+Telefon: ${YOUR PHONE NUMBER}
+
+
+${LANDLORD'S NAME}
+${LANDLORD'S ADDRESS}
+${LANDLORD'S PLZ} Berlin
+
+Kündigung des Mietvertrags 
+${ADDRESS YOU ARE VACATING}
+
+${DATE}
+
+Sehr geehrte Damen und Herren,
+
+hiermit kündige ich fristgerecht meinen Mietvertrag für die Wohnung in der ${ADDRESS, PLZ AND UNIT YOU ARE VACATING}.
+
+Laut unserem Mietvertrag ist diese Kündigung mit einer Frist von 3 Monaten verbunden. Das Mietverhältnis endet also am ${CONTRACT TERMINATION DATE}.
+
+Als Termin für die Übergabe der Wohnung schlage ich Ihnen den ${PROPOSED HANDOVER DATE} vor.
+
+Sollten Sie zur Weitervermietung die Wohnung besichtigen lassen, stimmen Sie bitte jeden Termin per E-Mail mit mir ab.
+
+Mit freundlichen Grüßen,
+
+
+Kündigung erhalten am: ${DATE OF DELIVERY TO LANDLORD}
+
+
+
+____________________                                   _____________________
+${YOUR NAME}                                           ${LANDLORD'S NAME}
+
+____________________
+${CO-RENTER'S NAME}
