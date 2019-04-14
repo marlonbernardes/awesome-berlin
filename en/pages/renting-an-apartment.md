@@ -50,14 +50,15 @@ It’s also possible to send a message in English, even though the response rate
 
 There are other websites/real estate agencies for you to search. The following are the most popular:
 
-  - https://www.nestpick.com/
-  - https://www.crocodilian.de/
   - http://www.berlin99.com/
-  - http://www.urban-apartments.com/berlin/index.php
-  - https://goeasyberlin.de/
-  - https://akelius.de/en/search/apartments/osten/berlin/;list/
   - http://www.lieblingsmieter.de/
+  - http://www.urban-apartments.com/berlin/index.php
+  - https://akelius.de/en/search/apartments/osten/berlin/;list/
+  - https://goeasyberlin.de/
+  - https://www.crocodilian.de/
+  - https://www.i-live-berlin.de/
   - https://www.immowelt.de/
+  - https://www.nestpick.com/
 
 [2] - Note that for male names you must use “Sehr geehrter Herr” ..., while for female names, you must use Sehr geehrte Frau ….
 
