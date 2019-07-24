@@ -8,6 +8,10 @@ The different means of transport can be identified through the following icons.
 
 ![icons](https://cloud.githubusercontent.com/assets/2975955/17560078/fd119d6e-5f20-11e6-9bea-dea79e3aa4db.png)
 
+BVG [launched in June, 2019](https://www.trafi.com/site/press-release/trafi-bvgs-all-in-one-mobility-app-jelbi-goes-live-in-berlin) an app called [Jelbi](https://www.jelbi.de/), which has info about all public transport network, including all transports above and shared transports such as public bicycles, Uber etc., allowing the ticket purchase with the cellphone, as well as vehicle reservation when that's the case. Download Jelbi from [App Store](https://apps.apple.com/pt/app/jelbi/id1451106402) or [Google Play](https://play.google.com/store/apps/details?id=com.trafi.whitelabel.bvg&hl=en_US).
+
+![Jelbi app photo](https://assets.website-files.com/59b979e35daa830001026d41/5cfe7c8c65ffacc8c4df8e78_jelbi-p-1080.jpeg)
+
 ## How to buy transport tickets
 
 Before you buy the tickets, you first need to decide which ticket to buy. There are a lot of different ticket types and prices, and this guide will not cover them all. Anyway, below you will find some information which might help you decide which ticket you should buy:
