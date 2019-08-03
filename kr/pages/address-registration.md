@@ -44,7 +44,7 @@
 
 ## 전입신고 진행과정
 
-- 필요한 온갖 서류를 다 모아옵니다 (여권, 전입신고 신청서, 집주인한테 받은 허가증(대강 이렇게 생겼습니다 [링크](http://www.berlin.de/formularserver/formular.php?402544)), 계약서, 결혼증명서나 출생증명서
+- 필요한 온갖 서류를 다 모아옵니다 (여권, 전입신고 신청서, 집주인한테 받은 허가증(대강 이렇게 생겼습니다 [링크](https://www.berlin.de/formularserver/formular.php?402544)), 계약서, 결혼증명서나 출생증명서
 - 전입신고 센터 (*Bürgeramt*)에 가서 등록하기 전, 아래와 같은 사실을 유념하세요 :
 
  **1) 온라인으로 예약을 하고 가기 (주소 : [https://service.berlin.de/](https://service.berlin.de/))**
