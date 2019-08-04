@@ -25,7 +25,7 @@ You will be taking a digital test, probably in a tablet.
 
 When you sign up for a driving school (Fahrschule), you will almost certainly be given access to a smartphone app that will allow you to study the required 1000 questions. The questions will
 appear identically (or near-identically) to the way they will appear on the theorie test. There may be minor differences depending on the app you are using to study.
- 
+
 The theorie questions are updated every three months so it's best to study fast so you don't have to learn new questions.
 
 ## Translation of your current drivers license
@@ -33,7 +33,7 @@ Depending on where your current drivers license was issued, you may have to get 
 
 | Location          | Approx. Cost | Waiting Period | Other Information
 | ------------- |------------- |------------- |------------- |
-| [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | approx. 10 days **(ADAC will keep your drivers license during this time)** | If you pick up the license for someone else, you will need their passport 
+| [ADAC](https://www.adac.de/adac_vor_ort/berlin_brandenburg/verkehr_und_technik/fuehrerscheinfragen/default.aspx?ComponentId=67578&SourcePageId=61898) | €35 | approx. 10 days **(ADAC will keep your drivers license during this time)** | If you pick up the license for someone else, you will need their passport
 
 ## Prior to submitting your application at the Bürgeramt:
 You need to complete the following tasks before going to the Bürgeramt. Note that the links below are a mere sampling and do not constitute an endorsement.
@@ -97,10 +97,10 @@ You will almost certainly have to surrender your current drivers license so be p
 ### Berlin.de (German language)
 - [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
 - Umschreibung einer ausländischen Fahrerlaubnis / Transfer of a foreign license:
-  - [aus EU-/EWR-Staat / from EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
-  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
+  - [aus EU-/EWR-Staat / from EU/EWR state](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
+  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
 - [Fahrerlaubnis / Driving license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
-- [More about changing a drivers license](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
+- [More about changing a drivers license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
 - [Sample Photograph (Downloadable PDF)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
 - [Bürgeramt location in Mitte](https://service.berlin.de/standort/123202/)
 

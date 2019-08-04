@@ -80,10 +80,10 @@ Você deve completar os seguintes passos antes de ir ao Bürgeramt. Note que as 
 ### Berlin.de (German language)
 - [Localizações de Bürgeramts](https://service.berlin.de/buergerberatung-aemter/)
 - Umschreibung einer ausländischen Fahrerlaubnis / Trasferindo uma carteira estrangeira:
-  - [aus EU-/EWR-Staat / from EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
-  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
+  - [aus EU-/EWR-Staat / from EU/EWR state](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
+  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
 - [Fahrerlaubnis / Carteira de motorista](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
-- [Mais sobre como transferir sua carteira de motorista](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
+- [Mais sobre como transferir sua carteira de motorista](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
 - [Exemplo de foto (PDF para download)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
 - [Localizações de Bürgeramts no Mitte](https://service.berlin.de/standort/123202/)
 
@@ -94,4 +94,3 @@ Você deve completar os seguintes passos antes de ir ao Bürgeramt. Note que as 
 ### Wikipedia
 - [Sinais de trânsito alemães](https://en.wikipedia.org/wiki/Road_signs_in_Germany)
 - [Categorias das carteiras de motorista na Europa](https://en.wikipedia.org/wiki/European_driving_licence#Categories_valid_in_all_EEA_member_states)
-

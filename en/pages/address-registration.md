@@ -8,7 +8,7 @@ The document received immediately after your registration is really important, a
 
 - Passport (or Passports, in case more than one person are being registered in the same address)
 - Rental agreement (*Mietvertrag* or *Einzugsbestätigung des Wohnungsgebers*)
-- Registration form filled out (Anmeldungsformular). 
+- Registration form filled out (Anmeldungsformular).
   - [Registration form - English](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
   - [Registration form - German](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
 - If you are married, bring your marriage certificate (written in English or German)
@@ -43,7 +43,7 @@ Below you will find an example, followed by some explanations.
 
 ## How the registration works
 
-- Gather all the required documentation (passport(s), filled out registration form, confirmation of residence from your landlord (Template can be found [here](http://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
+- Gather all the required documentation (passport(s), filled out registration form, confirmation of residence from your landlord (Template can be found [here](https://www.berlin.de/formularserver/formular.php?402544)), rental contract, marriage/birth certificate (if you are married/have children)
 - Take your paperwork to a local registration office (*Bürgeramt*), but before that decide your strategy:
 
  **1) Make an online appointment (via [https://service.berlin.de/](https://service.berlin.de/))**

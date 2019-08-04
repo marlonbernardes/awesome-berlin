@@ -23,7 +23,7 @@ There are two tests you will have to take (depending on your current drivers lic
 태블릿으로 보는 디지털 형식 시험을 보게 될 겁니다.
 
 운전면허학원 (Fahrschule)에 등록시, 필요한 문제은항 1000개에 접근할 수 있는 앱이 담긴 스마트폰을 받게 되실 건데요, 거의 비슷하게 실제 이론시험에 출제됩니다. 약간 앱별로 차이가 있을 수는 있습니다만 거의 비슷하게 출제됩니다.
- 
+
 이론시험 문제는 매 3달마다 바뀌므로 최대한 빨리 시험에 응시하는 것이 새 문제를 외우는 것보다 훨씬 이득입니다.
 
 ## 보유중인 면허증 번역
@@ -91,10 +91,10 @@ Bürgeramt에 가기 전 아래 서류들을 준비하세요. 아래는 단순�
 ### Berlin.de (German language)
 - [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
 - Umschreibung einer ausländischen Fahrerlaubnis / Transfer of a foreign license:
-  - [aus EU-/EWR-Staat / from EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
-  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
+  - [aus EU-/EWR-Staat / from EU/EWR state](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/121598/)
+  - [aus nicht-EU-/EWR-Staat / from non-EU/EWR state](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/dienstleistungen/service.213924.php/dienstleistung/327537/)
 - [Fahrerlaubnis / Driving license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/)
-- [More about changing a drivers license](http://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
+- [More about changing a drivers license](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.232531.php)
 - [Sample Photograph (Downloadable PDF)](https://www.berlin.de/labo/_assets/kraftfahrzeugwesen/foto-mustertafel.pdf)
 - [Bürgeramt location in Mitte](https://service.berlin.de/standort/123202/)
 

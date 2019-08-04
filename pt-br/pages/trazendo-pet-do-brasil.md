@@ -139,8 +139,8 @@ Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você dev
 **Este registro deve ser feito apenas para cachorros.**
 
 É obrigatório fazer o registro do animal no Finanzamt e pagar o imposto de 120 euros por ano.
-[Clique aqui](http://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) para baixar o formulário que deve ser entregue no dia do registro do animal.
-Você encontra esse formulário já impresso no Finanzamt, mas é sempre bom levar já preenchido (ainda mais se você não fala Alemão). 
+[Clique aqui](https://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) para baixar o formulário que deve ser entregue no dia do registro do animal.
+Você encontra esse formulário já impresso no Finanzamt, mas é sempre bom levar já preenchido (ainda mais se você não fala Alemão).
 No dia que fizer o registro, você receberá a tag de identificação do animal que deve ser mantida na coleira.
 
 ## Mais informações
