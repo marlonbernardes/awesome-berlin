@@ -26,7 +26,7 @@
 웹사이트 [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) 에 들어가서 세금 구간별로 얼마나 세후소득에 차이를 주는지 알아보는게 좋습니다.
 
 어쨌든, 세금구간을 바꾸려면 아래와 같은 절차가 필요합니다. :
- - *Steuerklassenwechsel** 폼 채우기 (download [here](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/steuerklassenwechsel.pdf) 혹은 공관(Finanzamt) 가서 직접 쓰기.
+ - *Steuerklassenwechsel** 폼 채우기 (download [here](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/lohn-und-einkommensteuer/antrag_auf_steuerklassenwechsel_f__r_eheleute.pdf) 혹은 공관(Finanzamt) 가서 직접 쓰기.
  - 공란 채우고 사인할 것
  - 공관(Finanzamt)에 제출 (예약할 필요 없으)
  - 월급 반영일까지 걸리는 시간 - 대강 30일 정도

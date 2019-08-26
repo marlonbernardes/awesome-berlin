@@ -26,7 +26,7 @@ If you and your spouse/partner were automatically assigned to the tax category I
 Access the website [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) and play around with the tax category to see how it affects your net income per month.
 
 Anyway, if you want to change the tax category you need to perform the following steps:
- - Obtain the form *Steuerklassenwechsel** (download [here](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/steuerklassenwechsel.pdf) OR get it directly at the Finanzamt.
+ - Obtain the form *Steuerklassenwechsel** (download [here](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/lohn-und-einkommensteuer/antrag_auf_steuerklassenwechsel_f__r_eheleute.pdf) OR get it directly at the Finanzamt.
  - Fill it out and sign it
  - Deliver it in a Finanzamt (you do not need to schedule an appointment)
  - Done! You might need to wait up to 30 days for this change to be reflected in your salary.
