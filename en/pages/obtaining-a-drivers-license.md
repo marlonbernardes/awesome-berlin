@@ -51,7 +51,6 @@ It is recommended to research any company before signing up to determine their v
   - [List of English-speaking driving schools in Berlin](http://allaboutberlin.com/guides/english-driving-schools-in-berlin)
   - [Fahrschule R.E.X.](http://www.rexdrive.de/)
   - [Fahrschule Verkehr Human](http://www.verkehrhuman.de/)
-  - [Fit-For-Drive](http://www.fit-for-drive.cc/)
   - [AS Driving Schools](http://www.as-fahrschule.de/)
   - [Fahrschule Prenzlauer Berg](http://www.fahrschule-berlin-prenzlauer-berg.de/german%20driving%20license%20home.html)
   - [Asphalt-Profis](http://www.asphalt-profis.de/)
