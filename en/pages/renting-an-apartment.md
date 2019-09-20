@@ -51,6 +51,7 @@ It’s also possible to send a message in English, even though the response rate
 There are other websites/real estate agencies for you to search. The following are the most popular:
 
   - http://www.berlin99.com/
+  - https://www.farawayhome.com
   - http://www.lieblingsmieter.de/
   - http://www.urban-apartments.com/berlin/index.php
   - https://akelius.de/en/search/apartments/osten/berlin/;list/

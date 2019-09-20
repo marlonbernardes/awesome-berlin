@@ -50,6 +50,7 @@ Também é possível mandar a mensagem em inglês, apesar de que a taxa de respo
 Há também outros sites para você procurar sua nova moradia. Os mais populares são:
 
   - http://www.berlin99.com/
+  - https://www.farawayhome.com
   - http://www.lieblingsmieter.de/
   - http://www.urban-apartments.com/berlin/index.php
   - https://akelius.de/en/search/apartments/osten/berlin/;list/

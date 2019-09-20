@@ -57,6 +57,7 @@ ${성을 포함한 이름}
 다른 부동산 웹사이트, 중개업자 웹사이트들도 있습니다. 가장 인기있는 리스트들은 다음과 같습니다.
 
   - http://www.berlin99.com/
+  - https://www.farawayhome.com
   - http://www.lieblingsmieter.de/
   - http://www.urban-apartments.com/berlin/index.php
   - https://akelius.de/en/search/apartments/osten/berlin/;list/
