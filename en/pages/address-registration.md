@@ -59,5 +59,5 @@ After that, just handover all the documents to the employee and wait for your re
 ## Tips
 
 - There is a chance that the people that will take care of your registration do not speak English, so if you don't speak German make sure you have all the required documents with you (in order to minimize human interactions :P)
-- If you don't have an appointment and they don't have free slots for your don't panic. Try again in a different day or in a different Bürgeramt.
+- If you don't have an appointment and they don't have free slots for you, don't panic. Try again in a different day or in a different Bürgeramt.
 - Be patient! :)
