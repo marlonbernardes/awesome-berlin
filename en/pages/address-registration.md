@@ -7,7 +7,7 @@ The document received immediately after your registration is really important, a
 ## What you need for the registration
 
 - Passport (or Passports, in case more than one person are being registered in the same address)
-- Rental agreement (*Mietvertrag* or *Einzugsbestätigung des Wohnungsgebers*)
+- Move-in confirmation from the landlord (*Einzugsbestätigung des Wohnungsgebers*) or Rental agreement (*Mietvertrag*), ideally the former
 - Registration form filled out (Anmeldungsformular).
   - [Registration form - English](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
   - [Registration form - German](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
