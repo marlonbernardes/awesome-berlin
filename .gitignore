@@ -1,0 +1,4 @@
+.idea/
+*.log
+node_modules
+_book
