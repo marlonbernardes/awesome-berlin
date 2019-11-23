@@ -66,6 +66,7 @@ ${성을 포함한 이름}
   - https://www.i-live-berlin.de/
   - https://www.immowelt.de/
   - https://www.nestpick.com/
+  - https://wunderflats.com/
 
 [2] - 남자 이름에는 “Sehr geehrter Herr ….”를 사용해야 하고, 여자 이름의 경우 "Sehr geehrte Frau …."를 사용해야 합니다.
 

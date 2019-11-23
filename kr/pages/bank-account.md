@@ -42,4 +42,4 @@ ING-DiBa AG 네덜란드 다국적 회사 ING그룹의 자회사고, 인터넷 �
  
 ### 다른 선택
 - [Revolut](https://www.revolut.com)
-- [Transferwise](https://transferwise.com)
+
