@@ -16,7 +16,12 @@ Clientes do DB podem realizar saques (sem custo) em caixas eletrônicos dos segu
 
 ## N26
 
-Abrir uma conta no N26 é relativamente fácil e rápido. Cadastre-se em [https://n26.com/](https://n26.com/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone com o aplicativo (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação:
+Abrir uma conta no N26 é relativamente fácil e rápido. Cadastre-se em [https://n26.com/](https://n26.com/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte, registro de residência e parear seu smartphone com o aplicativo (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação:
 - via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.) **Edit 19/11/2016:** N26 agora aceita passaporte Brasileiro para identificação via vídeo chamada! 
 - via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela cidade, o que eu fui fica em Frankfurt Allee 1)
 
+## Transferwise Borderless Account
+Esta é a opção mais rápida e menos burocrática. Tudo que você precisa é do passaporte e um endereço para te enviarem o cartão. 
+Em menos de uma semana você terá um cartão de débito alemão e uma conta bancária. 
+Os limites e tarifas da Transferwise estao entre as melhores do mercado (inclusive para transferencias internacionais, fora da europa), mas vale a pena [CONFERIR](https://transferwise.com/pt/help/13/entendendo-tarifas-e-cambios)
+- Acesse o site da [Transferwise](transferwise.com/invite/u/eduardoj98) faça cadastro (email e senha) e siga os passos na tela.

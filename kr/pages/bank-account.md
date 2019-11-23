@@ -36,6 +36,10 @@ N26 은 가장 많이 추천받는데, 왜냐하면 지긋지긋한 거주등록
 
 ING-DiBa AG 네덜란드 다국적 회사 ING그룹의 자회사고, 인터넷 은행입니다. 지점이 없습니다. 계좌를 여는 데 돈이 들거나 하지 않지만 대강 계좌 개설에 1-2주는 걸립니다. 이 은행에서는 Giro랑 Visa카드를 연회비 없이 발급해줍니다. VISA카드로 어느 유럽 국가에서도 무료로 인출할 수 있습니다. 만약 배우자가 있다면 배우자용 카드도 발급해 줍니다. 참고 [링크](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
 
+### [Transferwise](https://transferwise.com/de)
+이것은 가장 빠르고 가장 관료적 인 옵션입니다. 여권과 카드를 보낼 주소 만 있으면됩니다. 일주일 이내에 독일 직불 카드와 은행 계좌가 생깁니다. Transferwise의 한도 및 요금은 업계 최고 수준입니다 (유럽 이외의 국제 환승 포함).
+- [Transferwise](transferwise.com/invite/u/eduardoj98) 웹 사이트 (이메일 및 비밀번호)에 액세스하고 화면의 단계를 따릅니다.
+ 
 ### 다른 선택
 - [Revolut](https://www.revolut.com)
 - [Transferwise](https://transferwise.com)
