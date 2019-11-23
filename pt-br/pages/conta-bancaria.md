@@ -24,4 +24,4 @@ Abrir uma conta no N26 é relativamente fácil e rápido. Cadastre-se em [https:
 Esta é a opção mais rápida e menos burocrática. Tudo que você precisa é do passaporte e um endereço para te enviarem o cartão. 
 Em menos de uma semana você terá um cartão de débito alemão e uma conta bancária. 
 Os limites e tarifas da Transferwise estao entre as melhores do mercado (inclusive para transferencias internacionais, fora da europa), mas vale a pena [CONFERIR](https://transferwise.com/pt/help/13/entendendo-tarifas-e-cambios)
-- Acesse o site da [Transferwise](transferwise.com/invite/u/eduardoj98) faça cadastro (email e senha) e siga os passos na tela.
+- Acesse o site da [Transferwise](https://transferwise.com/register#/) faça cadastro (email e senha) e siga os passos na tela.

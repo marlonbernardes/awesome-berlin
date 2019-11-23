@@ -41,7 +41,7 @@ ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an o
 
 ### Transferwise Borderless Account
 This is the fastest and least bureaucratic option. All you need is a passport and an address to send the card to. In less than a week you will have a German debit card and a bank account. Transferwise's limits and fees are among the best in the industry (including for international transfers, outside Europe), but always worth it [CHECK OUT](https://transferwise.com/help/13/understanding-fees-and-rates)
-- Visit the [Transferwise](https://transferwise.com/invite/u/eduardoj98) website sign up and follow the onscreen steps.
+- Visit the [Transferwise](https://transferwise.com/register#/) website sign up and follow the onscreen steps.
 
 ### Other Options
 - [Revolut](https://www.revolut.com)

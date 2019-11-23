@@ -38,8 +38,7 @@ ING-DiBa AG 네덜란드 다국적 회사 ING그룹의 자회사고, 인터넷 �
 
 ### [Transferwise](https://transferwise.com/de)
 이것은 가장 빠르고 가장 관료적 인 옵션입니다. 여권과 카드를 보낼 주소 만 있으면됩니다. 일주일 이내에 독일 직불 카드와 은행 계좌가 생깁니다. Transferwise의 한도 및 요금은 업계 최고 수준입니다 (유럽 이외의 국제 환승 포함).
-- [Transferwise](transferwise.com/invite/u/eduardoj98) 웹 사이트 (이메일 및 비밀번호)에 액세스하고 화면의 단계를 따릅니다.
+- [Transferwise](https://transferwise.com/register#/) 웹 사이트 (이메일 및 비밀번호)에 액세스하고 화면의 단계를 따릅니다.
  
 ### 다른 선택
 - [Revolut](https://www.revolut.com)
-
