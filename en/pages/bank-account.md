@@ -32,13 +32,16 @@ Deutsche bank is the only physical bank that offers a large part of its services
 These banks are different from other banks, as there are no physical branches, so you can do everything online. Using such banks, one gets argubaly better technological benefits.
 
 ### [N26](https://n26.com)
-N26 is often recommended because you can open an account even before your Anmeldung. Opening a bank account here is usually fast and easy. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
+N26 is often recommended because you can open an account even before your Anmeldung (depending on where you are [from](https://support.n26.com/en-eu/getting-started/personal-information/how-to-prove-my-identity)). Opening a bank account here is usually fast and easy. You can sign up for an account [here](https://app.n26.com/register) and then follow the website instructions to create your bank account. You will also need a smartphone, a passport and a German address to activate your bank account.
 It offers 100% of its banking experience in English.
 
 ### [ING-DiBa](https://www.ing-diba.de/)
 
 ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an online bank with no physical branches. Opening an account costs nothing but it may take from one to two weeks. The bank offers a Giro and Visa card with no yearly fees. You can use your VISA card to withdraw for free in any European country. If you have a partner they can also have extra cards for. Interested? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
 
+### Transferwise Borderless Account
+This is the fastest and least bureaucratic option. All you need is a passport and an address to send the card to. In less than a week you will have a German debit card and a bank account. Transferwise's limits and fees are among the best in the industry (including for international transfers, outside Europe), but always worth it [CHECK OUT](https://transferwise.com/help/13/understanding-fees-and-rates)
+- Visit the [Transferwise](https://transferwise.com/register#/) website sign up and follow the onscreen steps.
+
 ### Other Options
 - [Revolut](https://www.revolut.com)
-- [Transferwise](https://transferwise.com)
