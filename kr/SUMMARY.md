@@ -11,7 +11,7 @@
   1. [연간권 사는법](/pages/public-transport.md#getting-a-yearly-transport-ticket)
   1. [팁](/pages/public-transport.md#tips)
 1. [핸드폰](/pages/mobile-phones.md#mobile-phone)
-  1. [미리 충전됨 심 사기](/pages/mobile-phones.md#other-options)
+  1. [미리 충전된 심 사기](/pages/mobile-phones.md#other-options)
 1. [은행계좌 열기](/pages/bank-account.md#opening-a-bank-account)
   1. [일반은행편](/pages/bank-account.md#traditional-banks)
   1. [인터넷은행편](/pages/bank-account.md#online-banks)

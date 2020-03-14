@@ -24,7 +24,7 @@
 
 ![mapa abc](https://cloud.githubusercontent.com/assets/2975955/17400833/81c83ad0-5a4a-11e6-9e8e-e4e1731cb51c.png)
 
-- 당연히 주당, 일당 티켓보다 월별 정기권이 쌉니다.(당연히 데일리 티켓보다도 쌈) 연간권을 사루도 있는데(요금은 달별로 냄) 대강 달마다 €60 정도 냅니다. *주의* 표 사는 기계에서 월별 정기권을 사려면 두가지 타입이 있는데요, "Monthly Ticket"이랑  "Monthly Ticket Flexible"을 팝니다. *Monthly Ticket Flexible*을 사면 산 날로부터 30일 유효합니다. 아니면 _Monthly Ticket_ 을 사서 써야하는데 이건 그달의 말일까지만 유효합니다. 만약 _Monthly Ticket_ 을 6월 20일에 샀다가는 돈은 돈대로 내고 표는 6월 30일까지만 쓰고 못쓰는 눈물나는 상황이 벌어집니다.
+- 당연히 주당, 일당 티켓보다 월별 정기권이 쌉니다.(당연히 데일리 티켓보다도 쌈) 연간권을 살 수도 있는데(요금은 달별로 냄) 대강 달마다 €60 정도 냅니다. *주의* 표 사는 기계에서 월별 정기권을 사려면 두가지 타입이 있는데요, "Monthly Ticket"이랑  "Monthly Ticket Flexible"을 팝니다. *Monthly Ticket Flexible*을 사면 산 날로부터 30일 유효합니다. 아니면 _Monthly Ticket_ 을 사서 써야하는데 이건 그달의 말일까지만 유효합니다. 만약 _Monthly Ticket_ 을 6월 20일에 샀다가는 돈은 돈대로 내고 표는 6월 30일까지만 쓰고 못쓰는 눈물나는 상황이 벌어집니다.
 
 - BVG 세일즈 아울렛에서도 표를 살 수 있습니다. (파는 위치 [here](https://www.bvg.de/en/Tickets/Other-ways-to-buy/At-sales-outlets) 이나 아무 U-Bahn 혹은 S-Bahn 역에서도 구입가능).
 
@@ -70,10 +70,11 @@
 - 금토 하루 24시간 운행, 평일에 U-Bahn은 자정에서 새벽 1시경이 막차고(노선에 따라 다릅니다) S-Bahn의 경우 새벽 01:30 AM쯤이 막차입니다.
 - U-Bahn / S-Bahn 이 끊겼으면, 대신 24시간 운행되는 Metro Bus를 타면 됩니다.
 - 월 정액권을 쓸 땐 다른 사람과 동승할 수 있다고 합니다. 월 - 금 8시부터 3시까지 가능하고 휴일이나 주말엔 하루종일 됩니다. (관련정보 [here](http://www.s-bahn-berlin.de/aboundtickets/vbb_umweltkarte_im_abo.htm)).
-- 믿음으로 돌아가는 베를린 대중교통인만큼 모든 역이 배리어프리~ 개찰구가 없답니다. 그건 그거고, 항상 표를 사서 들고 다니는게 좋습니다. 왜냐면 랜덤하게 표 검사관들이 돌아다니기 때문입니다. - 시내를 다니기에 도움되는 앱이 있습니다. "Citymapper" 라는 앱인데요, 구글 맵을 오프라인 다운로드 해서 들고 다녀도 되고 저 맵을 써도 됩니다.
+- 믿음으로 돌아가는 베를린 대중교통인만큼 모든 역이 배리어프리~ 개찰구가 없답니다. 그건 그거고, 항상 표를 사서 들고 다니는게 좋습니다. 왜냐면 랜덤하게 표 검사관들이 돌아다니기 때문입니다. 
+- 시내를 다니기에 도움되는 앱이 있습니다. "Citymapper" 라는 앱인데요, 구글 맵을 오프라인 다운로드 해서 들고 다녀도 되고 저 맵을 써도 됩니다.
 - BVG FahrInfo Plus 앱 [Android](https://play.google.com/store/apps/details?id=de.eos.uptrade.android.fahrinfo.berlin) 혹은 [Apple](https://itunes.apple.com/de/app/bvg-fahrinfo-plus-berlin/id284971745?l=en&mt=8) 을 사용해서 온라인으로 티켓 구매도 가능
 - 헷갈리지 마세요 : 티켓을 사면 어떤 대중교통에서도 쓸 수 있습니다. 버스나 지하철이 따로 있는게 아님!!
-- 긴 기간 티켓 (daily/weekly/monthly) 소지시 애완견과 함께 탈 수 있습니다([here](https://www.bvg.de/en/Tickets/conditions-of-carriage)
+- 긴 기간 티켓 (daily/weekly/monthly) 소지시 애완견과 함께 탈 수 있습니다[here](https://www.bvg.de/en/Tickets/conditions-of-carriage)
 - 버스 기사님한테 티켓을 살 수도 있는데요, 그 티켓을 2시간 안에 사용한다면 S-Bahn에서도 쓸 수 있답니다.
 - 버스기사가 보건안보건 버스를 타면 공손하게 티켓을 버스기사님께 보여줍시다!!
 - ![taking-the-bus](https://cloud.githubusercontent.com/assets/2975955/21542148/17b0b326-cdbc-11e6-9496-6f886919a271.gif)
