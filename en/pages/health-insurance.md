@@ -4,8 +4,10 @@ Germany has a reputation for having one of the best health care systems in the w
 
 This guide provides a brief summary of how to apply for public health insurance, but I also strongly recommend that you read the following websites for more information:
 
-[How to Germany - Health Insurance](http://www.howtogermany.com/pages/healthinsurance.html)
-[Toytown Germany - Health Insurance](http://www.toytowngermany.com/wiki/Health_insurance)
+* [An intro to health insurance in Germany](https://allaboutberlin.com/guides/german-health-insurance)
+* [Which health insurance do you need for a German visa?](https://allaboutberlin.com/guides/german-visa-health-insurance)
+* [How to Germany - Health Insurance](http://www.howtogermany.com/pages/healthinsurance.html)
+* [Toytown Germany - Health Insurance](http://www.toytowngermany.com/wiki/Health_insurance)
 
 ## Public health insurance
 
