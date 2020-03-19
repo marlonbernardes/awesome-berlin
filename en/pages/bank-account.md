@@ -45,3 +45,4 @@ This is the fastest and least bureaucratic option. All you need is a passport an
 
 ### Other Options
 - [Revolut](https://www.revolut.com)
+- [German banks that don't require an Anmeldung](https://allaboutberlin.com/guides/german-banks-no-address)
