@@ -82,9 +82,13 @@ Finally, after a landlord/real estate agency accepts your application to an apar
 In Germany, there’s a law that formalizes the process of Security Deposits using specific accounts for that. Officially, this deposit can only be used in case there’s any damage to the property, caused by the tenant. This money will only be withdrawn at the end of the rental agreement/contract, by the landlord/real estate agency - the rest of the money will be returned to the tenant.
 This account guarantees that this happens, as it’s connected directly to you, the landlord/real estate agency and the contract. To create this account, you must have the information of your landlord/real estate agency and the contract at the day you go to the bank. There’s another option that is transfer the security deposit directly to the landlord/real estate agency, but you might be exposed to not getting this money back. To avoid any headaches, the Kautionskonto is the better option. Some real estate agencies will open this account for you.
 
+[How the Mietkaution works in Germany](https://allaboutberlin.com/guides/mietkaution)
+
 ### Getting the keys to your new apartment
 
 When you receive the keys to your new apartment, make sure everything is fine and that there are no damages. At the end of your contract, someone will come and check the apartment, and if there’s any damages or anything is missing (that are not described in the contract), the expenses will come out of your security deposit.
+
+[How to move into an apartment in Germany](https://allaboutberlin.com/guides/moving-in)
 
 ### Terminating the contract
 
