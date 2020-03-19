@@ -7,8 +7,8 @@ The document received immediately after your registration is really important, a
 ## What you need for the registration
 
 - Passport (or Passports, in case more than one person are being registered in the same address)
-- Move-in confirmation from the landlord (*Einzugsbestätigung des Wohnungsgebers*) or Rental agreement (*Mietvertrag*), ideally the former
-- Registration form filled out (Anmeldungsformular).
+- [Move-in confirmation from the landlord](https://allaboutberlin.com/docs/wohnungsgeberbestatigung) (*Einzugsbestätigung des Wohnungsgebers*) or Rental agreement (*Mietvertrag*), ideally the former
+- [Registration form](https://allaboutberlin.com/docs/anmeldung) filled out (Anmeldungsformular).
   - [Registration form - English](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_en.pdf)
   - [Registration form - German](https://github.com/marlonbernardes/awesome-berlin/raw/master/files/anmeldung_de.pdf)
 - If you are married, bring your marriage certificate (written in English or German)
@@ -50,9 +50,9 @@ Below you will find an example, followed by some explanations.
  The problem with this approach is that usually there aren't a lot of appointments available in the near future (some people claim they can only get appointments for one or two months in the future). Fortunately, the situation improved a lot, and it's usually possible to get an appointment in the next week.
 
  **2) Go to the Bürgeramt without an appointment**
- Simply show up early and let them know you are there for your "Anmeldung". Be prepared to wait, though.
+ Simply show up early and let them know you are there for your "Anmeldung". Be prepared to wait, though. This does not work at all locations.
 
-Despite of your strategy, you will receive an appointment number and then you will just have to go to the Bürgeramt (in case you are not there) and wait for your number to be displayed on the screen.
+Regardless of your strategy, you will receive an appointment number and then you will just have to go to the Bürgeramt (in case you are not there) and wait for your number to be displayed on the screen.
 
 After that, just handover all the documents to the employee and wait for your registration to be complete. This step should take less than 10 minutes. The document you will receive after your registration is really important, so make sure you don't lose it.
 
