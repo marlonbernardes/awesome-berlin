@@ -1,25 +1,27 @@
-# Working in Germany
+# 독일에서 일하기
 
-## Getting your social security number
+## 사회 보장 번호 받기
 
-Some weeks (2-4) after you apply for a health insurance you should receive your social security number by mail. This number is called the Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer or RNVR.
+건강 보험 신청 후 몇 주(2~4주)가 지난 후, 메일로 사회 보장 번호를 받을 것입니다. 이 번호는 Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer 또는 RNVR이라고 불립니다. 
 
-If you need to have your social security number sooner than that (e.g your employer is requesting it), you can send an email (or call) your health insurance provider (e.g: TK) and ask for this number.
+만약 사회 보장번호를 좀 더 빨리 얻어야한다면(예를 들어 고용주/회사가 요청하는 경우 등이요), 건강 보험 제공측(TK 등)에 메일이나 전화로 연락하여 요청할 수 있습니다.  
 
-## Getting your Tax Id number
+## Tax ID 세금 번호 받기
 
-The Tax Id (also known as *Steueridentifikationsnummer*, *Identifikationsnummer* or *Steuer-ID*) is an 11 digit number issued by the German Federal Tax Office that identifies you. This number is unique and will never change. If you want to work in Germany, you need to provide this number to your employer, otherwise tax will be deducted from your income at the maximum rate ([source](http://blog.mygermanexpert.com/2013/03/How-to-get-a-German-Tax-ID-Number.html)).
+Tax ID ( *Steueridentifikationsnumber*, *Identifikationsnummer*, 또는 *Steuer-ID* 라고도 불립니다.)는 11자리 숫자로 되어있는, 독일 연방 세금 사무소(the German Federal Tax Office)에서 구분을 위해 발급된 번호에요. 이 번호는 개별 고유한 번호이며, 앞으로 절대 바뀌지 않습니다. 만약 독일에서 일하길 원하신다면 이 번호를 회사에 꼭 제출해야해요. 스렇지 않으면 세금은 당신 월급에서 최대 세율로 공제됩니다. ([source](http://blog.mygermanexpert.com/2013/03/How-to-get-a-German-Tax-ID-Number.html))
+ 
 
-There are two ways of obtaining your Tax Id:
+아래 두 가지 방법으로 Tax Id를 얻으실 수 있습니다 : 
 
-  1. Simply wait until you receive it by email. This number will be automatically generated and sent to you between 2 to 4 weeks after you've done your address registration.
-  2. If you can't wait 2 to 4 weeks to get your Tax Id, you can go directly to the *Finanzamt* of your district (tip: use google to find the address) and ask for it. Take your passport with you. Differently from the Bürgeramt, usually there are no lines in the *Finanzamt* and you do not need to go early. Please note that you should wait at least one week after your address registration before you go to the *Finanzamt*, as this number takes some days to be generated.
+  1. 그냥 메일로 받을 때 까지 기다립니다. 이 번호는 자동적으로 생성되고, 당신이 주소 등록을 완료한 후 2-4주 사이에 발송될거에요.
+  2. 만약 2-4주를 기다릴 수 없다면, 님이 살고 계신 구역의 *Finanzamt* 를 바로 찾아 가서 문의하세요. (구글 맵을 이용해서 찾아가시면 됩니다.) 여권 들고가셔야 하구요. Bürgeramt와 달리 보통 줄이 별로 없어서 일찍 가실 필요는 없어요. 하지만 적어도 주소를 등록하신 후 1주일은 지난 후 *Finanzamt* 에 가세요. 번호가 생성되려면 며칠 걸리거든요.
 
-If you have already completed the above steps before, but then lost the number, you can request it online: [https://www.bzst.de/DE/Steuern_National/Steuerliche_Identifikationsnummer/ID_Eingabeformular/ID_Node.html](https://www.bzst.de/DE/Steuern_National/Steuerliche_Identifikationsnummer/ID_Eingabeformular/ID_Node.html).
+만약 위의 단계를 모두 완료했는데 번호를 잃어버렸다면...! 
+온라인으로 요청하실 수도 있어요 : [https://www.bzst.de/DE/Steuern_National/Steuerliche_Identifikationsnummer/ID_Eingabeformular/ID_Node.html](https://www.bzst.de/DE/Steuern_National/Steuerliche_Identifikationsnummer/ID_Eingabeformular/ID_Node.html). 
 
 ### Tips
 
- - Do not confuse the Steueridentifikationsnummer (Tax Id) with the Steuernummer. The latter is something totally different used by freelancers. [This guide](http://allaboutberlin.com/guides/german-tax-id-steuernummer) explains the difference.
- - If you decide to go to the Finanzamt, take this opportunity to find out your tax category. If you are married (and your spouse/civil partner) does not have an income, it might be a good idea to change the tax category for both of you, as this might increase your net income per month. Please refer to the website [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) to understand how your tax category affect your monthly income. You can click [here](./changing-tax-category.md) to find out how to change your tax class.
+ - Steueridentifikationsnummer (Tax Id)와 Steuernummer를 헷갈리지 않도록 주의하세요. 후자의 경우 완전히 다르게, 프리랜서에게 사용되는 번호입니다. [가이드](http://allaboutberlin.com/guides/german-tax-id-steuernummer) 에서 어떻게 다른지 설명을 보실 수 있어요.
+ - 만약 Finanzamt에 직접 방문하기로 한다면, 당신의 세금 클래스를 확인해보세요. 만약 당신이 기혼자고 당신의 배우자(또는 결혼과 비슷한 법적 관계인 사람이) 수입이 없을 경우 두 분의 세금 클래스를 바꾼다면 세후 월급이 늘어날 수도 있어요. 여기 웹사이트를 참고해주세요. [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) 세금 클래스가 어떻게 월급에 영향을 끼치는지 확인할 수 있답니다.  세금 클래스를 어떻게 변경하는지 확인하기 위해서는 [여기](./changing-tax-category.md) 를 클릭해주세요. 
 
 
