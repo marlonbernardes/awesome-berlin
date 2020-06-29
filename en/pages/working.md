@@ -2,7 +2,7 @@
 
 ## Getting your social security number
 
-Some weeks (2-4) after you apply for a health insurance you should receive your social security number by mail. This number is called the Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer or RNVR.
+Some weeks (2-4) after you apply for a health insurance you should receive your social security number by mail. This number is called the Sozialversicherungsnummer, Versicherungsnummer, Versichertennummer, Rentenversicherungsnummer or RNVR.
 
 If you need to have your social security number sooner than that (e.g your employer is requesting it), you can send an email (or call) your health insurance provider (e.g: TK) and ask for this number.
 

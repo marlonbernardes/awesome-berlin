@@ -2,7 +2,7 @@
 
 ## 사회 보장 번호 받기
 
-건강 보험 신청 후 몇 주(2~4주)가 지난 후, 메일로 사회 보장 번호를 받을 것입니다. 이 번호는 Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer 또는 RNVR이라고 불립니다. 
+건강 보험 신청 후 몇 주(2~4주)가 지난 후, 메일로 사회 보장 번호를 받을 것입니다. 이 번호는 Sozialversicherungsnummer, Versicherungsnummer, Versichertennummer, Rentenversicherungsnummer 또는 RNVR이라고 불립니다. 
 
 만약 사회 보장번호를 좀 더 빨리 얻어야한다면(예를 들어 고용주/회사가 요청하는 경우 등이요), 건강 보험 제공측(TK 등)에 메일이나 전화로 연락하여 요청할 수 있습니다.  
 
