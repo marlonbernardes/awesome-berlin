@@ -26,6 +26,7 @@
   ],
   "devDependencies": {
     "gitbook-cli": "^2.3.0",
+    "graceful-fs": "^4.2.6",
     "request": "^2.81.0",
     "rimraf": "^2.5.4"
   }
