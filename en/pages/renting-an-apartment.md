@@ -7,7 +7,7 @@ There are some necessary documents to put in a valid application for an apartmen
   - Last three payslip or the employment agreement (or other document), that can prove your monthly income
   - *Mietschuldenfreiheitsbescheinigung* [1] - it’s the document that proves you don’t have any debt with your previous landlord
   - ID - Identification Document - the passport with the visa
-  - SCHUFA - it’s a document that proves you have no unpaid debts and gives you a trustworthiness score. [You can get a SCHUFA for free](http://allaboutberlin.com/guides/free-schufa-berlin), but if you need it now, you can get one from Postbank and Volksbank branches.
+  - SCHUFA - it’s a document that proves you have no unpaid debts and gives you a trustworthiness score. [You can get a SCHUFA for free](http://allaboutberlin.com/guides/free-schufa-berlin), but if you need it now, you can get one from Postbank and Volksbank branches or even buy it online on platforms like [immobilienscount24.de](https://www.immobilienscout24.de/)
   - Amtliche Meldebestätigung für die Anmeldung - it’s the confirmation of your residence registration. It's also called the Meldebescheinigung.
   - Some landlords/real estate agencies will require the residency visa or a proof that will get an insurance to protect you in case of any accidents in the apartment
 
