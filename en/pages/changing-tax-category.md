@@ -23,7 +23,7 @@ Married couples have two options when selecting the tax category:
 
 If you and your spouse/partner were automatically assigned to the tax category IV but one of you does not have an income, it might be a good idea to change the tax class of you to III and V. Since the tax rate for category III is lower than for the category V, assigning the member of the couple with the higher salary to this category will increase your family's net income.
 
-Access the website [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) and play around with the tax category to see how it affects your net income per month.
+Access the website [German Wage Tax Calculator](https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php) and play around with the tax category to see how it affects your net income per month.
 
 Anyway, if you want to change the tax category you need to perform the following steps:
  - Obtain the form *Steuerklassenwechsel** (download [here](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/lohn-und-einkommensteuer/antrag_auf_steuerklassenwechsel_f__r_eheleute.pdf) OR get it directly at the Finanzamt.
