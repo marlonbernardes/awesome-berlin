@@ -20,6 +20,6 @@ If you have already completed the above steps before, but then lost the number, 
 ### Tips
 
  - Do not confuse the Steueridentifikationsnummer (Tax Id) with the Steuernummer. The latter is something totally different used by freelancers. [This guide](http://allaboutberlin.com/guides/german-tax-id-steuernummer) explains the difference.
- - If you decide to go to the Finanzamt, take this opportunity to find out your tax category. If you are married (and your spouse/civil partner) does not have an income, it might be a good idea to change the tax category for both of you, as this might increase your net income per month. Please refer to the website [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) to understand how your tax category affect your monthly income. You can click [here](./changing-tax-category.md) to find out how to change your tax class.
+ - If you decide to go to the Finanzamt, take this opportunity to find out your tax category. If you are married (and your spouse/civil partner) does not have an income, it might be a good idea to change the tax category for both of you, as this might increase your net income per month. Please refer to the website [German Wage Tax Calculator](https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php) to understand how your tax category affect your monthly income. You can click [here](./changing-tax-category.md) to find out how to change your tax class.
 
 

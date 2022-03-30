@@ -22,6 +22,6 @@ Tax ID ( *Steueridentifikationsnumber*, *Identifikationsnummer*, 또는 *Steuer-
 ### Tips
 
  - Steueridentifikationsnummer (Tax Id)와 Steuernummer를 헷갈리지 않도록 주의하세요. 후자의 경우 완전히 다르게, 프리랜서에게 사용되는 번호입니다. [가이드](http://allaboutberlin.com/guides/german-tax-id-steuernummer) 에서 어떻게 다른지 설명을 보실 수 있어요.
- - 만약 Finanzamt에 직접 방문하기로 한다면, 당신의 세금 클래스를 확인해보세요. 만약 당신이 기혼자고 당신의 배우자(또는 결혼과 비슷한 법적 관계인 사람이) 수입이 없을 경우 두 분의 세금 클래스를 바꾼다면 세후 월급이 늘어날 수도 있어요. 여기 웹사이트를 참고해주세요. [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) 세금 클래스가 어떻게 월급에 영향을 끼치는지 확인할 수 있답니다.  세금 클래스를 어떻게 변경하는지 확인하기 위해서는 [여기](./changing-tax-category.md) 를 클릭해주세요. 
+ - 만약 Finanzamt에 직접 방문하기로 한다면, 당신의 세금 클래스를 확인해보세요. 만약 당신이 기혼자고 당신의 배우자(또는 결혼과 비슷한 법적 관계인 사람이) 수입이 없을 경우 두 분의 세금 클래스를 바꾼다면 세후 월급이 늘어날 수도 있어요. 여기 웹사이트를 참고해주세요. [German Wage Tax Calculator](https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php) 세금 클래스가 어떻게 월급에 영향을 끼치는지 확인할 수 있답니다.  세금 클래스를 어떻게 변경하는지 확인하기 위해서는 [여기](./changing-tax-category.md) 를 클릭해주세요. 
 
 

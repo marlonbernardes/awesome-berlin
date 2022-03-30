@@ -23,7 +23,7 @@
 
 만약 방신과 당신의 파트너가 자동적으로 IV구간에 배정되었는데, 한 분은 수입이 없다면 구간을 III 이나 V로 바꿔달라고 하는 게 맞습니다. 세금 구간 III 에서 V보다 세금을 덜 떼가기 때문에, 수입이 높은 사람을 이 구간으로 등록하게 되면 세후 소득이 훨씬 늘어나겠죠.
 
-웹사이트 [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) 에 들어가서 세금 구간별로 얼마나 세후소득에 차이를 주는지 알아보는게 좋습니다.
+웹사이트 [German Wage Tax Calculator](https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php) 에 들어가서 세금 구간별로 얼마나 세후소득에 차이를 주는지 알아보는게 좋습니다.
 
 어쨌든, 세금구간을 바꾸려면 아래와 같은 절차가 필요합니다. :
  - *Steuerklassenwechsel** 폼 채우기 (download [here](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/lohn-und-einkommensteuer/antrag_auf_steuerklassenwechsel_f__r_eheleute.pdf) 혹은 공관(Finanzamt) 가서 직접 쓰기.
