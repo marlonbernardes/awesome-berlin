@@ -39,9 +39,10 @@ It offers 100% of its banking experience in English.
 
 ING-DiBa AG is a subsidiary of the Dutch multinational ING Group. It's also an online bank with no physical branches. Opening an account costs nothing but it may take from one to two weeks. The bank offers a Giro and Visa card with no yearly fees. You can use your VISA card to withdraw for free in any European country. If you have a partner they can also have extra cards for. Interested? Start [here](https://produkte.banking.ing-diba.de/pub/girokonto-einzelkonto).
 
-### Transferwise Borderless Account
+### Wise
 This is the fastest and least bureaucratic option. All you need is a passport and an address to send the card to. In less than a week you will have a German debit card and a bank account. Transferwise's limits and fees are among the best in the industry (including for international transfers, outside Europe), but always worth it [CHECK OUT](https://transferwise.com/help/13/understanding-fees-and-rates)
 - Visit the [Transferwise](https://transferwise.com/register#/) website sign up and follow the onscreen steps.
 
 ### Other Options
 - [Revolut](https://www.revolut.com)
+- [List of expat-friendly banks](https://allaboutberlin.com/guides/first-bank-account-in-germany#german-banks-for-expats). These banks have easier requirements for recent immigrants. For example, they might not require a registered address, or might accept more passport types. Other banks simply refuse people that don't have a residence permit or even permanent residency.
