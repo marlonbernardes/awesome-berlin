@@ -1,5 +1,32 @@
 # Working in Germany
 
+## Where to look for jobs
+
+* [How to find a job in Berlin](https://allaboutberlin.com/guides/find-a-job-in-berlin)
+* [German Tech Jobs](https://germantechjobs.de/) - tech job board with advanced filters
+
+## Taxes and social contributions
+
+Your net income (Netto) is about 65% of your gross income (Brutto). Use [this tax calculator](https://allaboutberlin.com/calculators/tax-calculator) to know where your paycheque goes. Knowing how much money you keep is important when negotiating a fair salary.
+
+## Probation period
+
+Most jobs have a 6 month probation period (Probezeit). During that period, it's easier to lose your job. While you are on your probation period, it might be harder to find an apartment or get a loan.
+
+## Work culture
+
+German work culture is fairly relaxed. People take time off when necessary, and are rarely reachable when they are not at the office.
+
+## Visas and residence permits
+
+If you are not a EU or EEA citizen or permanent resident, you need a residence permit to work in Germany. This includes the work visa and the Blue Card, but there are many other options.
+
+Getting a residence permit takes 8-12 weeks on average. During that time, you can't work. You must account for this when planning your move to Germany.
+
+### Useful links
+
+* [How to get a work visa or Blue Card in Germany](https://allaboutberlin.com/guides/german-work-visa)
+
 ## Getting your social security number
 
 Some weeks (2-4) after you apply for a health insurance you should receive your social security number by mail. This number is called the Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer or RNVR.
